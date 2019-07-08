@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Fishy</string>
+    <string name="answer_a">Answer A</string>
+    <string name="answer_b">Answer B</string>
+    <string name="answer_c">Answer C</string>
+    <string name="next">Next</string>
+    <string name="progressText">100%</string>
+</resources>
