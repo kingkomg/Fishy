@@ -12,7 +12,7 @@
             android:layout_width="0dp"
             android:layout_height="0dp"
             android:id="@+id/progressBar"
-            app:layout_constraintStart_toStartOf="@+id/textView" app:layout_constraintEnd_toStartOf="@+id/buttonReset"
+            app:layout_constraintStart_toStartOf="@+id/questionText" app:layout_constraintEnd_toStartOf="@+id/buttonReset"
             android:layout_marginEnd="10dp"
             app:layout_constraintBottom_toBottomOf="@+id/buttonReset"
             app:layout_constraintHorizontal_bias="0.0" app:layout_constraintTop_toTopOf="@+id/buttonReset"/>
@@ -20,55 +20,56 @@
             android:text="@string/progressText"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:id="@+id/textViewProgress"
+            android:id="@+id/progressText"
             app:layout_constraintBottom_toBottomOf="@+id/progressBar"
             app:layout_constraintTop_toTopOf="@+id/progressBar" app:layout_constraintEnd_toEndOf="@+id/progressBar"
             app:layout_constraintStart_toStartOf="@+id/progressBar"/>
     <TextView
             android:layout_width="0dp"
-            android:text="Hello World!"
             app:layout_constraintLeft_toLeftOf="parent"
             app:layout_constraintRight_toRightOf="parent"
-            app:layout_constraintHorizontal_bias="0.483" android:id="@+id/textView"
+            app:layout_constraintHorizontal_bias="0.483" android:id="@+id/questionText"
             android:layout_marginLeft="10dp" android:layout_marginRight="10dp" android:layout_marginBottom="10dp"
             app:layout_constraintBottom_toTopOf="@+id/buttonA" android:layout_height="0dp"
             android:layout_marginTop="8dp" app:layout_constraintTop_toBottomOf="@+id/buttonReset"/>
     <Button
             android:text="@string/answer_a"
             android:layout_width="0dp"
-            android:layout_height="120dp"
-            android:id="@+id/buttonA" app:layout_constraintEnd_toEndOf="@+id/textView"
-            app:layout_constraintStart_toStartOf="@+id/textView"
+            android:layout_height="80dp"
+            android:id="@+id/buttonA" app:layout_constraintEnd_toEndOf="@+id/questionText"
+            app:layout_constraintStart_toStartOf="@+id/questionText"
             android:layout_marginBottom="10dp"
-            app:layout_constraintBottom_toTopOf="@+id/buttonB"/>
+            app:layout_constraintBottom_toTopOf="@+id/buttonB" android:onClick="onClick"/>
     <Button
             android:text="@string/answer_b"
             android:layout_width="0dp"
-            android:layout_height="120dp"
-            android:id="@+id/buttonB" app:layout_constraintEnd_toEndOf="@+id/textView"
-            app:layout_constraintStart_toStartOf="@+id/textView" app:layout_constraintHorizontal_bias="0.0"
-            android:layout_marginBottom="10dp" app:layout_constraintBottom_toTopOf="@+id/buttonC"/>
+            android:layout_height="80dp"
+            android:id="@+id/buttonB" app:layout_constraintEnd_toEndOf="@+id/questionText"
+            app:layout_constraintStart_toStartOf="@+id/questionText" app:layout_constraintHorizontal_bias="0.0"
+            android:layout_marginBottom="10dp" app:layout_constraintBottom_toTopOf="@+id/buttonC"
+            android:onClick="onClick"/>
     <Button
             android:text="@string/answer_c"
             android:layout_width="0dp"
-            android:layout_height="120dp"
-            android:id="@+id/buttonC" app:layout_constraintEnd_toEndOf="@+id/textView"
-            app:layout_constraintStart_toStartOf="@+id/textView" app:layout_constraintHorizontal_bias="0.0"
-            android:layout_marginBottom="10dp" app:layout_constraintBottom_toTopOf="@+id/buttonNext"/>
+            android:layout_height="80dp"
+            android:id="@+id/buttonC" app:layout_constraintEnd_toEndOf="@+id/questionText"
+            app:layout_constraintStart_toStartOf="@+id/questionText" app:layout_constraintHorizontal_bias="0.0"
+            android:layout_marginBottom="10dp" app:layout_constraintBottom_toTopOf="@+id/buttonNext"
+            android:onClick="onClick"/>
     <Button
             android:text="@string/next"
             android:layout_width="0dp"
-            android:layout_height="120dp"
-            android:id="@+id/buttonNext" app:layout_constraintEnd_toEndOf="@+id/textView"
-            app:layout_constraintStart_toStartOf="@+id/textView" app:layout_constraintHorizontal_bias="0.0"
+            android:layout_height="80dp"
+            android:id="@+id/buttonNext" app:layout_constraintEnd_toEndOf="@+id/questionText"
+            app:layout_constraintStart_toStartOf="@+id/questionText" app:layout_constraintHorizontal_bias="0.0"
             android:layout_marginBottom="10dp" app:layout_constraintBottom_toBottomOf="parent"
-    />
+            android:onClick="onClick"/>
     <Button
-            android:text="x"
+            android:text="@string/resetText"
             android:layout_width="41dp"
             android:layout_height="41dp"
             android:id="@+id/buttonReset"
-            app:layout_constraintEnd_toEndOf="@+id/textView"
-            android:layout_marginTop="10dp" app:layout_constraintTop_toTopOf="parent"/>
+            app:layout_constraintEnd_toEndOf="@+id/questionText"
+            android:layout_marginTop="10dp" app:layout_constraintTop_toTopOf="parent" android:onClick="onClick"/>
 
 </android.support.constraint.ConstraintLayout>

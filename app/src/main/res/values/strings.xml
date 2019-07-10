@@ -5,4 +5,5 @@
     <string name="answer_c">Answer C</string>
     <string name="next">Next</string>
     <string name="progressText">100%</string>
+    <string name="resetText">x</string>
 </resources>
