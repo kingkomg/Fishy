@@ -1,0 +1,30 @@
+{
+  "save": [
+    {
+      "questionId": 0,
+      "answeredCorrect": 7
+    },
+    {
+      "questionId": 0,
+      "answeredCorrect": 5
+    }
+  ],
+  "correct": [
+    {
+      "questionId": 0,
+      "answeredCorrect": 4
+    },
+    {
+      "questionId": 0,
+      "answeredCorrect": 1
+    }
+  ],
+  "wrong": [
+    {
+      "questionId": 0,
+      "answeredCorrect": 0
+    }
+  ],
+  "new": [
+  ]
+}
