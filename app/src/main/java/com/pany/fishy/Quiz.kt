@@ -10,7 +10,7 @@ import com.google.gson.reflect.TypeToken
 class Quiz {
   lateinit var questions: List<Question>
   lateinit var progress: Progress
-  lateinit var question: Question
+  lateinit var question: RandomQuestion
 
   fun loadData(resources: Resources) {
     questions = loadQuestions(resources)
@@ -28,8 +28,12 @@ class Quiz {
     return Gson().fromJson(text, Progress::class.java)
   }
 
-  fun resetProgress() {
-    // move all ids to list "new" and update progress
+  fun setNextQuestion() {
+    question = RandomQuestion(questions.get(0), 0)
+    // get first new if new list is not empty
+    // else
+    // get random list
+    // get random question id from list - state
   }
 
   fun updateProgress(view: View) {
@@ -38,16 +42,8 @@ class Quiz {
     // update ui elements
   }
 
-  fun getNextQuestion() {
-    // get first new if new list is not empty
-    // else
-    // get random list
-    // get random question id from list - state
-  }
-
-  fun checkAnswer(id: Int) {
-    // check answer
-    // move id in lists (sure = 5x correct, correct 1x-4x, new, wrong)
+  fun resetProgress() {
+    // move all ids to list "new" and update progress
   }
 
 

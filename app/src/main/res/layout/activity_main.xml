@@ -12,7 +12,8 @@
             android:layout_width="0dp"
             android:layout_height="0dp"
             android:id="@+id/progressBar"
-            app:layout_constraintStart_toStartOf="@+id/questionText" app:layout_constraintEnd_toStartOf="@+id/buttonReset"
+            app:layout_constraintStart_toStartOf="@+id/questionText"
+            app:layout_constraintEnd_toStartOf="@+id/buttonReset"
             android:layout_marginEnd="10dp"
             app:layout_constraintBottom_toBottomOf="@+id/buttonReset"
             app:layout_constraintHorizontal_bias="0.0" app:layout_constraintTop_toTopOf="@+id/buttonReset"/>
@@ -39,7 +40,8 @@
             android:id="@+id/buttonA" app:layout_constraintEnd_toEndOf="@+id/questionText"
             app:layout_constraintStart_toStartOf="@+id/questionText"
             android:layout_marginBottom="10dp"
-            app:layout_constraintBottom_toTopOf="@+id/buttonB" android:onClick="onClick"/>
+            app:layout_constraintBottom_toTopOf="@+id/buttonB"
+            android:onClick="onClick"/>
     <Button
             android:text="@string/answer_b"
             android:layout_width="0dp"
