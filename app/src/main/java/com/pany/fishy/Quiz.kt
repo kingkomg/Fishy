@@ -5,11 +5,14 @@ import android.content.res.Resources
 import android.view.View
 import com.google.gson.Gson
 import com.google.gson.reflect.TypeToken
+import com.pany.fishy.data.Progress
+import com.pany.fishy.data.Question
+import com.pany.fishy.data.RandomQuestion
 
 
 class Quiz {
-  lateinit var questions: List<Question>
-  lateinit var progress: Progress
+  private lateinit var questions: List<Question>
+  private lateinit var progress: Progress
   lateinit var question: RandomQuestion
 
   fun loadData(resources: Resources) {
@@ -46,5 +49,8 @@ class Quiz {
     // move all ids to list "new" and update progress
   }
 
+  fun getRandomQuestionId() {
+
+  }
 
 }

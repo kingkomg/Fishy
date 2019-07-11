@@ -8,12 +8,11 @@ import android.widget.TextView
 
 class MainActivity : AppCompatActivity(), View.OnClickListener {
 
-  lateinit var quiz: Quiz
-
-  lateinit var textView: TextView
-  lateinit var buttonNext: Button
-  lateinit var buttonReset: Button
-  var buttons = listOf<Button>()
+  private lateinit var quiz: Quiz
+  private lateinit var textView: TextView
+  private lateinit var buttonNext: Button
+  private lateinit var buttonReset: Button
+  private var buttons = listOf<Button>()
 
   override fun onCreate(savedInstanceState: Bundle?) {
     super.onCreate(savedInstanceState)

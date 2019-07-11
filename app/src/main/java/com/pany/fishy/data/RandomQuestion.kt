@@ -1,4 +1,4 @@
-package com.pany.fishy
+package com.pany.fishy.data
 
 class RandomQuestion(question: Question, id: Int) {
   var id: Int

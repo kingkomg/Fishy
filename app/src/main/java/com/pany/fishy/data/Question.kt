@@ -1,4 +1,4 @@
-package com.pany.fishy
+package com.pany.fishy.data
 
 data class Question(
   val questionText:String,
