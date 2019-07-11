@@ -5,6 +5,7 @@ import android.support.v7.app.AppCompatActivity
 import android.view.View
 import android.widget.Button
 import android.widget.TextView
+import java.io.File
 
 class MainActivity : AppCompatActivity(), View.OnClickListener {
 
@@ -42,32 +43,37 @@ class MainActivity : AppCompatActivity(), View.OnClickListener {
 
   fun startQuiz() {
     quiz = Quiz()
-    quiz.loadData(resources)
+    quiz.loadQuestions(resources.openRawResource(R.raw.questions).bufferedReader().use { it.readText() })
+    quiz.loadProgress(File(baseContext.filesDir, "progress"))
     initQuestion()
   }
 
   fun checkAnswer(selected: Int) {
     setAnswerButtonClickablity(false)
-    val correct = quiz.question.correctAnswer
 
+    val correct = quiz.evaluate(selected)
     if (correct == selected) {
       setButtonColor(buttons[selected], android.R.color.holo_green_light)
     } else {
       setButtonColor(buttons[selected], android.R.color.holo_red_light)
       setButtonColor(buttons[correct], android.R.color.holo_green_light)
     }
-    // move id in lists (sure = 5x correct, correct 1x-4x, new, wrong)
-    // serialize lists
+
+    quiz.saveProgress(File(baseContext.filesDir, "progress"))
   }
 
   fun initQuestion() {
-    quiz.setNextQuestion()
-
-    textView.text = quiz.question.questionText
+    textView.text = quiz.getNextQuestion().questionText
     setAnswerButtonClickablity(true)
     setButtonColor(buttons[0], android.R.color.white)
     setButtonColor(buttons[1], android.R.color.white)
     setButtonColor(buttons[2], android.R.color.white)
+  }
+
+  fun updateProgress(view: View) {
+    // calculate percentage of correct answers
+    // save lists
+    // update ui elements
   }
 
   fun setButtonColor(button: Button, color: Int) {
