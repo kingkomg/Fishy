@@ -79,11 +79,18 @@ class Quiz {
     return randomQuestion
   }
 
+  fun getCorrectPercent(): Int {
+    val corrects = progress.save.size.plus(progress.correct.size)
+    val wrongs = progress.wrong.size.plus(progress.new.size)
+    return 100 / (wrongs.plus(corrects)) * corrects
+  }
+
   fun saveProgress(file: File) {
     file.writeText(Gson().toJson(progress))
   }
 
   fun resetProgress(file: File) {
     file.writeText("")
+    loadProgress(file)
   }
 }

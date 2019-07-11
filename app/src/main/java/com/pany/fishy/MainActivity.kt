@@ -4,6 +4,7 @@ import android.os.Bundle
 import android.support.v7.app.AppCompatActivity
 import android.view.View
 import android.widget.Button
+import android.widget.ProgressBar
 import android.widget.TextView
 import java.io.File
 
@@ -11,6 +12,8 @@ class MainActivity : AppCompatActivity(), View.OnClickListener {
 
   private lateinit var quiz: Quiz
   private lateinit var textView: TextView
+  private lateinit var progressText: TextView
+  private lateinit var progressBar: ProgressBar
   private lateinit var buttonNext: Button
   private lateinit var buttonReset: Button
   private lateinit var buttons: List<Button>
@@ -21,6 +24,8 @@ class MainActivity : AppCompatActivity(), View.OnClickListener {
     setContentView(R.layout.activity_main)
 
     textView = findViewById(R.id.questionText)
+    progressText = findViewById(R.id.progressText)
+    progressBar = findViewById(R.id.progressBar)
     buttonNext = findViewById(R.id.buttonNext)
     buttonReset = findViewById(R.id.buttonReset)
     buttons = listOf(
@@ -40,7 +45,7 @@ class MainActivity : AppCompatActivity(), View.OnClickListener {
       R.id.buttonB -> checkAnswer(1)
       R.id.buttonC -> checkAnswer(2)
       R.id.buttonNext -> initQuestion()
-      R.id.buttonReset -> quiz.resetProgress(progressFile)
+      R.id.buttonReset -> resetProgress()
     }
   }
 
@@ -61,7 +66,7 @@ class MainActivity : AppCompatActivity(), View.OnClickListener {
       setButtonColor(buttons[selected], android.R.color.holo_red_light)
       setButtonColor(buttons[correct], android.R.color.holo_green_light)
     }
-
+    updateProgress()
     quiz.saveProgress(progressFile)
   }
 
@@ -77,10 +82,14 @@ class MainActivity : AppCompatActivity(), View.OnClickListener {
     buttons[2].text = nextQuestion.answerC
   }
 
-  fun updateProgress(view: View) {
-    // calculate percentage of correct answers
-    // save lists
-    // update ui elements
+  fun resetProgress() {
+    quiz.resetProgress(progressFile)
+    updateProgress()
+  }
+
+  fun updateProgress() {
+    progressText.text = quiz.getCorrectPercent().toString()
+    progressBar.progress = quiz.getCorrectPercent()
   }
 
   fun setButtonColor(button: Button, color: Int) {
