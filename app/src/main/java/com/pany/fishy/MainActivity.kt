@@ -45,12 +45,10 @@ class MainActivity : AppCompatActivity(), View.OnClickListener {
     quiz = Quiz()
     quiz.loadData(resources)
     initQuestion()
-
-//    updateProgress(view)
-//    initQuestion(view)
   }
 
   fun checkAnswer(selected: Int) {
+    setAnswerButtonClickablity(false)
     val correct = quiz.question.correctAnswer
 
     if (correct == selected) {
@@ -59,9 +57,7 @@ class MainActivity : AppCompatActivity(), View.OnClickListener {
       setButtonColor(buttons[selected], android.R.color.holo_red_light)
       setButtonColor(buttons[correct], android.R.color.holo_green_light)
     }
-    // disable buttons
     // move id in lists (sure = 5x correct, correct 1x-4x, new, wrong)
-
     // serialize lists
   }
 
@@ -69,14 +65,19 @@ class MainActivity : AppCompatActivity(), View.OnClickListener {
     quiz.setNextQuestion()
 
     textView.text = quiz.question.questionText
+    setAnswerButtonClickablity(true)
     setButtonColor(buttons[0], android.R.color.white)
     setButtonColor(buttons[1], android.R.color.white)
     setButtonColor(buttons[2], android.R.color.white)
-
-    // enable buttons
   }
 
   fun setButtonColor(button: Button, color: Int) {
     button.setBackgroundColor(resources.getColor(color, this.theme))
+  }
+
+  fun setAnswerButtonClickablity(clickable: Boolean) {
+    buttons[0].isClickable = clickable
+    buttons[1].isClickable = clickable
+    buttons[2].isClickable = clickable
   }
 }
