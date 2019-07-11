@@ -7,6 +7,7 @@ import com.pany.fishy.data.Progress
 import com.pany.fishy.data.Question
 import com.pany.fishy.data.RandomQuestion
 import java.io.File
+import kotlin.random.Random
 
 
 class Quiz {
@@ -34,33 +35,55 @@ class Quiz {
 
   fun evaluate(selected: Int): Int {
     if (selected == randomQuestion.correctAnswer) {
-      progress.moveCorrect(selected)
+      progress.moveCorrect(randomQuestion.id)
     } else {
-      progress.moveWrong(selected)
+      progress.moveWrong(randomQuestion.id)
     }
     return randomQuestion.correctAnswer
   }
 
   fun getNextQuestion(): RandomQuestion {
-    val questionId = progress.new[0]
+    var questionId = 0
+    if (progress.new.isNotEmpty()) {
+      questionId = progress.new[0]
+    } else {
+      val listId = Random.nextInt(0, 100)
+      when {
+        progress.wrong.isNotEmpty() && listId < 60 -> {
+          val questionNumber = if (progress.wrong.size == 1) {
+            0
+          } else {
+            Random.nextInt(0, progress.wrong.size - 1)
+          }
+          questionId = progress.wrong[questionNumber]
+        }
+        progress.correct.isNotEmpty() && listId < 90 -> {
+          val questionNumber = if (progress.correct.size == 1) {
+            0
+          } else {
+            Random.nextInt(0, progress.correct.size - 1)
+          }
+          questionId = progress.correct.keys.toIntArray()[questionNumber]
+        }
+        progress.save.isNotEmpty() -> {
+          val questionNumber = if (progress.save.size == 1) {
+            0
+          } else {
+            Random.nextInt(0, progress.save.size - 1)
+          }
+          questionId = progress.save[questionNumber]
+        }
+      }
+    }
     randomQuestion = RandomQuestion(questions[questionId] ?: error("not found"), questionId)
     return randomQuestion
-// get first new if new list is not empty
-// else
-// get random list
-// get random question id from list - state
   }
 
   fun saveProgress(file: File) {
     file.writeText(Gson().toJson(progress))
   }
 
-  fun resetProgress() {
-    // move all ids to list "new" and update progress
+  fun resetProgress(file: File) {
+    file.writeText("")
   }
-
-  fun getRandomQuestionId() {
-
-  }
-
 }

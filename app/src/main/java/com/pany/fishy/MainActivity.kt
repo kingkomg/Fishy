@@ -13,7 +13,8 @@ class MainActivity : AppCompatActivity(), View.OnClickListener {
   private lateinit var textView: TextView
   private lateinit var buttonNext: Button
   private lateinit var buttonReset: Button
-  private var buttons = listOf<Button>()
+  private lateinit var buttons: List<Button>
+  private lateinit var progressFile: File
 
   override fun onCreate(savedInstanceState: Bundle?) {
     super.onCreate(savedInstanceState)
@@ -28,6 +29,8 @@ class MainActivity : AppCompatActivity(), View.OnClickListener {
       findViewById(R.id.buttonC)
     )
 
+    progressFile = File(baseContext.filesDir, "progress")
+
     startQuiz()
   }
 
@@ -37,7 +40,7 @@ class MainActivity : AppCompatActivity(), View.OnClickListener {
       R.id.buttonB -> checkAnswer(1)
       R.id.buttonC -> checkAnswer(2)
       R.id.buttonNext -> initQuestion()
-      R.id.buttonReset -> quiz.resetProgress()
+      R.id.buttonReset -> quiz.resetProgress(progressFile)
     }
   }
 
@@ -59,7 +62,7 @@ class MainActivity : AppCompatActivity(), View.OnClickListener {
       setButtonColor(buttons[correct], android.R.color.holo_green_light)
     }
 
-    quiz.saveProgress(File(baseContext.filesDir, "progress"))
+    quiz.saveProgress(progressFile)
   }
 
   fun initQuestion() {
