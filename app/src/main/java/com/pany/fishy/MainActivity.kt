@@ -66,11 +66,15 @@ class MainActivity : AppCompatActivity(), View.OnClickListener {
   }
 
   fun initQuestion() {
-    textView.text = quiz.getNextQuestion().questionText
+    val nextQuestion = quiz.getNextQuestion()
+    textView.text = nextQuestion.questionText
     setAnswerButtonClickablity(true)
     setButtonColor(buttons[0], android.R.color.white)
+    buttons[0].text = nextQuestion.answerA
     setButtonColor(buttons[1], android.R.color.white)
+    buttons[1].text = nextQuestion.answerB
     setButtonColor(buttons[2], android.R.color.white)
+    buttons[2].text = nextQuestion.answerC
   }
 
   fun updateProgress(view: View) {
