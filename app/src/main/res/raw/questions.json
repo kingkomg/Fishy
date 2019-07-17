@@ -1,32 +1,3602 @@
 {
   "0": {
-    "questionText": "question1",
-    "answerA": "answerA",
-    "answerB": "answerB",
-    "answerC": "answerC"
+    "questionText": "Die meisten einheimischen Süßwasserfische gehören zu den ...?",
+    "answerA": "Knochenfischen",
+    "answerB": "Knorpelfischen",
+    "answerC": "Rundmäulern"
   },
   "1": {
-    "questionText": "question2",
-    "answerA": "answerA",
-    "answerB": "answerB",
-    "answerC": "answerC"
+    "questionText": "Wozu dienen die Barteln?",
+    "answerA": "Als Geschmacks- und Tastorgan",
+    "answerB": "Zur Fortbewegung",
+    "answerC": "Als Fresswerkzeuge"
   },
   "2": {
-    "questionText": "question3",
-    "answerA": "answerA",
-    "answerB": "answerB",
-    "answerC": "answerC"
+    "questionText": "Augen sind wichtig für den Beutefang. Bei welcher Fischart besonders?",
+    "answerA": "Hecht",
+    "answerB": "Aal",
+    "answerC": "Wels"
   },
   "3": {
-    "questionText": "question4",
-    "answerA": "answerA",
-    "answerB": "answerB",
-    "answerC": "answerC"
+    "questionText": "Wo befindet sich das Herz beim Fisch?",
+    "answerA": "In kehlständiger Lage",
+    "answerB": "Oberhalb der Niere",
+    "answerC": "Am hinteren Teil der Schwimmblase"
   },
   "4": {
-    "questionText": "question5",
-    "answerA": "answerA",
-    "answerB": "answerB",
-    "answerC": "answerC"
+    "questionText": "Wie werden die Atmungsorgane unserer heimischen Fische bezeichnet?",
+    "answerA": "Kiemen",
+    "answerB": "Lungen",
+    "answerC": "Schwimmblase"
+  },
+  "5": {
+    "questionText": "Welche Flosse ist das Hauptantriebsorgan der Fische?",
+    "answerA": "Schwanzflosse",
+    "answerB": "Bauchflosse",
+    "answerC": "Brustflosse"
+  },
+  "6": {
+    "questionText": "Was haben alle Salmoniden gemeinsam?",
+    "answerA": "Eine Fettflosse",
+    "answerB": "Ein unterständiges Maul",
+    "answerC": "Barteln"
+  },
+  "7": {
+    "questionText": "Der Karpfen gehört zu den ...?",
+    "answerA": "Knochenfischen",
+    "answerB": "Knorpelfischen",
+    "answerC": "Rundmäulern"
+  },
+  "8": {
+    "questionText": "Das Neunauge gehört zu den ...?",
+    "answerA": "Rundmäulern",
+    "answerB": "Knochenfischen",
+    "answerC": "Knorpelfischen"
+  },
+  "9": {
+    "questionText": "Die Schleimhaut eines Fisches ...",
+    "answerA": "schützt den Fisch vor äußeren Einflüssen.",
+    "answerB": "hält die Schuppen zusammen.",
+    "answerC": "sorgt für die Färbung des Fisches."
+  },
+  "10": {
+    "questionText": "Wozu dient dem Fisch die Seitenlinie?",
+    "answerA": "Als Sinnesorgan",
+    "answerB": "Sie hat keine besondere Funktion",
+    "answerC": "Zur Sauerstoffaufnahme"
+  },
+  "11": {
+    "questionText": "Woher haben die Neunaugen ihren Namen?",
+    "answerA": "Beim erwachsenen Tier werden je Körperseite sieben Kiemenöffnungen und die Nasenöffnung dem echten Auge zugerechnet.",
+    "answerB": "Die Tiere verfügen auf jeder Seite über acht Pigmentflecken und ein Auge.",
+    "answerC": "Die Tiere besitzen insgesamt neun Pigmentflecken."
+  },
+  "12": {
+    "questionText": "Worin unterscheidet sich die männliche von der weiblichen Äsche?",
+    "answerA": "Die männliche Äsche besitzt eine längere Rückenflosse",
+    "answerB": "Die männliche Äsche besitzt keine Brustflossen",
+    "answerC": "In der Zahnformel"
+  },
+  "13": {
+    "questionText": "Wie gut ist der Geruchssinn bei dem Aal ausgeprägt?",
+    "answerA": "Sehr gut",
+    "answerB": "Schlecht",
+    "answerC": "Mittelmäßig"
+  },
+  "14": {
+    "questionText": "Was versteht man unter einem Laichhaken?",
+    "answerA": "Hakenartige Verformung des Unterkiefers bei Milchnern der Lachsartigen",
+    "answerB": "Hilfsgerät zum Anlanden von laichreifen Fischen",
+    "answerC": "Gerät zum Beseitigen unerwünschter Laichnester"
+  },
+  "15": {
+    "questionText": "Welche Fische haben keinen Magen?",
+    "answerA": "Karausche, Schleie",
+    "answerB": "Hecht, Barsch",
+    "answerC": "Zander, Wels"
+  },
+  "16": {
+    "questionText": "Wieviel Bartfäden hat die Schleie?",
+    "answerA": "Zwei",
+    "answerB": "Keine",
+    "answerC": "Vier"
+  },
+  "17": {
+    "questionText": "Eingebettet in der Leber liegt ...?",
+    "answerA": "die Gallenblase",
+    "answerB": "der Magen",
+    "answerC": "die Niere"
+  },
+  "18": {
+    "questionText": "Die Besamung der Eier des Karpfens erfolgt ...?",
+    "answerA": "außerhalb des Körpers",
+    "answerB": "innerhalb des Körpers",
+    "answerC": "durch Selbstbefruchtung"
+  },
+  "19": {
+    "questionText": "Welche Fischart hat relativ kleine Augen?",
+    "answerA": "Wels",
+    "answerB": "Rotauge",
+    "answerC": "Rotfeder"
+  },
+  "20": {
+    "questionText": "Welche Fischart hat eine pfeilförmige Körperform?",
+    "answerA": "Hecht",
+    "answerB": "Plötze",
+    "answerC": "Aal"
+  },
+  "21": {
+    "questionText": "Welche Fischart hat eine Fettflosse?",
+    "answerA": "Regenbogenforelle",
+    "answerB": "Bitterling",
+    "answerC": "Barsch"
+  },
+  "22": {
+    "questionText": "Welche Fischart hat eine Fettflosse?",
+    "answerA": "Zwergwels",
+    "answerB": "Europäischer Wels",
+    "answerC": "Quappe"
+  },
+  "23": {
+    "questionText": "Welche Fischart lebt in der hauptsächlichen Abwachszeit im Süßwasser und laicht im Meer?",
+    "answerA": "Aal",
+    "answerB": "Lachs",
+    "answerC": "Quappe"
+  },
+  "24": {
+    "questionText": "Welche Fischart lebt in der hauptsächlichen Abwachszeit im Meer und laicht im Süßwasser?",
+    "answerA": "Lachs",
+    "answerB": "Koppe",
+    "answerC": "Barbe"
+  },
+  "25": {
+    "questionText": "Welcher cyprinidenartige Fisch ist im ausgewachsenen Alter ein Raubfisch?",
+    "answerA": "Rapfen",
+    "answerB": "Karpfen",
+    "answerC": "Schleie"
+  },
+  "26": {
+    "questionText": "Welche Fischart besitzt Stachelstrahlen in der ersten Rückenflosse?",
+    "answerA": "Barsch",
+    "answerB": "Forelle",
+    "answerC": "Kleine Maräne"
+  },
+  "27": {
+    "questionText": "Welche der genannten Arten besitzt keine Schuppen?",
+    "answerA": "Bachneunauge",
+    "answerB": "Moderlieschen",
+    "answerC": "Döbel"
+  },
+  "28": {
+    "questionText": "Welche der genannten Arten hat einen Saugmund mit Hornzähnen?",
+    "answerA": "Neunauge",
+    "answerB": "Steinbeißer",
+    "answerC": "Gründling"
+  },
+  "29": {
+    "questionText": "Welche Fische rauben hauptsächlich nachts, wenn das Sehvermögen eine nicht so große Rolle spielt?",
+    "answerA": "Wels, Aal",
+    "answerB": "Saibling, Lachs",
+    "answerC": "Hecht, Zander"
+  },
+  "30": {
+    "questionText": "Welche Fischart besitzt einen durch Verbindung von Afterflosse und Rückenflosse entstandenen Flossensaum?",
+    "answerA": "Aal",
+    "answerB": "Zwergwels",
+    "answerC": "Schmerle"
+  },
+  "31": {
+    "questionText": "Bei welcher im Süßwasser lebenden  Fischart trägt das Männchen ein überwiegend leuchtend rotes Hochzeitskleid?",
+    "answerA": "Dreistachliger Stichling",
+    "answerB": "Flussbarsch",
+    "answerC": "Rotbarsch"
+  },
+  "32": {
+    "questionText": "Welcher Fisch legt seine Eier in Muscheln ab?",
+    "answerA": "Bitterling",
+    "answerB": "Stichling",
+    "answerC": "Stint"
+  },
+  "33": {
+    "questionText": "Welcher Fisch besitzt während der Laichzeit giftigen Rogen?",
+    "answerA": "Barbe",
+    "answerB": "Karpfen",
+    "answerC": "Hecht"
+  },
+  "34": {
+    "questionText": "Welcher Fisch kann bei Sauerstoffmangel durch den Darm zusätzlich Sauerstoff aufnehmen?",
+    "answerA": "Schlammpeitzger",
+    "answerB": "Elritze",
+    "answerC": "Gründling"
+  },
+  "35": {
+    "questionText": "Wie unterscheidet sich der \"Zwergwels\" vom \"Europäischen Wels\"?",
+    "answerA": "Der Zwergwels hat eine Fettflosse.",
+    "answerB": "Die Schwanzflosse des Zwergwelses ist größer.",
+    "answerC": "Der Zwergwels hat keine Schwimmblase."
+  },
+  "36": {
+    "questionText": "Welcher Fisch im Land Brandenburg lebt im Freiwasser tiefer, klarer Seen?",
+    "answerA": "Maräne",
+    "answerB": "Schleie",
+    "answerC": "Karpfen"
+  },
+  "37": {
+    "questionText": "Welche Fischart bevorzugt nährstoffreiche Gewässer?",
+    "answerA": "Karpfen",
+    "answerB": "Bachforelle",
+    "answerC": "Mühlkoppe"
+  },
+  "38": {
+    "questionText": "Zu welcher Ordnung gehört die Quappe?",
+    "answerA": "Dorschartige",
+    "answerB": "Barschartige",
+    "answerC": "Karpfenartige"
+  },
+  "39": {
+    "questionText": "Welche Fischarten zählen zu den Laichräubern?",
+    "answerA": "Aal, Quappe",
+    "answerB": "Hecht, Zander",
+    "answerC": "Kleine Maräne, Stint"
+  },
+  "40": {
+    "questionText": "Welche Fischart verteidigt ihren Laichplatz?",
+    "answerA": "Zander",
+    "answerB": "Hecht",
+    "answerC": "Karpfen"
+  },
+  "41": {
+    "questionText": "Zu der Familie der Karpfenfische (Cyprinidae) gehören ...?",
+    "answerA": "Gründling, Döbel, Rotfeder",
+    "answerB": "Aal, Hecht, Maräne",
+    "answerC": "Schlammpeitzger, Schmerle, Steinbeißer"
+  },
+  "42": {
+    "questionText": "Zu der Familie der Lachse (Salmonidae) gehören ...?",
+    "answerA": "Bachforelle, Bachsaibling",
+    "answerB": "Zander, Kaulbarsch, Flussbarsch",
+    "answerC": "Gründling, Barbe, Elritze"
+  },
+  "43": {
+    "questionText": "Wie ist die Maulstellung beim Döbel?",
+    "answerA": "Endständig",
+    "answerB": "Unterständig",
+    "answerC": "Oberständig"
+  },
+  "44": {
+    "questionText": "Welcher einheimische Fisch kann sein Maul rüsselartig vorstülpen?",
+    "answerA": "Karpfen",
+    "answerB": "Kleine Maräne",
+    "answerC": "Hecht"
+  },
+  "45": {
+    "questionText": "Welcher Fisch hat einen gekielten Bauch?",
+    "answerA": "Rotfeder",
+    "answerB": "Quappe",
+    "answerC": "Bachforelle"
+  },
+  "46": {
+    "questionText": "Bei welcher Fischart ist die Schwanzflosse gerundet?",
+    "answerA": "Quappe",
+    "answerB": "Aal",
+    "answerC": "Zander"
+  },
+  "47": {
+    "questionText": "Welche Fischart ist hochrückig?",
+    "answerA": "Blei",
+    "answerB": "Döbel",
+    "answerC": "Barbe"
+  },
+  "48": {
+    "questionText": "Welche Flosse hat keine Flossenstrahlen?",
+    "answerA": "Die Fettflosse der Bachforelle.",
+    "answerB": "Die Rückenflosse des Zanders.",
+    "answerC": "Die Rückenflosse des Flussbarsches."
+  },
+  "49": {
+    "questionText": "Welcher Fisch hat einen geringen Fettgehalt im Fleisch?",
+    "answerA": "Hecht",
+    "answerB": "Karpfen",
+    "answerC": "Aal"
+  },
+  "50": {
+    "questionText": "Welcher Fisch betreibt Brutpflege?",
+    "answerA": "Koppe",
+    "answerB": "Karpfen",
+    "answerC": "Maräne"
+  },
+  "51": {
+    "questionText": "Welche Fischart besitzt keine Stachelstrahlen im ersten Teil der Rückenflosse?",
+    "answerA": "Hecht",
+    "answerB": "Zander",
+    "answerC": "Flussbarsch"
+  },
+  "52": {
+    "questionText": "Welcher Fisch riecht nach frischer grüner Gurke?",
+    "answerA": "Stint",
+    "answerB": "Steinbeißer",
+    "answerC": "Koppe"
+  },
+  "53": {
+    "questionText": "Welche Fischart ist anfällig für die Bauchwassersucht?",
+    "answerA": "Karpfen",
+    "answerB": "Forelle",
+    "answerC": "Zander"
+  },
+  "54": {
+    "questionText": "Wie äußert sich die Grießkörnchenkrankheit?",
+    "answerA": "Durch weiße Punkte auf dem ganzen Körper",
+    "answerB": "Durch weiße Punkte auf der Leber",
+    "answerC": "Durch Glotzaugen"
+  },
+  "55": {
+    "questionText": "Wo schmarotzen Karpfenläuse?",
+    "answerA": "Auf dem ganzen Körper",
+    "answerB": "Nur auf den Kiemen",
+    "answerC": "Im Darm"
+  },
+  "56": {
+    "questionText": "Was ist eine Karpfenlaus?",
+    "answerA": "Ein Kleinkrebs, der auf der Haut von Karpfenfischen parasitiert.",
+    "answerB": "Bevorzugte Karpfennahrung",
+    "answerC": "Ein Fachausdruck für untermaßige Karpfen"
+  },
+  "57": {
+    "questionText": "Welche Krankheit ist für den Karpfen typisch?",
+    "answerA": "Bauchwassersucht",
+    "answerB": "Rotmaulseuche",
+    "answerC": "Blumenkohlgeschwulst"
+  },
+  "58": {
+    "questionText": "Im Mai fange ich einen Blei mit weißen \"Körnchen\" auf dem Kopf. Worum handelt es sich mit hoher Wahrscheinlichkeit?",
+    "answerA": "Laichausschlag",
+    "answerB": "Krankheit",
+    "answerC": "Tarnfärbung"
+  },
+  "59": {
+    "questionText": "Was ist in der Fischerei unter dem Begriff \"Messerrücken\" zu verstehen?",
+    "answerA": "Hungerform von Karpfenfischen, speziell beim Blei",
+    "answerB": "Rücken des Blankaals",
+    "answerC": "Bergspitzen unterseeischer Erhebungen"
+  },
+  "60": {
+    "questionText": "Wo parasitieren Fischegel?",
+    "answerA": "Auf der Haut",
+    "answerB": "Im Darm",
+    "answerC": "In der Leibeshöhle"
+  },
+  "61": {
+    "questionText": "Worauf ist beim Kauf von Satzschleien und vor ihrem Aussatz besonders zu achten?",
+    "answerA": "Auf Befall mit Kiemenkrebsen (Ergasilus)",
+    "answerB": "Auf Reinrassigkeit",
+    "answerC": "Auf günstige Anteile von Rognern und Milchnern"
+  },
+  "62": {
+    "questionText": "Welche Maßnahmen können das seuchenbiologische Gleichgewicht im Gewässer beeinträchtigen?",
+    "answerA": "Aussetzen gebietsfremder Fische, Einleitung organischer Abwässer",
+    "answerB": "Starke Beangelung, Entnahme von Weißfischen beim Hegefischen",
+    "answerC": "Rohrernte im Winter, Fischereiausübung mit der Spinnangel im Sommer"
+  },
+  "63": {
+    "questionText": "Was ruft bei der sogenannten Drehkrankheit die Drehbewegung hervor?",
+    "answerA": "Einlagerung der Parasitensporen im Gleichgewichtsorgan",
+    "answerB": "Versuche der Fische zur Abstoßung der Parasiten",
+    "answerC": "Ermüdungserscheinungen des Fisches"
+  },
+  "64": {
+    "questionText": "Zu den Außenparasiten zählen ...?",
+    "answerA": "Egel",
+    "answerB": "Bandwürmer",
+    "answerC": "Nematoden"
+  },
+  "65": {
+    "questionText": "Wodurch kann es zu Verpilzungen kommen?",
+    "answerA": "Durch Verletzungen der Schleimhaut",
+    "answerB": "Durch falsche Ernährung",
+    "answerC": "Durch Altersschwäche"
+  },
+  "66": {
+    "questionText": "Weshalb ist in vielen Gewässern Brandenburgs Aalbesatz notwendig?",
+    "answerA": "Wegen fehlendem Aufstieg von Jungaalen.",
+    "answerB": "Wegen zu geringer Weißfischbestände",
+    "answerC": "Wegen der zu starken Beangelung des Hechtes"
+  },
+  "67": {
+    "questionText": "Wie wird Hechtbesatz getätigt?",
+    "answerA": "Einzeln in Ufernähe, wenn möglich über Krautbänken",
+    "answerB": "An nur einer Uferstelle",
+    "answerC": "In kleinen Mengen im Freiwasser"
+  },
+  "68": {
+    "questionText": "Die Quappenbestände im Land Brandenburg sind stark zurückgegangen. Weshalb?",
+    "answerA": "Die Vielzahl der Wehre versperrt die Wege zu den Laichgebieten.",
+    "answerB": "Sie finden zu wenig Futter.",
+    "answerC": "Sie werden zu stark beangelt."
+  },
+  "69": {
+    "questionText": "Wie kann ich Zanderbestände ohne Besatz in einem See fördern?",
+    "answerA": "Einbringen von Zanderlaichnestern",
+    "answerB": "Füttern mit Fischabfällen.",
+    "answerC": "Anbringen von künstlichen Lichtquellen an den Laichplätzen."
+  },
+  "70": {
+    "questionText": "Welche Naturnahrung bevorzugt der Karpfen?",
+    "answerA": "Larven der Zuckmücke",
+    "answerB": "Fischbrut",
+    "answerC": "Anflugnahrung"
+  },
+  "71": {
+    "questionText": "Wo fressen Fische mit unterständigem Maul vorwiegend?",
+    "answerA": "Am Grund",
+    "answerB": "An der Oberfläche",
+    "answerC": "Im Freiwasser"
+  },
+  "72": {
+    "questionText": "Welche Fischnährtiere leben in der Bodenzone?",
+    "answerA": "Larven der Roten Zuckmücke",
+    "answerB": "Wasserflöhe (Daphnien)",
+    "answerC": "Hüpferlinge (Copepoden)"
+  },
+  "73": {
+    "questionText": "Fischbrut ernährt sich vorwiegend.{3}",
+    "answerA": "von tierischem Plankton.",
+    "answerB": "von kleinen Schnecken und Muscheln.",
+    "answerC": "von am Boden lebenden Nährtieren."
+  },
+  "74": {
+    "questionText": "Was wird auch als Sprock bezeichnet?",
+    "answerA": "Köcherfliegenlarven",
+    "answerB": "Libellenlarven",
+    "answerC": "Eintagsfliegenlarven"
+  },
+  "75": {
+    "questionText": "Wann benötigt ein Fisch mehr Sauerstoff?",
+    "answerA": "Bei hoher Wassertemperatur",
+    "answerB": "Bei niedriger Wassertemperatur",
+    "answerC": "Er verbraucht immer gleich viel Sauerstoff"
+  },
+  "76": {
+    "questionText": "Wie entstehen  nach heutigem Erkenntnisstand die Aalformen \"Breitkopf\"  und \"Spitzkopf\"?",
+    "answerA": "Durch das vorhandene Nahrungsangebot im Gewässer",
+    "answerB": "Durch unterschiedliche Laichplätze",
+    "answerC": "Durch spezielle Erbfaktoren"
+  },
+  "77": {
+    "questionText": "Welche der Fischarten ernährt sich ausschließlich von Plankton?",
+    "answerA": "Kleine Maräne",
+    "answerB": "Gründling",
+    "answerC": "Karpfen"
+  },
+  "78": {
+    "questionText": "Bei welcher Wassertemperatur ist der Karpfen am fressfreudigsten?",
+    "answerA": "Bei 20-25 Grad Celsius",
+    "answerB": "Bei 12-15 Grad Celsius",
+    "answerC": "Bei 8-12 Grad Celsius"
+  },
+  "79": {
+    "questionText": "Warum haben gute Aalgewässer oftmals einen schlechten Krebsbestand?",
+    "answerA": "Der Aal frisst Krebse.",
+    "answerB": "Der Aal bevorzugt die gleiche Nahrung wie der Krebs.",
+    "answerC": "Der Aal ist der Überträger der Krebspest."
+  },
+  "80": {
+    "questionText": "Welche der Fischarten neigen bei Massenaufkommen zur \"Verbuttung\"? (Kleinwüchsigkeit mit Laichreife)",
+    "answerA": "Karausche",
+    "answerB": "Zander",
+    "answerC": "Forelle"
+  },
+  "81": {
+    "questionText": "Was ist Plankton?",
+    "answerA": "Die Gesamtheit der im Freiwasserraum lebenden, mit der Wasserbewegung passiv treibenden Organsysteme",
+    "answerB": "Die Gesamtheit der Schwimmblattwasserpflanzen eines Gewässers",
+    "answerC": "Die Gesamtheit  der Zuckmückenlarven, Gelbrandkäfer und Libellenlarven eines Gewässers"
+  },
+  "82": {
+    "questionText": "Welche der Fischarten benötigen kühleres Wasser?",
+    "answerA": "Forelle, Bachsaibling",
+    "answerB": "Schleie, Aal",
+    "answerC": "Karpfen, Plötze"
+  },
+  "83": {
+    "questionText": "Welche der Fischarten benötigen einen hohen Sauerstoffgehalt im Wasser?",
+    "answerA": "Forelle, Bachsaibling",
+    "answerB": "Plötze, Aal",
+    "answerC": "Karpfen, Schleie"
+  },
+  "84": {
+    "questionText": "Welche Fische nehmen vorwiegend Oberflächennahrung auf?",
+    "answerA": "Fische mit oberständigem Maul",
+    "answerB": "Fische mit endständigem Maul",
+    "answerC": "Fische mit unterständigem Maul"
+  },
+  "85": {
+    "questionText": "Die Entwicklung der Fischeier des Karpfens ...",
+    "answerA": "verkürzt sich mit steigender Temperatur im Toleranzbereich.",
+    "answerB": "verkürzt sich mit sinkender Temperatur im Toleranzbereich.",
+    "answerC": "hängt aufgrund des fehlenden Temperaturempfindens der Fischlarven nicht von der Temperatur ab."
+  },
+  "86": {
+    "questionText": "Welche der Fischarten frisst oftmals Wasserpflanzen?",
+    "answerA": "Rotfeder",
+    "answerB": "Meerforelle",
+    "answerC": "Kaulbarsch"
+  },
+  "87": {
+    "questionText": "Wie hoch ist die Körpertemperatur der Fische?",
+    "answerA": "Etwa gleich der Wassertemperatur",
+    "answerB": "Höher als die Wassertemperatur",
+    "answerC": "Etwa gleich der Lufttemperatur"
+  },
+  "88": {
+    "questionText": "Was ist ein Milchner?",
+    "answerA": "Männlicher Fisch",
+    "answerB": "Weiblicher Fisch",
+    "answerC": "Jungfisch"
+  },
+  "89": {
+    "questionText": "Warum gibt es Schonzeiten?",
+    "answerA": "Um den Fischen eine ungestörte Laichablage zu ermöglichen.",
+    "answerB": "Um den Uferschutz zu gewährleisten.",
+    "answerC": "Um zu verhindern, dass zu viele Fische auf den Markt kommen."
+  },
+  "90": {
+    "questionText": "Was ist unter dem Begriff Laichausschlag zu verstehen?",
+    "answerA": "Ausschlag bei einigen Fischarten zur Laichzeit",
+    "answerB": "Infektion des Laiches",
+    "answerC": "Ausschlag bei einigen Fischarten nach der Laichzeit"
+  },
+  "91": {
+    "questionText": "Was versteht man unter einem Butterkrebs?",
+    "answerA": "Einen frisch gehäuteten Krebs",
+    "answerB": "Einen Edelkrebs im Jugendstadium",
+    "answerC": "Einen an Krebspest erkrankten Krebs"
+  },
+  "92": {
+    "questionText": "Wo entwickeln sich die Eier vom Krebs?",
+    "answerA": "An der Unterseite des Hinterleibes des weiblichen Krebses",
+    "answerB": "In Laichgruben auf kiesigem Untergrund",
+    "answerC": "An Wasserpflanzen angeheftet"
+  },
+  "93": {
+    "questionText": "Welche hier genannten Körperteile und Merkmale werden zur Altersbestimmung von Fischen genutzt?",
+    "answerA": "Anzahl der Ringe auf Schuppen und Otolithen (Steine aus dem Gleichgewichtsorgan)",
+    "answerB": "Anzahl der Gräten",
+    "answerC": "Anzahl und Stellung der Rückenflossenstrahlen"
+  },
+  "94": {
+    "questionText": "Was ist hinsichtlich der Körperlänge weiblicher und männlicher Aale richtig?",
+    "answerA": "Weibliche Aale werden länger.",
+    "answerB": "Männliche Aale werden länger.",
+    "answerC": "Beide Geschlechter werden gleich lang."
+  },
+  "95": {
+    "questionText": "Wie wird die Totallänge des Fisches gemessen?",
+    "answerA": "Von der Maulspitze bis zum Ende der natürlich ausgebreiteten Schwanzflosse",
+    "answerB": "Von den Brustflossen bis zum Ansatz der Schwanzflosse",
+    "answerC": "Von den Kiemendeckeln bis zur Afterflosse"
+  },
+  "96": {
+    "questionText": "Was wird unter dem Begriff \"saures Wasser\" verstanden?",
+    "answerA": "Wasser mit niedrigem pH-Wert",
+    "answerB": "Trübes Wasser",
+    "answerC": "Wasser mit hohem pH-Wert"
+  },
+  "97": {
+    "questionText": "Was versteht man unter einem neutralen pH-Wert?",
+    "answerA": "pH-Wert von 7",
+    "answerB": "pH-Wert über 7",
+    "answerC": "pH-Wert unter 7"
+  },
+  "98": {
+    "questionText": "Können sich die Marmorkarpfen in Brandenburger Gewässern selbst reproduzieren?",
+    "answerA": "Nein",
+    "answerB": "Ja",
+    "answerC": "Nur in warmen Sommern"
+  },
+  "99": {
+    "questionText": "Welche Jahreszeit ist Quappenbeißzeit?",
+    "answerA": "Winter",
+    "answerB": "Sommer",
+    "answerC": "Frühjahr"
+  },
+  "100": {
+    "questionText": "Karpfen sind ...?",
+    "answerA": "Sommerlaicher",
+    "answerB": "Frühjahrslaicher",
+    "answerC": "Winterlaicher"
+  },
+  "101": {
+    "questionText": "Gehört der Silberkarpfen zu den schutzbedürftigen heimischen Fischarten?",
+    "answerA": "Nein",
+    "answerB": "Ja",
+    "answerC": "Ja, aber nur in Seen."
+  },
+  "102": {
+    "questionText": "Welche Tiere sind Schädlinge der Fischbrut?",
+    "answerA": "Gelbrandkäferlarven",
+    "answerB": "Wasserflöhe",
+    "answerC": "Tubifix"
+  },
+  "103": {
+    "questionText": "Welche Fischarten sind Gelegelaicher?",
+    "answerA": "Karpfen, Plötze",
+    "answerB": "Zander, Aal",
+    "answerC": "Regenbogenforelle, Kleine Maräne"
+  },
+  "104": {
+    "questionText": "Welche Fischarten nutzen bevorzugt für die Eiablage in das Wasser ragende Bäume, Äste, totes Geäst usw.?",
+    "answerA": "Zander, Barsch",
+    "answerB": "Hecht, Bachforelle",
+    "answerC": "Barbe, Schmerle"
+  },
+  "105": {
+    "questionText": "Welche Fische sind keine heimischen Arten in den Brandenburger Gewässern?",
+    "answerA": "Graskarpfen, Marmorkarpfen, Silberkarpfen",
+    "answerB": "Karausche, Aland, Bitterling",
+    "answerC": "Rotfeder, Schlammpeitzger, Gründling"
+  },
+  "106": {
+    "questionText": "Kann an den Schuppen das Alter der Fische abgelesen werden?",
+    "answerA": "Ja, anhand der Verdichtungszonen (Ringe)",
+    "answerB": "Nein",
+    "answerC": "Ja, aber nur bei Rognern"
+  },
+  "107": {
+    "questionText": "Wie alt können Karpfen werden?",
+    "answerA": "Ca. 40",
+    "answerB": "Jahre Ca. 10",
+    "answerC": "Jahre Über 150"
+  },
+  "108": {
+    "questionText": "Welcher Karpfenfisch ist nicht einheimisch?",
+    "answerA": "Graskarpfen",
+    "answerB": "Schleie",
+    "answerC": "Gründling"
+  },
+  "109": {
+    "questionText": "Aale laichen ...?",
+    "answerA": "einmal im Leben.",
+    "answerB": "alle 2 Jahre.",
+    "answerC": "alle 4 Jahre."
+  },
+  "110": {
+    "questionText": "Was sind Blankaale?",
+    "answerA": "Aale auf der Laichwanderung",
+    "answerB": "Tagaktive Aale",
+    "answerC": "Jungaale"
+  },
+  "111": {
+    "questionText": "Die Schleie ist ein ...?",
+    "answerA": "Krautlaicher",
+    "answerB": "Kieslaicher",
+    "answerC": "Bodenlaicher"
+  },
+  "112": {
+    "questionText": "Welche Fischart erreicht Stückgewichte von mehr als 10 Kilogramm?",
+    "answerA": "Karpfen",
+    "answerB": "Schlei",
+    "answerC": "Gründling"
+  },
+  "113": {
+    "questionText": "Wo laicht der Hecht?",
+    "answerA": "An flachen verkrauteten Uferstellen",
+    "answerB": "Im Freiwasser",
+    "answerC": "Im Kiesbett"
+  },
+  "114": {
+    "questionText": "Wann laicht der Zander?",
+    "answerA": "Von März bis Juni",
+    "answerB": "Von Juli bis September",
+    "answerC": "Von Oktober bis November"
+  },
+  "115": {
+    "questionText": "Nach welcher Fischart sind große, flache, trübe Seen mit häufiger Wasserblüten benannt?",
+    "answerA": "Zander",
+    "answerB": "Quappe",
+    "answerC": "Hecht"
+  },
+  "116": {
+    "questionText": "Welche Fischart unternimmt keine Laichwanderung?",
+    "answerA": "Neunstachliger Stichling",
+    "answerB": "Lachs",
+    "answerC": "Aal"
+  },
+  "117": {
+    "questionText": "Wie heißt die in Brandenburg ursprüngliche einheimische Krebsart?",
+    "answerA": "Edelkrebs",
+    "answerB": "Süßwasserhummer",
+    "answerC": "Amerikanischer Flusskrebs"
+  },
+  "118": {
+    "questionText": "Der Bitterling ist ein ...?",
+    "answerA": "Schwarmfisch",
+    "answerB": "typischer \"Einzelgänger\"",
+    "answerC": "bitter schmeckender Raubfisch"
+  },
+  "119": {
+    "questionText": "Welcher Zehnfußkrebs unternimmt flussaufwärts Massenwanderungen und wird so zur Plage?",
+    "answerA": "Wollhandkrabbe",
+    "answerB": "Signalkrebs",
+    "answerC": "Sumpfkrebs"
+  },
+  "120": {
+    "questionText": "Welches der Gewässer ist als sauerstoffreich einzustufen?",
+    "answerA": "Ein schnell fließender, kühler und klarer Bach",
+    "answerB": "Ein Tümpel",
+    "answerC": "Ein trüber See"
+  },
+  "121": {
+    "questionText": "Moorige Gewässer sind in der Regel artenarm. Warum finden hier nur wenige Pflanzen- und Tierarten ihren Lebensraum?",
+    "answerA": "Das Wasser ist zu sauer",
+    "answerB": "Das Wasser ist stark alkalisch",
+    "answerC": "Die Gewässer sind meist sehr tief"
+  },
+  "122": {
+    "questionText": "Welche Teile von Unterwasserpflanzen sind für die Sauerstofferzeugung von entscheidender Bedeutung?",
+    "answerA": "Die grünen Blätter",
+    "answerB": "Die Wurzeln",
+    "answerC": "Die Stiele"
+  },
+  "123": {
+    "questionText": "Verbrauchen Unterwasserpflanzen im Dunkeln Sauerstoff?",
+    "answerA": "Ja",
+    "answerB": "Nein",
+    "answerC": "Ja, aber nur bei Wassertemperaturen höher als 20 Grad Celsius."
+  },
+  "124": {
+    "questionText": "In tiefen Seen kann das Licht den Grund nicht mehr erreichen. Wachsen dort Laichkräuter?",
+    "answerA": "Nein, zum Wachstum ist Licht notwendig.",
+    "answerB": "Ja, in sehr hoher Anzahl",
+    "answerC": "Nein, es fehlen die Nährstoffe."
+  },
+  "125": {
+    "questionText": "Wie wird die vom Licht nicht erreichbare und von Pflanzen nicht besiedelte Gewässerzone bezeichnet?",
+    "answerA": "Tiefenzone (Bodenzone)",
+    "answerB": "Krautzone",
+    "answerC": "Freiwasserzone"
+  },
+  "126": {
+    "questionText": "Der Dorfteich kann leicht mit Schwimmblattpflanzen mit einer Größe von wenigen Millimetern zuwachsen. Es ist die ...?",
+    "answerA": "Wasserlinse",
+    "answerB": "Kugelalge Volvox",
+    "answerC": "Teichrose"
+  },
+  "127": {
+    "questionText": "Welche der Larven baut sich einen schützenden Behälter aus Pflanzenresten?",
+    "answerA": "Die Larve der Köcherfliege",
+    "answerB": "Die Larve der Libelle",
+    "answerC": "Die Larve des Gelbrandkäfers"
+  },
+  "128": {
+    "questionText": "Welche Antwort ist richtig?",
+    "answerA": "Die Artenvielfalt der Fische nimmt von der Quelle zur Mündung zu.",
+    "answerB": "Die Artenvielfalt ist von der Quelle zur Mündung gleich.",
+    "answerC": "Die Artenvielfalt nimmt von der Quelle zur Mündung ab."
+  },
+  "129": {
+    "questionText": "Wodurch wird die Entwicklung von pflanzlichem Plankton besonders gefördert?",
+    "answerA": "Durch Phosphorverbindungen",
+    "answerB": "Durch starke Strömung",
+    "answerC": "Durch große Wassertiefe"
+  },
+  "130": {
+    "questionText": "Was ist ein Teich?",
+    "answerA": "Ein ablassbares und gegen den Fischwechsel absperrbares, künstlich angelegtes Gewässer.",
+    "answerB": "Ein natürlich flacher und kleiner See.",
+    "answerC": "Ein verlandeter Altarm."
+  },
+  "131": {
+    "questionText": "Welche der Insektenlarven ernährt sich auch von kleinen Fischen?",
+    "answerA": "Gelbrandkäferlarve",
+    "answerB": "Kriebelmückenlarve",
+    "answerC": "Zuckmückenlarve"
+  },
+  "132": {
+    "questionText": "Hat die Gestalt des Gewässergrundes fischereibiologische Bedeutung?",
+    "answerA": "Ja, da ein unregelmäßiger Untergrund den bodenbesiedelnden Lebewesen vielfältige Entwicklungsmöglichkeiten bietet.",
+    "answerB": "Nein",
+    "answerC": "Ja, da ein unregelmäßiger Bodengrund vor allem Parasiten geeigneten Unterschlupf bietet."
+  },
+  "133": {
+    "questionText": "Warum bildet sich in stehenden Gewässern eine Temperaturschichtung?",
+    "answerA": "Weil das erwärmte Oberflächenwasser leichter als kälteres Wasser ist.",
+    "answerB": "Weil das Tiefenwasser durch Erdwärme aufgeheizt wird.",
+    "answerC": "Weil das  erwärmte Wasser schwerer als kälteres Wasser ist."
+  },
+  "134": {
+    "questionText": "Was ist ein Altarm?",
+    "answerA": "Ein ehemaliges Flussbett",
+    "answerB": "Ein Seebereich mit sauberem Wasser",
+    "answerC": "Ein Gewässer mit altem Fischbestand"
+  },
+  "135": {
+    "questionText": "Was benötigen Unterwasserpflanzen, um Sauerstoff  zu erzeugen?",
+    "answerA": "Licht",
+    "answerB": "Kühles Wasser",
+    "answerC": "Einen pH-Wert im sauren Bereich"
+  },
+  "136": {
+    "questionText": "In welcher Gewässerregion gibt es die meisten Fischarten?",
+    "answerA": "Bleiregion",
+    "answerB": "Forellenregion",
+    "answerC": "Barbenregion"
+  },
+  "137": {
+    "questionText": "Wie soll der Fischbestand in einem Gewässer beschaffen sein?",
+    "answerA": "Dem Gewässer entsprechend artenreich und in ausgewogener Alterszusammensetzung.",
+    "answerB": "Dem Markt entsprechend mit hauptsächlich großen, kapitalen Fischarten.",
+    "answerC": "Der anglerischen Attraktivität entsprechend mit vorwiegend fangfähigen Fischen."
+  },
+  "138": {
+    "questionText": "Was ist unter einer Vollzirkulation eines Sees zu verstehen?",
+    "answerA": "Die vollständige Umwälzung des Wasserkörpers.",
+    "answerB": "Die vollständige Umsetzung der verfügbaren Nährstoffe in pflanzliche Biomasse.",
+    "answerC": "Der vollständige Sauerstoffabbau im Winter unter der Eisdecke."
+  },
+  "139": {
+    "questionText": "Wann wird der Sauerstoffgehalt in einem stehenden Gewässer gering sein?",
+    "answerA": "Bei Dunkelheit und Massenvorkommen von Algen oder Unterwasserpflanzen",
+    "answerB": "Bei Sonnenschein und Massenvorkommen von Algen oder Unterwasserpflanzen",
+    "answerC": "Der Sauerstoffgehalt ist in stehenden Gewässern immer gering."
+  },
+  "140": {
+    "questionText": "In wenig abwasserbelasteten Bächen leben bevorzugt ...?",
+    "answerA": "Larven von Stein- und Eintagsfliegen.",
+    "answerB": "Hüpferlinge und Wasserflöhe.",
+    "answerC": "Schlammröhrenwürmer und Wasserasseln."
+  },
+  "141": {
+    "questionText": "Wie lautet die richtige Reihenfolge der Regionen im Fließgewässer?",
+    "answerA": "Forellen-, Äschen-, Barben, Blei-, Brackwasserregion",
+    "answerB": "Forellen-, Barben-, Blei-, Brackwasser-, Äschenregion",
+    "answerC": "Blei-, Äschen-, Barben-, Forellen-, Brackwasserregion"
+  },
+  "142": {
+    "questionText": "Wodurch kann in einem Gewässer der Sauerstoffgehalt schnell abnehmen?",
+    "answerA": "Durch Einleitung von Abwasser und starke organische Verschmutzung",
+    "answerB": "Durch schnelles Absinken der Wassertemperatur um mehr als 5 Grad Celsius",
+    "answerC": "Durch Photosynthese der Wasserpflanzen bei starker Sonneneinstrahlung"
+  },
+  "143": {
+    "questionText": "Was versteht man unter der Wasserblüte?",
+    "answerA": "Übermäßige Entwicklung pflanzlichen Planktons",
+    "answerB": "Auf dem Wasser niedergegangener Blütenstaub",
+    "answerC": "Starkes Vorkommen blütentragender Wasserpflanzen"
+  },
+  "144": {
+    "questionText": "Wann tritt die \"Vollzirkulation\" in einem geschichteten See auf?",
+    "answerA": "Im Spätherbst",
+    "answerB": "Im Hochsommer",
+    "answerC": "Bei Gewitterstimmung"
+  },
+  "145": {
+    "questionText": "Welche Fließgewässerregion ist für Brandenburg typisch?",
+    "answerA": "Die Bleiregion",
+    "answerB": "Die Forellenregion",
+    "answerC": "Die Kaulbarsch- /Flunderregion"
+  },
+  "146": {
+    "questionText": "Wie ist ein \"Zandersee\" beschaffen?",
+    "answerA": "Trübes Wasser und ein großer Freiwasserbereich",
+    "answerB": "Flach und krautreich",
+    "answerC": "Klares Wasser und steile Ufer"
+  },
+  "147": {
+    "questionText": "Wie ist ein \"Maränensee\" beschaffen?",
+    "answerA": "Tief, sehr sauber und klarsichtig",
+    "answerB": "Flach und krautreich",
+    "answerC": "Trüb und nährstoffreich"
+  },
+  "148": {
+    "questionText": "Welche Fischarten sind für Niederungsforellenbäche typisch?",
+    "answerA": "Forellen, Schmerlen, Groppen, Elritzen",
+    "answerB": "Forellen, Zander, Karauschen",
+    "answerC": "Forellen, Karpfen, Schleien."
+  },
+  "149": {
+    "questionText": "Was ist Ursache für die Eutrophierung von Gewässern?",
+    "answerA": "Die Nährstoffanreicherung",
+    "answerB": "Die Einleitung von Pumpwässern aus Torfstichen",
+    "answerC": "Die Kalkung von Teichen"
+  },
+  "150": {
+    "questionText": "Sind Gewässer mit starker Wasserblüte durch Sauerstoffmangel gefährdet?",
+    "answerA": "Ja, ein massenhaftes Absterben der Algen führt zur Sauerstoffzehrung.",
+    "answerB": "Nein, die Wasserblüte zeigt das Vorhandensein massenhafter junger Algen mit hoher Assimilation an.",
+    "answerC": "Nein, die Wasserblüte entwickelt sich über dem Wasserspiegel durch See- und Teichrosen."
+  },
+  "151": {
+    "questionText": "Was ist das Gelege aus fischereilicher Sicht?",
+    "answerA": "Die bewachsene, wasserseitige Uferzone",
+    "answerB": "Die bewachsene, landseitige Uferzone",
+    "answerC": "Die Gesamtzahl der sich im Nest eines Vogels befindlichen Eier"
+  },
+  "152": {
+    "questionText": "Was sind oligotrophe Seen?",
+    "answerA": "Nährstoffarme Seen",
+    "answerB": "Nährstoffreiche Seen",
+    "answerC": "Nährstoffüberlastete Seen"
+  },
+  "153": {
+    "questionText": "Warum kann es im Winter bei geschlossener Eis- und Schneedecke zur Ausstickung von stehenden Gewässern kommen?",
+    "answerA": "Weil kein natürlicher Sauerstoffeintrag sowie keine ausreichende Sauerstoffproduktion möglich ist.",
+    "answerB": "Weil der Stickstoffgehalt zu hoch ist.",
+    "answerC": "Weil die Temperaturen unter 6 C fallen und die Sauerstoffproduktion eingestellt wird."
+  },
+  "154": {
+    "questionText": "Die Reihenfolge des Pflanzenbewuchses vom Ufer aus ist wie folgt:",
+    "answerA": "Schilf - Schwimmblattpflanzen - Laichkräuter - unterseeische Wiesen.",
+    "answerB": "Schilf - Laichkräuter - Schwimmblattpflanzen - unterseeische Wiesen.",
+    "answerC": "Schwimmblattpflanzen - Laichkräuter - unterseeische Wiesen - Schilf."
+  },
+  "155": {
+    "questionText": "Weshalb ist für bestimmte Fischarten ein Mindestmaß notwendig?",
+    "answerA": "Um die Bestandserhaltung zu gewährleisten.",
+    "answerB": "Um kleinere Fische vor dem Fangstress zu schonen.",
+    "answerC": "Um eine ausreichende Nahrungsmenge für Raubfische im Gewässer zu belassen."
+  },
+  "156": {
+    "questionText": "Was versteht man unter einem mäandrierenden Fließgewässer?",
+    "answerA": "Ein Gewässer mit vielen Biegungen",
+    "answerB": "Ein Gewässer mit reichlicher Ufervegetation",
+    "answerC": "Ein Gewässer, das im Untergrund versickert"
+  },
+  "157": {
+    "questionText": "Was ist ein Kolk?",
+    "answerA": "Eine Vertiefung in einem Fließgewässer",
+    "answerB": "Ein versumpftes Gelände",
+    "answerC": "Eine Sandbank"
+  },
+  "158": {
+    "questionText": "Warum stehen Fische im Fließgewässer gern hinter Hindernissen?",
+    "answerA": "Sie finden dort strömungsberuhigte Einstände.",
+    "answerB": "Sie werden dort nicht gesehen.",
+    "answerC": "Sie sind dort nur schwer zu beangeln."
+  },
+  "159": {
+    "questionText": "Welche ist die fischereilich vorteilhafteste Art der Wasserstandsregulierung in Fließgewässern?",
+    "answerA": "Freies Mäandrieren.",
+    "answerB": "Bau von Schleusen.",
+    "answerC": "Errichtung von Wehren."
+  },
+  "160": {
+    "questionText": "Was versteht man unter Ausstickung?",
+    "answerA": "Das Fischsterben durch Sauerstoffmangel im Gewässer.",
+    "answerB": "Eine Entfernung von Stickstoff aus dem Gewässer.",
+    "answerC": "Das Ersticken der Fische an Land."
+  },
+  "161": {
+    "questionText": "Was ist unter Verlandung zu verstehen?",
+    "answerA": "Die langsame Verflachung eines Gewässers durch Pflanzenwachstum sowie Sand- und Staubeintrag.",
+    "answerB": "Das Zuschütten des Gewässers",
+    "answerC": "Die Überflutung von Landflächen durch Anstau von Wasser."
+  },
+  "162": {
+    "questionText": "Was versteht man unter einer Verbuttung?",
+    "answerA": "Schlecht ernährte und kaum noch wachsende Fischbestände mit großer Stückzahl",
+    "answerB": "Das Auftreten von Flundern",
+    "answerC": "Die Intensivhaltung, z.B. von Forellen"
+  },
+  "163": {
+    "questionText": "Warum können starke Ufergehölze die Produktivität von Gewässern beeinträchtigen?",
+    "answerA": "Sie behindern die Sonneneinstrahlung und verringern dadurch das Pflanzen- und Nährtieraufkommen.",
+    "answerB": "Sie können Uferstrukturen zerstören und den Fischfang behindern.",
+    "answerC": "Sie sind ein Hindernis für die Angelfischerei."
+  },
+  "164": {
+    "questionText": "Welches sind typische Fischnährtiere der Bodenzone?",
+    "answerA": "Rote Zuckmückenlarven",
+    "answerB": "Wasserflöhe",
+    "answerC": "Rückenschwimmer"
+  },
+  "165": {
+    "questionText": "Welche Arten gehören zu den Unterwasserpflanzen?",
+    "answerA": "Laichkraut, Hornkraut, Tausendblatt",
+    "answerB": "Seerosen, Wasserlinsen",
+    "answerC": "Rohr, Seggen, Kalmus"
+  },
+  "166": {
+    "questionText": "Zwischen welchen Fischarten besteht eine starke Nahrungskonkurrenz?",
+    "answerA": "Zwischen Karpfen und Blei",
+    "answerB": "Zwischen Blei und Barsch",
+    "answerC": "Zwischen Schlei und Maräne"
+  },
+  "167": {
+    "questionText": "Welche Pflanzen gehören zur Gruppe der Überwasserpflanzen?",
+    "answerA": "Igelkolben, Seggen, Rohr",
+    "answerB": "Hornkraut, Wasserpest, Laichkraut",
+    "answerC": "Quellmoos, Wasserlinsen, Froschbiss"
+  },
+  "168": {
+    "questionText": "Welche Arten gehören zu den Schwimmblattpflanzen?",
+    "answerA": "Seerosen, Froschbiss, Wasserlinsen",
+    "answerB": "Igelkolben, Tannenwedel, Laichkraut",
+    "answerC": "Quellmoos, Seggen, Hornkraut"
+  },
+  "169": {
+    "questionText": "Welche Ansprüche stellen Forellen an ihren Lebensraum?",
+    "answerA": "Kaltes und sauerstoffreiches Wasser",
+    "answerB": "Warmes Wasser mit nicht zu hoher Sauerstoffkonzentration",
+    "answerC": "Strömendes, warmes Wasser mit hoher Leitfähigkeit"
+  },
+  "170": {
+    "questionText": "Wie sind Gumpen (Kolke) in Bächen und Flüssen aus fischereilicher Sicht zu beurteilen?",
+    "answerA": "Sie sind besonders gute Standplätze für viele Fischarten.",
+    "answerB": "Sie sind sauerstoffärmer als der Flusslauf und werden deshalb von den Fischen gemieden.",
+    "answerC": "Sie sind für Fische ungeeignete Standplätze."
+  },
+  "171": {
+    "questionText": "Welche Zone der Standgewässer wird von den meisten Fischarten bevorzugt aufgesucht?",
+    "answerA": "Die Uferzone",
+    "answerB": "Die Freiwasserzone",
+    "answerC": "Die Übergangszone mit den Muschelschalen"
+  },
+  "172": {
+    "questionText": "Welche Fischart lebt überwiegend in der Freiwasserzone eines Sees?",
+    "answerA": "Ukelei",
+    "answerB": "Blei",
+    "answerC": "Hecht"
+  },
+  "173": {
+    "questionText": "Welche Fischart bevorzugt die Bodenzone eines Stillwassers?",
+    "answerA": "Blei",
+    "answerB": "Döbel",
+    "answerC": "Stint"
+  },
+  "174": {
+    "questionText": "Wovon hängt das Aufkommen der Hechte in einem Gewässer ab?",
+    "answerA": "Von der Anzahl und Struktur der Einstandsflächen (Gelege).",
+    "answerB": "Vom Nährtierbestand in der Bodenzone.",
+    "answerC": "Vom Nährtierbestand in der Freiwasserzone."
+  },
+  "175": {
+    "questionText": "\"Ein Gewässer kippt um\". Was bedeutet das?",
+    "answerA": "Pflanzen und Tiere sterben in großen Mengen.",
+    "answerB": "Gewässer ist leer gefischt und neuer Besatz ist notwendig.",
+    "answerC": "Ist der Zustand eines Gewässers nach Hochwasser."
+  },
+  "176": {
+    "questionText": "Gibt es eine natürliche Selbstreinigungskraft von Gewässern?",
+    "answerA": "Ja",
+    "answerB": "Ja, aber nur im Sommer",
+    "answerC": "Ja, aber nur im Winter"
+  },
+  "177": {
+    "questionText": "Können bereits geringe Abwassereinleitungen biologische Schäden in Gewässern verursachen?",
+    "answerA": "Ja, die Tier- und Pflanzenwelt reagiert gegen Umweltveränderungen besonders empfindlich.",
+    "answerB": "Nein, die Selbstreinigungskraft der Gewässer ist unbegrenzt.",
+    "answerC": "Nein, Abwasser werden ausreichend verdünnt."
+  },
+  "178": {
+    "questionText": "Wie füttert man sinnvoll an?",
+    "answerA": "Abwartend in kleinen, dosierten Mengen",
+    "answerB": "Nur mit Brot",
+    "answerC": "Reichlich"
+  },
+  "179": {
+    "questionText": "Wie verhalten sich Fische bei Sauerstoffmangel?",
+    "answerA": "Sie kommen an die Wasseroberfläche und \"schnappen nach Luft\".",
+    "answerB": "Sie springen aus dem Wasser.",
+    "answerC": "Sie verenden sofort."
+  },
+  "180": {
+    "questionText": "Wie sind Wasserproben zu entnehmen?",
+    "answerA": "Mit gründlich gesäuberten Glasflaschen bei randvoller Füllung",
+    "answerB": "Mit gründlich gesäuberten Glasflaschen bei halber Füllung mit sterilem Verschluss",
+    "answerC": "Grundsätzlich nur mit Laborflaschen"
+  },
+  "181": {
+    "questionText": "Welche Maßnahmen sind bei Feststellung einer Wasserverunreinigung sofort geboten?",
+    "answerA": "Meldung an die schnellstens erreichbare regionale Behörde",
+    "answerB": "Ermittlung von Möglichkeiten zur Frischwasserzufuhr",
+    "answerC": "Sofortiges Herausfangen und Umsetzen geschädigter Fische"
+  },
+  "182": {
+    "questionText": "Woran kann der Angler ohne Hilfsmittel ein sauberes Fließgewässer erkennen? Am Vorkommen von ...",
+    "answerA": "Steinfliegenlarven.",
+    "answerB": "Schlammröhrenwürmern.",
+    "answerC": "Daphnien."
+  },
+  "183": {
+    "questionText": "Was hat der Angler zu veranlassen, wenn er im Gewässer tote Fische in größerer Anzahl feststellt?",
+    "answerA": "Benachrichtigung der Fischereibehörde, des Amtstierarztes oder der Polizei",
+    "answerB": "Absammeln und Vergraben der toten Fische",
+    "answerC": "Einleitung von Bekämpfungsmaßnahmen"
+  },
+  "184": {
+    "questionText": "In einem Gewässer sterben mehrere Fischarten gleichzeitig. Was ist die vermutliche Ursache?",
+    "answerA": "Umwelteinfluss",
+    "answerB": "Viruserkrankung",
+    "answerC": "Wurmbefall"
+  },
+  "185": {
+    "questionText": "Woran erkenne ich, dass ein See stark mit Phosphaten belastet ist?",
+    "answerA": "Algenblüte, speziell im Sommer",
+    "answerB": "Große Vorkommen an Schnecken",
+    "answerC": "Gute Sichttiefe"
+  },
+  "186": {
+    "questionText": "Ist zur Anfütterung von Fischen die Verwendung von Brot zu empfehlen?",
+    "answerA": "Nein, Brot löst sich im Wasser auf und trägt zur Sauerstoffzehrung bei.",
+    "answerB": "Ja, Brot hat eine Düngewirkung, die die Wasserqualität verbessert.",
+    "answerC": "Ja, Brot dient gleichzeitig als Nahrung für andere Wassertiere."
+  },
+  "187": {
+    "questionText": "Das Vorhandensein von Schwefelwasserstoff  (H2S) im See ist für den Fischbestand ...",
+    "answerA": "nicht förderlich",
+    "answerB": "förderlich",
+    "answerC": "ohne Auswirkungen"
+  },
+  "188": {
+    "questionText": "Worauf ist bei der Übergabe einer Wasserprobe zu achten?",
+    "answerA": "Schriftliche Angaben über: Gewässer und Entnahmestelle, Datum und Uhrzeit der Entnahme, Name und Anschrift des Probenehmers, wichtige Beobachtungen",
+    "answerB": "Persönliches Überbringen der Probe.",
+    "answerC": "Beifügung der Einverständniserklärung des Gewässereigentümers."
+  },
+  "189": {
+    "questionText": "Wann können Abwässer den Fischen besonders gefährlich werden?",
+    "answerA": "Bei geringer Wasserführung und hohen Temperaturen",
+    "answerB": "Bei starker Wasserführung",
+    "answerC": "Bei niedrigen Wassertemperaturen"
+  },
+  "190": {
+    "questionText": "Kann der Angelfischer einen Beitrag zur Reinhaltung der Gewässer leisten?",
+    "answerA": "Ja, indem er seinen Angelplatz sauber hinterlässt und nur stark begrenzt Futter und Lockstoffe  einsetzt.",
+    "answerB": "Nein, Angler sollen sich ausschließlich um Fische kümmern.",
+    "answerC": "Nein, diese Aufgabe obliegt dem Gewässereigentümer."
+  },
+  "191": {
+    "questionText": "Darf ein Angler Strauchwerk am Gewässer entfernen, weil es ihn behindert?",
+    "answerA": "Nein, sofern er keine verbindliche Rechtsbefugnis besitzt.",
+    "answerB": "Nur, wenn er gleichzeitig die Uferstelle beräumt.",
+    "answerC": "Ja, er hat die Pflicht zur Uferpflege."
+  },
+  "192": {
+    "questionText": "Fällt achtloses Wegwerfen von Angelschnur unter den Begriff der Umweltverschmutzung?",
+    "answerA": "Ja, da die Schnur nicht oder nur schlecht verrottet.",
+    "answerB": "Nein, die Schnur verrottet sofort.",
+    "answerC": "Nein, die geringe Menge ist unbedeutend und führt deshalb zu keiner Gefahr."
+  },
+  "193": {
+    "questionText": "Beim Verlassen meines Angelplatzes habe ich für absolute Sauberkeit zu sorgen. Wie erfolgt das?",
+    "answerA": "Ich nehme den Unrat mit nach Hause zur dortigen Entsorgung.",
+    "answerB": "Ich werfe die Reste in das Gewässer.",
+    "answerC": "Ich vergrabe den Unrat im Wald."
+  },
+  "194": {
+    "questionText": "Darf zur Ausübung der Angelfischerei das Gelege befahren oder betreten werden?",
+    "answerA": "Nein",
+    "answerB": "Ja",
+    "answerC": "Ja, nur mit Genehmigung des Gewässereigentümers"
+  },
+  "195": {
+    "questionText": "Was ist vorrangig bei der Auswahl des Angelplatzes am Gewässerufer zu beachten?",
+    "answerA": "Der Angelplatz ist so auszuwählen, dass die Ufervegetation nicht wesentlich geschädigt und die Tierwelt nicht gestört wird.",
+    "answerB": "Der Angelplatz ist so zu gestalten, dass gute Deckung besteht.",
+    "answerC": "Der Angelplatz ist zu benachbarten Angelplätzen klar abzugrenzen."
+  },
+  "196": {
+    "questionText": "Was beeinflusst die Artenvielfalt in einem Gewässer am stärksten?",
+    "answerA": "Die Gewässerstruktur und die Wasserqualität",
+    "answerB": "Die Intensität der Beangelung",
+    "answerC": "Der Fischbesatz"
+  },
+  "197": {
+    "questionText": "Warum dürfen Schilf- und Rohrbereiche (Röhrichte) zur Ausübung der Angelfischerei nicht betreten oder befahren werden?",
+    "answerA": "Der Lebensraum der Tier- und Pflanzenwelt wird beeinträchtigt oder sogar vernichtet.",
+    "answerB": "In diesem Bereich besteht für den Angler eine erhöhte Verletzungsgefahr.",
+    "answerC": "Die Ausübung der Angelfischerei ist in diesem Bereich nur eingeschränkt möglich."
+  },
+  "198": {
+    "questionText": "Wie sollte die Struktur von Fließgewässern für einen ausgewogenen Fischbestand beschaffen sein?",
+    "answerA": "Mäandrierend mit Wechsel von Gleit- und Prallhängen sowie verschiedensten Ufer- und Grundstrukturen",
+    "answerB": "Möglichst gerade, nur leicht zugänglich",
+    "answerC": "Möglichst wenig Ufervegetation"
+  },
+  "199": {
+    "questionText": "Wodurch kann die Bisamratte in der Fischerei insbesondere Schäden verursachen?",
+    "answerA": "Sie untergräbt Dämme.",
+    "answerB": "Sie frisst Fische.",
+    "answerC": "Sie stört die Fische in der Winterruhe."
+  },
+  "200": {
+    "questionText": "Auf einem zugefrorenen See liegt eine 15 cm starke Schneedecke. Was wird zur Vermeidung von Sauerstoffmangel empfohlen?",
+    "answerA": "Das Schieben großflächiger Schneefenster",
+    "answerB": "Die Fütterung der Fische zur Konditionsstärkung",
+    "answerC": "Das Schlagen vieler kleiner Eislöcher"
+  },
+  "201": {
+    "questionText": "Welche Maßnahme ist zur Vermeidung von Sauerstoffmangel auf großen  zugefrorenen Gewässern uneffektiv?",
+    "answerA": "Schlagen oder Sägen von Eislöchern",
+    "answerB": "Schaffung von horizontalen Wasserturbulenzen durch Zuflüsse und schwenkbare Belüfter",
+    "answerC": "Abfegen von Schnee oder Aufpumpen von Wasser auf das Eis"
+  },
+  "202": {
+    "questionText": "Welcher dieser Fische frisst höhere Wasserpflanzen?",
+    "answerA": "Graskarpfen",
+    "answerB": "Marmorkarpfen",
+    "answerC": "Silberkarpfen"
+  },
+  "203": {
+    "questionText": "Sind Gewässer, in denen Edelkrebse vorkommen, mit Satzaalen zu besetzen?",
+    "answerA": "Nein, Aale fressen Krebse.",
+    "answerB": "Ja",
+    "answerC": "Nein, Satzaale sind bevorzugte Krebsnahrung."
+  },
+  "204": {
+    "questionText": "Wie kann ich in kleinen Teichen Sauerstoffmangel umgehend beseitigen? Durch ...",
+    "answerA": "Zufluss von O2-reichem Wasser",
+    "answerB": "Düngung",
+    "answerC": "Kalkung"
+  },
+  "205": {
+    "questionText": "Müssen Wasserpflanzen nach der Krautung von Gräben aus den Gewässern entfernt werden?",
+    "answerA": "Ja, die Zersetzung kann akuten Sauerstoffmangel im Gewässer bewirken.",
+    "answerB": "Nein, ihre Düngewirkung fördert die Qualität des Fischgewässers.",
+    "answerC": "Nein, nur bei Beauflagung durch die Fischereibehörde."
+  },
+  "206": {
+    "questionText": "Zu welchen Zeiten sollte die Krautung von Gewässern unterbleiben?",
+    "answerA": "Während der Schon- und Laichzeiten der jeweils vorkommenden Fischarten",
+    "answerB": "An Tagen günstigen Angelwetters",
+    "answerC": "Im Sommer"
+  },
+  "207": {
+    "questionText": "Was bewirken Schneefenster auf verschneitem Eis?",
+    "answerA": "Die Algen im Wasser können Sauerstoff produzieren.",
+    "answerB": "Die Sonne erwärmt das Wasser und taut  das Eis von unten.",
+    "answerC": "Das helle Sonnenlicht beruhigt die Fische."
+  },
+  "208": {
+    "questionText": "Wozu müssen verbuttete Fischbestände dezimiert werden?",
+    "answerA": "Zur Sicherung einer dem Gewässer entsprechenden Artenvielfalt.",
+    "answerB": "Zur Erhöhung des Nahrungsangebotes für Raubfische.",
+    "answerC": "Zur Verringerung des Jungfischaufkommens."
+  },
+  "209": {
+    "questionText": "Wie kann man kleine, stark eutrophierte Standgewässer sanieren?",
+    "answerA": "Durch Unterbinden des Nährstoffeintrages aus dem Einzugsgebiet und Entschlammung",
+    "answerB": "Durch jährliche Entnahme der Wasserpflanzen",
+    "answerC": "Durch Unterlassen der Befischung"
+  },
+  "210": {
+    "questionText": "Für welche Fischarten soll man Laichplätze oder Laichhilfen schaffen?",
+    "answerA": "Für gewässertypische Arten, die sich nicht ausreichend fortpflanzen.",
+    "answerB": "Nur für Salmoniden",
+    "answerC": "Nur für Hecht und Zander"
+  },
+  "211": {
+    "questionText": "Worin besteht ein wichtiges Ziel einer Seesanierung?",
+    "answerA": "Nährstoffentzug, Senkung der Algenproduktion",
+    "answerB": "Erhöhung der Fischstückgewichte",
+    "answerC": "Verhinderung der Zuwanderung von planktonfressenden Fischen"
+  },
+  "212": {
+    "questionText": "Wie kann die Intensität der Algenproduktion in einem Gewässer einfach bestimmt werden?",
+    "answerA": "Durch Messung der Sichttiefe mit einer genormten runden weißen Scheibe",
+    "answerB": "Messung des pH-Wertes",
+    "answerC": "Durch Messung der Wassertemperatur"
+  },
+  "213": {
+    "questionText": "Wie sollte der Massenentwicklung von Bleien und Güstern entgegengewirkt werden?",
+    "answerA": "Über Förderung der Raubfische und eine starke Befischung beider Fischarten (Hegefischen)",
+    "answerB": "Durch Zerstörung ihrer Laichplätze",
+    "answerC": "Durch Förderung fischfressender Wasservögel"
+  },
+  "214": {
+    "questionText": "Wie sind Laichwiesen zu pflegen und zu fördern?",
+    "answerA": "Durch Überflutungen im Frühjahr oder Frühsommer und mindestens eine Herbst- bzw. Wintermahd",
+    "answerB": "Durch absolute Ruhe, ohne zusätzliche Maßnahmen",
+    "answerC": "Durch ganzjährige, höchstmögliche Überflutung"
+  },
+  "215": {
+    "questionText": "Zu Konsumenten, die sich von anderen Pflanzen und Tieren ernähren gehören die ...",
+    "answerA": "Fische.",
+    "answerB": "Pflanzen.",
+    "answerC": "Bakterien."
+  },
+  "216": {
+    "questionText": "Welche Lebewesen gehören zum tierischen Plankton?",
+    "answerA": "Hüpferlinge",
+    "answerB": "Fischbrut",
+    "answerC": "Mollusken"
+  },
+  "217": {
+    "questionText": "Welche Vogelart ernährt sich vorwiegend von Fischen?",
+    "answerA": "Kormoran",
+    "answerB": "Wildente",
+    "answerC": "Wildgans"
+  },
+  "218": {
+    "questionText": "Wie gelangen unter natürlichen Verhältnissen die meisten Nährstoffe in die Fließgewässer?",
+    "answerA": "Durch Auswaschung aus dem von Regen durchnässten Boden des Einzugsgebietes",
+    "answerB": "Mit dem Quellwasser aus dem Erdinneren",
+    "answerC": "Durch Winderosion"
+  },
+  "219": {
+    "questionText": "Sind Altarme eines Gewässers ökologisch besonders wertvoll?",
+    "answerA": "Ja, sie bieten für viele Tierarten geeignete Lebensbedingungen.",
+    "answerB": "Ja, ihr Wasser neigt leicht zur Versauerung.",
+    "answerC": "Nein, sie neigen zur schnellen Verlandung."
+  },
+  "220": {
+    "questionText": "Was ist in der Verhaltensbiologie unter Fluchtdistanz zu verstehen?",
+    "answerA": "Die Entfernung, ab welcher ein Tier vor einem wirklichen oder vermeindlichen Feind flüchtet.",
+    "answerB": "Die größte Entfernung zwischen Angler und Fisch während der Drillphase.",
+    "answerC": "Die während der Drillphase vom Fisch zurückgelegte Wegstrecke."
+  },
+  "221": {
+    "questionText": "Eine Sumpfschildkröte wird in unmittelbarer Nähe des Angelplatzes gesichtet. Was ist zu tun?",
+    "answerA": "Sofortiges Wechseln des Angelplatzes",
+    "answerB": "Fang, Vermessung und Meldung an die Fischereibehörde",
+    "answerC": "Fang, Vermessung und Meldung an die Naturschutzbehörde"
+  },
+  "222": {
+    "questionText": "Welche zugefrorenen Gewässer sind besonders stark von der Gefahr einer Ausstickung betroffen?",
+    "answerA": "Kleinstgewässer ohne Zufluss",
+    "answerB": "Fließgewässer",
+    "answerC": "Große durchflossene Gewässer"
+  },
+  "223": {
+    "questionText": "Was sind die wichtigsten Naturgüter?",
+    "answerA": "Wasser, Boden, Luft, Licht",
+    "answerB": "Habitat, Population, Biotop",
+    "answerC": "Mensch, Tier, Pflanze"
+  },
+  "224": {
+    "questionText": "Dörfliche Kleinteiche sind oft besiedelt mit ...",
+    "answerA": "Karauschen, Schleien",
+    "answerB": "Maränen, Forellen",
+    "answerC": "Äschen, Barben"
+  },
+  "225": {
+    "questionText": "Weshalb behindert ein überhöhter Weißfischbestand die Entwicklung des Fischbestandes in naturnaher Artenvielfalt?",
+    "answerA": "Die Fischnährtiere unterliegen einem unverhältnismäßig hohem Fraßdruck.",
+    "answerB": "Die Nahrungsgrundlage für Raubfische ist unausgewogen.",
+    "answerC": "Der Weißfischbestand gefährdet die Überwasserpflanzen."
+  },
+  "226": {
+    "questionText": "Was zählt zu den technischen Fischaufstiegshilfen?",
+    "answerA": "Fischpass, Aalleiter",
+    "answerB": "Schleuse, Durchlass für Wasserkraftwerke",
+    "answerC": "Das Umsetzen von Fischen aus dem Oberlauf in den Unterlauf"
+  },
+  "227": {
+    "questionText": "Weshalb ist im Frühjahr auf eine ausgedehnte Stauhaltung überfluteter Wiesen anzustreben?",
+    "answerA": "Damit sich Hechtbrut und Kleinstlebewesen ausreichend entwickeln können.",
+    "answerB": "Damit sich das Wasser mit Sauerstoff anreichert.",
+    "answerC": "Damit über eine längere Zeit dem Gewässer nährstoffreiches Wasser zugeführt wird."
+  },
+  "228": {
+    "questionText": "Welche Fischart kann durch Anlage von Laichwiesen in ihrer natürlichen Reproduktion gefördert werden?",
+    "answerA": "Hecht",
+    "answerB": "Maräne",
+    "answerC": "Zander"
+  },
+  "229": {
+    "questionText": "Warum müssen Fließgewässer für Fische durchgängig gehalten werden?",
+    "answerA": "Damit die Fische ihre Laichplätze erreichen.",
+    "answerB": "Damit alle Fischer Fänge erzielen können.",
+    "answerC": "Damit die Fische bei Niedrigwasser abschwimmen können."
+  },
+  "230": {
+    "questionText": "Welchen Zweck erfüllen Laichwiesen?",
+    "answerA": "Hier finden die pflanzenliebenden Fische gute Laichbedingungen.",
+    "answerB": "Sie dienen der Aufzucht der Laichfische.",
+    "answerC": "Sie sind Laichplätze für Forellen."
+  },
+  "231": {
+    "questionText": "Was ist ein Fischpass?",
+    "answerA": "Ein spezielles Bauwerk, das den Fischen die Überwindung von Hindernissen (z.B.Stauwehr) ermöglicht.",
+    "answerB": "Ein spezieller Angelplatz",
+    "answerC": "Eine spezielle Qualifikation zum Fang bestimmter Fischarten"
+  },
+  "232": {
+    "questionText": "Was sind Sohlschwellen?",
+    "answerA": "Niedrige Querbauwerke in Fließgewässern",
+    "answerB": "Befestigte Gewässerbetten",
+    "answerC": "Fundamente von Wehren"
+  },
+  "233": {
+    "questionText": "Was beschleunigt die Ausstickung unter Eis?",
+    "answerA": "Schnee und bewölktes Wetter",
+    "answerB": "Sonnenschein",
+    "answerC": "Starker Wind"
+  },
+  "234": {
+    "questionText": "Wodurch wird oftmals die Bewirtschaftung junger Bergbaurestseen behindert?",
+    "answerA": "Durch saures Wasser, geringe Fruchtbarkeit sowie fehlende Gelegezone",
+    "answerB": "Durch zu hohen Raubfischanteil",
+    "answerC": "Durch zu hohes Planktonaufkommen"
+  },
+  "235": {
+    "questionText": "Kann sich ein zu hoher Karpfenbestand auf die Unterwasserpflanzen im Gewässer auswirken?",
+    "answerA": "Ja",
+    "answerB": "Nein",
+    "answerC": "Ja, nur in pflanzenarmen Gewässern"
+  },
+  "236": {
+    "questionText": "Was versteht man unter der Selbstreinigung eines Gewässers?",
+    "answerA": "Die Verringerung und der Abbau der Schmutzstoffe im Wasser durch biochemische Prozesse",
+    "answerB": "Das Absetzen der Schmutzstoffe am Gewässergrund",
+    "answerC": "Die Verringerung unerwünschter Fischarten durch Raubfische"
+  },
+  "237": {
+    "questionText": "Was versteht man unter Fischhege?",
+    "answerA": "Alle Maßnahmen, die dem Schutz und der Pflege eines gewässerspezifisch- artenreichen Fischbestandes dienen",
+    "answerB": "Einsatz und Pflege möglichst vieler Fischarten",
+    "answerC": "Pflege der Ufer und Wasserpflanzen"
+  },
+  "238": {
+    "questionText": "Wie kann der Angelfischer nachhaltig zeigen, dass er auch Umweltschützer ist?",
+    "answerA": "Durch Sauberhaltung seines Angelplatzes und - gewässers, ruhiges Verhalten in der Natur und schonenden Umgang mit Tieren und Pflanzen",
+    "answerB": "Durch Spenden an Umweltverbände",
+    "answerC": "Durch entsprechende Werbung"
+  },
+  "239": {
+    "questionText": "Haben intakte (nicht verlandete) Buhnenfelder einen hohen fischereilichen Wert?",
+    "answerA": "Ja, sie ersetzen verlorengegangene Nebengewässer und weisen eine hohe Bioproduktion auf.",
+    "answerB": "Nein, sie stellen ein künstliches Gebilde dar.",
+    "answerC": "Nein, es fehlen geeignete Unterstände."
+  },
+  "240": {
+    "questionText": "Was versteht man bei einer Angelrute unter dem Begriff  \"Aktion\"?",
+    "answerA": "Die Form und Art der Biegekurve unter Belastung",
+    "answerB": "Die Rutenlänge",
+    "answerC": "Die Stärke der Rute"
+  },
+  "241": {
+    "questionText": "Nach welchen Gesichtspunkten soll das Angelgerät zusammengestel werden?",
+    "answerA": "Nach der Zweckmäßigkeit und Fischweidgerechtigkeit",
+    "answerB": "Nach Kostengesichtspunkten",
+    "answerC": "Nach optischen Gesichtspunkten"
+  },
+  "242": {
+    "questionText": "Berechtigt der Fischereischein, der nach bestandener Anglerprüfung erteilt wird, zur Benutzung von Legeangeln (Aalschnur)?",
+    "answerA": "Nein",
+    "answerB": "Ja, aber nur mit totem Köderfisch",
+    "answerC": "Ja"
+  },
+  "243": {
+    "questionText": "Wie wird die Bremse der Angelrolle eingestellt?",
+    "answerA": "So, dass bei stärkerem Zug des Fisches ein Schnurbruch verhindert wird",
+    "answerB": "So, dass ein großer Fisch keine Schnur nehmen kann",
+    "answerC": "So, dass ein Fisch immer Schnur nehmen kann"
+  },
+  "244": {
+    "questionText": "Zum Fang welcher Fischart verwendet man ein Stahlvorfach?",
+    "answerA": "Hecht",
+    "answerB": "Forelle",
+    "answerC": "Äsche"
+  },
+  "245": {
+    "questionText": "Wozu dient ein Wirbel?",
+    "answerA": "Er vermeidet Schnurverdrehungen",
+    "answerB": "Er lockt den Fisch an",
+    "answerC": "Er vermeidet Hänger"
+  },
+  "246": {
+    "questionText": "Bei welcher Posenart wird ein Stopper benötigt?",
+    "answerA": "Bei Laufposen",
+    "answerB": "Bei jeder Posenart",
+    "answerC": "Bei feststehenden Posen"
+  },
+  "247": {
+    "questionText": "Welcher ist der wichtigste Gerätetest vor Beginn des Angelns?",
+    "answerA": "Überprüfung der Festigkeit der gesamten Angelflucht durch Zugprobe",
+    "answerB": "Kontrolle von Schnurlänge und Schnurstärke",
+    "answerC": "Prüfung von Wirbel und Vorfach auf ordnungsgemäßen Sitz"
+  },
+  "248": {
+    "questionText": "Welcher \"Grundsatz\" ist fischgerecht?",
+    "answerA": "Schnur nicht dünner als nötig",
+    "answerB": "Schnur nicht dünner als 0, 30 mm",
+    "answerC": "Schnur nicht dicker als 0, 45 mm"
+  },
+  "249": {
+    "questionText": "Wie soll ein Knoten sein?",
+    "answerA": "Möglichst einfach zu binden und von hoher Tragkraft",
+    "answerB": "Möglichst klein",
+    "answerC": "Möglichst leicht zu lösen"
+  },
+  "250": {
+    "questionText": "Was können schadhafte Ringe an der Angelrute bewirken?",
+    "answerA": "Eine Beschädigung  der Schnur",
+    "answerB": "Ein Taumeln des Köders",
+    "answerC": "Einen Bruch der Rute"
+  },
+  "251": {
+    "questionText": "Was ist eine Multirolle?",
+    "answerA": "Rolle mit Übersetzung und rotierender Spule",
+    "answerB": "Rolle mit Übersetzung und starrer Spule",
+    "answerC": "Rolle ohne Übersetzung"
+  },
+  "252": {
+    "questionText": "Welche der Gerätekombinationen ist korrekt?",
+    "answerA": "Für Karpfen: Lange Rute, Schnurdurchmesser 0, 30 mm, 3-er Haken",
+    "answerB": "Für Forelle: Steife Rute Schnurdurchmesser 0, 20 mm, 2-er Haken",
+    "answerC": "Für Hecht: Weiche Rute, Schnurdurchmesser 0, 40 mm, 14-er Haken"
+  },
+  "253": {
+    "questionText": "Weshalb ist das Fliegenfischen die schonendste Angelmethode?",
+    "answerA": "Weil der Fisch fast immer in der vorderen Maulpartie gehakt wird.",
+    "answerB": "Weil kleinere Haken Verwendung finden.",
+    "answerC": "Weil Fliegen keine Schmerzen erleiden."
+  },
+  "254": {
+    "questionText": "Welche Fangmethode ist für den Inhaber einer Raubfischangelkarte erlaubt?",
+    "answerA": "Die Verwendung eines Stahlvorfachsystems mit totem Köderfisch",
+    "answerB": "Die Verwendung eines im Handel erhältlichen Aalkorbs",
+    "answerC": "Die Benutzung einer Aalschnur"
+  },
+  "255": {
+    "questionText": "Zum Fang großer Fische im hindernisreichen Wasser sollte mindestens welche Schnurstärke gewählt werden?",
+    "answerA": "0, 40 mm",
+    "answerB": "0, 28 mm",
+    "answerC": "0, 20 mm"
+  },
+  "256": {
+    "questionText": "Wieviele Köderfische oder Krebsköder bzw. wieviele Teile von diesen sind je Handangel zulässig?",
+    "answerA": "Nur ein Köder bzw. nur ein Fetzenköder",
+    "answerB": "Bei einem Drilling, je Hakenspitze ein Köder bzw. ein Fetzenköder",
+    "answerC": "Bei einem System mit mehreren Haken, je Haken ein Köder bzw. ein Fetzenköder."
+  },
+  "257": {
+    "questionText": "Welcher Spinnköder hat eine Tauchschaufel?",
+    "answerA": "Wobbler",
+    "answerB": "Twister",
+    "answerC": "Löffelblinker"
+  },
+  "258": {
+    "questionText": "Welche Fischarten kann man in der Regel mit einem Spinnköder fangen?",
+    "answerA": "Hecht  und Barsch",
+    "answerB": "Karpfen und Aal",
+    "answerC": "Güster und Stint"
+  },
+  "259": {
+    "questionText": "Welcher Köder ist beim Angeln auf Aal sehr fängig?",
+    "answerA": "Tauwurm",
+    "answerB": "Mais",
+    "answerC": "Boilie"
+  },
+  "260": {
+    "questionText": "Wozu dient die Bremse der Stationärrolle?",
+    "answerA": "Zur Vermeidung des Schnurbruchs (bei richtiger Einstellung)",
+    "answerB": "Zum sicheren Anhieb",
+    "answerC": "Zum schnellen Herankurbeln des Fisches"
+  },
+  "261": {
+    "questionText": "Zum Fang welcher Fischarten sind starkdrähtige Haken mit kurzem Schaft geeignet?",
+    "answerA": "Barben, Karpfen",
+    "answerB": "Plötzen, Saiblinge",
+    "answerC": "Moderlieschen, Steinbeißer"
+  },
+  "262": {
+    "questionText": "Was ist ein \"Drilling\"?",
+    "answerA": "Ein Haken mit drei Spitzen",
+    "answerB": "Ein Einfachhaken mit drei Wiederhaken",
+    "answerC": "Ein Kunstköder mit drei Einzelhaken"
+  },
+  "263": {
+    "questionText": "Worauf muss während des Drills geachtet werden?",
+    "answerA": "Durch stete Spannung der Schnur ist Fühlung mit dem Fisch zu halten.",
+    "answerB": "Die Schnur ist möglichst locker zu führen.",
+    "answerC": "Der Fisch ist so schnell wie möglich, auch auf die Gefahr des Verlustes hin, zu landen."
+  },
+  "264": {
+    "questionText": "Wie beeinflussen Knoten die Tragkraft der Angelschnur?",
+    "answerA": "Am Knoten ist die Tragkraft geringer.",
+    "answerB": "Knoten beeinflussen die Tragkraft nicht.",
+    "answerC": "Am Knoten ist die Tragkraft größer."
+  },
+  "265": {
+    "questionText": "Die ersten Meter der Schnur sind aufgerauht. Wie verhält sich der Angler?",
+    "answerA": "Er schneidet den aufgerauhten Teil ab.",
+    "answerB": "Er fettet die aufgerauhte Schnur.",
+    "answerC": "Er angelt weiter."
+  },
+  "266": {
+    "questionText": "Was ist ein Krautblinker?",
+    "answerA": "Blinker mit gegen Hänger geschützten Haken",
+    "answerB": "Künstliche Köder, an deren Haken zur Tarnung Wasserpflanzen befestigt sind.",
+    "answerC": "Mit grüner Metallfolie beklebte Blinker"
+  },
+  "267": {
+    "questionText": "Warum hat das \"Stippangeln\" in eutrophen Gewässern mit einem Massenaufkommen von Weißfischen ökologische Bedeutung?",
+    "answerA": "Es dient vorrangig der Entnahme von Bleien und Güstern zur Verbesserung der Artenzusammensetzung des Fischbestandes.",
+    "answerB": "Es dient neben dem Fischfang auch der Fütterung von Enten.",
+    "answerC": "Es dient vorrangig der Entnahme kleinwüchsiger Hechte."
+  },
+  "268": {
+    "questionText": "Welche angelfischereiliche Bedeutung haben künstliche Köder?",
+    "answerA": "Sie sind fängig und können den Naturköder ersetzen.",
+    "answerB": "Keine, sie sind kostenaufwendig.",
+    "answerC": "Sie sind in ihrer Fängigkeit dem lebenden Köderfisch immer unterlegen."
+  },
+  "269": {
+    "questionText": "Welcher Köder verspricht beim Quappenfang wenig Erfolg?",
+    "answerA": "Brotteig",
+    "answerB": "Tauwurm",
+    "answerC": "Fetzenköder"
+  },
+  "270": {
+    "questionText": "Für welchen Karpfenfisch ist die Kirsche ein guter Köder?",
+    "answerA": "Für den Döbel",
+    "answerB": "Für die Güster",
+    "answerC": "Für die Schleie"
+  },
+  "271": {
+    "questionText": "Zum Fang von kapitalen Fischen in Gewässern mit Strauchwerk wähle ich welchen Schnurdurchmesser?",
+    "answerA": "Über 0, 40 mm",
+    "answerB": "Unter  0, 20 mm",
+    "answerC": "0, 30 mm"
+  },
+  "272": {
+    "questionText": "Die Senke dient zum Fang von Köderfischen. Wo wird sie in der Regel eingesetzt?",
+    "answerA": "Im Uferbereich mit Plötzen, Barschen und Güstern",
+    "answerB": "Im Tümpel mit Bitterlingen und Schlammpeitzgern",
+    "answerC": "Im Bach mit Bachneunaugen und Saiblingen"
+  },
+  "273": {
+    "questionText": "Das \"Hechtdröhnen\" ist eine Methode, unter dem Eis stehende Hechte zu fangen. Ist diese erlaubt?",
+    "answerA": "Nein",
+    "answerB": "Ja",
+    "answerC": "Ja, mit Genehmigung der unteren Fischereibehörde."
+  },
+  "274": {
+    "questionText": "Wozu dient dem Angler ein Unterfangkescher?",
+    "answerA": "Zum Anlanden des Fanges",
+    "answerB": "Zum Hältern gefangener Fische",
+    "answerC": "Zur Aufbewahrung von Angelzubehör"
+  },
+  "275": {
+    "questionText": "Wozu ist die Senke ausschließlich zu benutzen?",
+    "answerA": "Zum Fang von Köderfischen",
+    "answerB": "Zum Fang von Speisezandern",
+    "answerC": "Zum Glasaalfang"
+  },
+  "276": {
+    "questionText": "Wo wird die Grundangel vorwiegend eingesetzt?",
+    "answerA": "In der Gelegezone",
+    "answerB": "Im Tiefenwasserbereich mit Faulschlammbildung",
+    "answerC": "In schnellfließenden Bächen"
+  },
+  "277": {
+    "questionText": "An sonnigen Sommertagen hält sich die Schleie gerne unter Seerosenblättern auf. Welche Fangtiefe sollte gewählt werden?",
+    "answerA": "0, 30 - 1, 0 m",
+    "answerB": "2 - 3 m",
+    "answerC": "5 m"
+  },
+  "278": {
+    "questionText": "In welchen Gewässern ist ein Zanderfang zu erwarten?",
+    "answerA": "In trüben Seen",
+    "answerB": "In klaren Maränenseen",
+    "answerC": "In Niederungsbächen"
+  },
+  "279": {
+    "questionText": "Bei welcher Angelmethode ist eine Pose unbedingt notwendig?",
+    "answerA": "Beim Stippangeln",
+    "answerB": "Beim Flugangeln",
+    "answerC": "Beim Grundangeln"
+  },
+  "280": {
+    "questionText": "Ist im Land Brandenburg der Gebrauch einer Harpune zum Fischfang zulässig?",
+    "answerA": "Nein",
+    "answerB": "Ja",
+    "answerC": "Ja, mit Ausnahmegenehmigung"
+  },
+  "281": {
+    "questionText": "Ist das Zurücksetzen der kleinsten von geangelten und nachfolgend gehälterten Fischen zulässig?",
+    "answerA": "Nein",
+    "answerB": "Ja",
+    "answerC": "Ja, aber nur in Fließgewässer"
+  },
+  "282": {
+    "questionText": "Ist der Unterfangkescher ein für den Angler zulässiges Hilfsgerät?",
+    "answerA": "Ja",
+    "answerB": "Nein",
+    "answerC": "Ja, aber nur für Inhaber des Fischereischeines A"
+  },
+  "283": {
+    "questionText": "Drillinge dienen zum Fang von ...?",
+    "answerA": "Raubfischen",
+    "answerB": "Friedfischen",
+    "answerC": "Köderfischen"
+  },
+  "284": {
+    "questionText": "Im Land Brandenburg sind Angelhaken zulässig mit ...",
+    "answerA": "3 Spitzen",
+    "answerB": "4 Spitzen",
+    "answerC": "5 Spitzen"
+  },
+  "285": {
+    "questionText": "Darf man tiefgefrorenen Köderfisch aus anderen Gewässern zum Angeln verwenden?",
+    "answerA": "Ja",
+    "answerB": "Nein",
+    "answerC": "Ja, nur in den Wintermonaten"
+  },
+  "286": {
+    "questionText": "Was sind Schonhaken?",
+    "answerA": "Haken ohne Widerhaken",
+    "answerB": "Kleine Haken mit einem Widerhaken",
+    "answerC": "Haken mit zwei Widerhaken"
+  },
+  "287": {
+    "questionText": "Wie sollte die Angelschnur unter Wasser beschaffen sein?",
+    "answerA": "Möglichst unsichtbar",
+    "answerB": "Gut erkennbar",
+    "answerC": "Immer dunkel gefärbt"
+  },
+  "288": {
+    "questionText": "Wodurch unterscheidet sich die  Flugangel von anderen Angelgeräten?",
+    "answerA": "Schnur und Köder stellen das Wurfgewicht dar.",
+    "answerB": "Mindestens 3 Haken sind größer als Hakengröße 8.",
+    "answerC": "Das Wurfgewicht ist in die Gleitpose eingearbeitet."
+  },
+  "289": {
+    "questionText": "Was ist für die Spinnangel charakteristisch?",
+    "answerA": "Rute und Rolle, bei deren Handhabung der Köder vom Angler ständig bewegt wird.",
+    "answerB": "Rute mit Rolle und künstlicher Spinne als ausgelegten Köder",
+    "answerC": "Die Schnur besteht aus versponnener Flechtleine."
+  },
+  "290": {
+    "questionText": "Wieviele Haken dürfen an Wobblern und Spinnsystemen für tote Köderfische verwendet werden?",
+    "answerA": "Maximal 3 Haken",
+    "answerB": "2 Haken",
+    "answerC": "1 Haken"
+  },
+  "291": {
+    "questionText": "Darf das Fleisch der Wollhandkrabbe als Köder verwendet werden?",
+    "answerA": "Ja",
+    "answerB": "Nein",
+    "answerC": "Nur, wenn sie größer als 5cm ist"
+  },
+  "292": {
+    "questionText": "Darf der Angler eine Lampe zum Anlocken der Fische verwenden?",
+    "answerA": "Nein",
+    "answerB": "Ja",
+    "answerC": "Ja, wenn keine Schonzeit vorliegt"
+  },
+  "293": {
+    "questionText": "Darf der Angler einem 13jährigen Begleiter den Köderfischfang mit dem Senknetz überlassen?",
+    "answerA": "Nein",
+    "answerB": "Ja",
+    "answerC": "Ja, nur wenn die Erlaubnis des Gewässereigentümers vorliegt."
+  },
+  "294": {
+    "questionText": "Sind mechanische und chemische Betäubungsmittel beim Fischfang erlaubt?",
+    "answerA": "Nein",
+    "answerB": "Ja",
+    "answerC": "Ja, nur mit Zustimmung des Fischers"
+  },
+  "295": {
+    "questionText": "Muss Bestandteil der Angel eine Rute sein?",
+    "answerA": "Ja",
+    "answerB": "Nein",
+    "answerC": "Ja, nur beim Angeln von Raubfischen"
+  },
+  "296": {
+    "questionText": "Dürfen Angelgeräte fangfertig an oder auf Gewässern mitgeführt werden, auf denen man nicht zum Fischfang berechtigt ist?",
+    "answerA": "Nein",
+    "answerB": "Ja",
+    "answerC": "Ja, aber nur wenn mit diesen Geräten am gleichen Tag an anderen Gewässern geangelt wird."
+  },
+  "297": {
+    "questionText": "Darf eine Hälterung von Fischen aus dem fahrenden Wasserfahrzeug erfolgen?",
+    "answerA": "Nein",
+    "answerB": "Ja",
+    "answerC": "Ja, aber nur bei langsamer Fahrt"
+  },
+  "298": {
+    "questionText": "Wie kann die Anlandung eines Fisches besonders schonend erfolgen?",
+    "answerA": "Mit einem Unterfangkescher",
+    "answerB": "Mit einem Gaff",
+    "answerC": "Mit der Hand"
+  },
+  "299": {
+    "questionText": "Ein Spinner hat im Gegensatz zu einem Blinker ...?",
+    "answerA": "ein um eine Achse rotierendes Blatt.",
+    "answerB": "die rote Färbung.",
+    "answerC": "einen besonders langschenkligen Drilling."
+  },
+  "300": {
+    "questionText": "Wie lang sollte das Stahlvorfach beim Angeln auf Hecht (mit natürlichem Köder) sein?",
+    "answerA": "Ca. 30 cm",
+    "answerB": "Ca. 10 cm",
+    "answerC": "Ca. 15 cm"
+  },
+  "301": {
+    "questionText": "Was ist eine Rachensperre?",
+    "answerA": "Ein Hilfsgerät zum Aufsperren des Rachens bei gefangenen Hechten",
+    "answerB": "Eine Fischkrankheit",
+    "answerC": "Das durch einen zu harten Drill verursachte Aushaken des Unterkiefers von Hechten"
+  },
+  "302": {
+    "questionText": "Was ist ein Laufblei?",
+    "answerA": "Ein durchlochtes Blei",
+    "answerB": "Ein vor dem Zugnetz flüchtender Blei",
+    "answerC": "Ein Vorlaufblei vor einem Blinker"
+  },
+  "303": {
+    "questionText": "Was wird als Wickelblei bezeichnet?",
+    "answerA": "Ein dünner, flexibler Bleistreifen zum Austarieren der Angelmontage",
+    "answerB": "Eine Bleiolive zum Aufwickeln von Schnurresten",
+    "answerC": "Ein Sargblei"
+  },
+  "304": {
+    "questionText": "Wogegen ist monofile Angelschnur empfindlich?",
+    "answerA": "Gegen Sonnenlicht",
+    "answerB": "Gegen Wasser",
+    "answerC": "Gegen Druck"
+  },
+  "305": {
+    "questionText": "Welche Materialien werden im modernen Rutenbau am häufigsten verwendet?",
+    "answerA": "Glasfaser, Kohlefaser und Mischfasern aus Siliconcarbid",
+    "answerB": "Plaste, Balsaholz und Bambus",
+    "answerC": "Holz, Tonkingrohr und Bambus"
+  },
+  "306": {
+    "questionText": "Welche Nachteile besitzt eine Kohlefaserrute gegenüber einer Glasfaserrute?",
+    "answerA": "Die Rute ist wesentlich teurer und bei Gewitter eine Gefahr.",
+    "answerB": "Die Rute ist bei gleicher Länge wesentlich dicker.",
+    "answerC": "Die Rute ist schwerer, jedoch wesentlich stabiler."
+  },
+  "307": {
+    "questionText": "Welche Vorteile besitzt eine Kohlefaserrute gegenüber einer Glasfaserrute?",
+    "answerA": "Die Rute ist wesentlich leichter und steifer.",
+    "answerB": "Sie ist billiger und bruchfester.",
+    "answerC": "Die Rute ist bei gleicher Länge wesentlich steifer und schwerer."
+  },
+  "308": {
+    "questionText": "Warum sollte eine Angelrute nicht über das angegebene Wurfgewicht belastet werden?",
+    "answerA": "Es besteht Bruchgefahr für die Rute.",
+    "answerB": "Die angestrebte Wurfweite wird sonst nicht erreicht.",
+    "answerC": "Die Rute verbiegt sich dauerhaft."
+  },
+  "309": {
+    "questionText": "Was sind Boilies?",
+    "answerA": "Spezielle Karpfenköder",
+    "answerB": "Wasserkugeln als Posenersatz",
+    "answerC": "Durchlochte Bleikugeln"
+  },
+  "310": {
+    "questionText": "Welche Funktion hat die Rücklaufsperre einer Rolle?",
+    "answerA": "Sie verhindert das Rückwärtslaufen des Rotors.",
+    "answerB": "Sie verhindert ein Zerreißen der Schnur beim Drill.",
+    "answerC": "Sie verhindert Verdrallungen."
+  },
+  "311": {
+    "questionText": "Welche Fische sollen beim Einsatz von Stahlvorfächern geangelt werden?",
+    "answerA": "Raubfische",
+    "answerB": "Cypriniden",
+    "answerC": "Friedfische"
+  },
+  "312": {
+    "questionText": "Weshalb sollte bei einer Friedfischangel die Tragkraft des Vorfaches geringer als die Tragkraft der Hauptschnur sein?",
+    "answerA": "Um bei einem Hänger den Totalverlust der Angelmontage zu vermeiden.",
+    "answerB": "Um große Fische sicherer zu landen.",
+    "answerC": "Um die Haken besser binden zu können."
+  },
+  "313": {
+    "questionText": "Was ist eine \"Bibberspitze\"?",
+    "answerA": "Ein Bissanzeiger",
+    "answerB": "Ein Erdspieß mit Rutenhalter",
+    "answerC": "Ein spezieller Angelhaken"
+  },
+  "314": {
+    "questionText": "Wodurch unterscheidet sich der Wurmhaken von anderen Einfachhaken?",
+    "answerA": "Er besitzt zusätzlich am Schaft weitere Widerhaken.",
+    "answerB": "Er besitzt einen größeren Hakenbogen als andere Haken.",
+    "answerC": "Der Widerhaken der Hakenspitze zeigt nach außen."
+  },
+  "315": {
+    "questionText": "Welcher Grundsatz gilt beim Spinnangeln?",
+    "answerA": "Je verführerischer die Köderführung, desto größer die Aussicht auf Fangerfolg.",
+    "answerB": "Je größer der Köder, umso größer die Aussicht auf Fangerfolg.",
+    "answerC": "Je teurer der Köder, desto größer die Aussicht auf Fangerfolg."
+  },
+  "316": {
+    "questionText": "Bei welchem Kunstköder sollte unbedingt ein Wirbel vorgeschaltet werden, da die Gefahr des Schnurdralles besonders hoch ist?",
+    "answerA": "Blinker",
+    "answerB": "Pilker",
+    "answerC": "Streamer"
+  },
+  "317": {
+    "questionText": "Worauf sollte beim Kauf eines Unterfangkeschers besonders geachtet werden?",
+    "answerA": "Auf die Bügelspannweite und die Qualität des evtl. Anklappsystems",
+    "answerB": "Auf den Preis und die Herstellerfirma",
+    "answerC": "Auf die Länge des Kescherstockes und die Farbe des Netzes"
+  },
+  "318": {
+    "questionText": "Welche Aussage über \"verbotene Fangmethoden\" ist richtig?",
+    "answerA": "Der Einsatz explodierender oder giftiger Mittel ist verboten.",
+    "answerB": "Es gibt vom Mai bis Dezember keine verbotenen Fangmethoden.",
+    "answerC": "Der Einsatz von Elektrizität und künstlichem Licht ist ausnahmslos verboten."
+  },
+  "319": {
+    "questionText": "Welche Eigenschaften sollte eine Angelrute haben?",
+    "answerA": "Sie sollte möglichst leicht und stabil sein.",
+    "answerB": "Sie sollte möglichst lang und hart sein.",
+    "answerC": "Sie sollte möglichst kurz und weich sein."
+  },
+  "320": {
+    "questionText": "Welche Vorteile haben Kohlefaserruten?",
+    "answerA": "Sie sind extrem leicht und dynamisch.",
+    "answerB": "Sie brechen nie.",
+    "answerC": "Sie sind leicht und werden deshalb nur von Kindern benutzt."
+  },
+  "321": {
+    "questionText": "Worauf ist beim Angeln mit einer Kohlefaserrute unbedingt zu achten?",
+    "answerA": "Sie leitet Strom (Keine elektrischen Leitungen damit berühren und nicht bei Gewitter verwenden!)",
+    "answerB": "Sie bricht schnell (Nicht auf harte Gegenstände aufschlagen.)",
+    "answerC": "Sie fängt schlecht (Nicht zum Hegefischen verwenden.)"
+  },
+  "322": {
+    "questionText": "Was ist zu beachten, um eine unberingte Teleskoprute schonend zu behandeln?",
+    "answerA": "Beim Zusammenschieben Spitze zuletzt einschieben.",
+    "answerB": "Beim Auseinanderziehen Spitze zuletzt ausziehen.",
+    "answerC": "Beim Zusammenschieben auf den festen Sitz der Endkappe achten."
+  },
+  "323": {
+    "questionText": "Welche Merkmale hat die Rute mit einer \"Spitzen-Aktion\"?",
+    "answerA": "Im Rückgrat steif, Biegung nur an der Spitze",
+    "answerB": "Im Rückgrat vom Rutengriff steif beginnend und ab Rutenmitte biegsam",
+    "answerC": "Im Rückgrat gleichmäßig vom Rutengriff  bis zur Spitze biegsam"
+  },
+  "324": {
+    "questionText": "Welche Merkmale hat die Rute mit einer \"Mittenaktion\"?",
+    "answerA": "Im Rückgrat vom Rutengriff beginnend steif und ab Rutenmitte biegsam",
+    "answerB": "Im Rückgrat steif, Biegung nur an der Spitze",
+    "answerC": "Im Rückgrat gleichmäßig vom Rutengriff  bis zur Spitze biegsam"
+  },
+  "325": {
+    "questionText": "Welche Rutenaktion benötigt man beim Stippangeln?",
+    "answerA": "Die Spitzenaktion",
+    "answerB": "Die Mittenaktion",
+    "answerC": "Die parabolische Aktion"
+  },
+  "326": {
+    "questionText": "Wie entsteht ein Knoten mit höherer Fertigkeit?",
+    "answerA": "Durch Bindung mit einer größeren Anzahl von Windungen",
+    "answerB": "Durch maschinelle Fertigung mit einer Windung",
+    "answerC": "Durch Bindung mit teilweise aufgerauhter Schnur"
+  },
+  "327": {
+    "questionText": "Was sollte bei einer Steckrute mit Rolle vor Beginn des Angelns überprüft werden?",
+    "answerA": "Sitz der Steckverbindungen, die Funktionsfähigkeit der Rolle und deren Befestigung",
+    "answerB": "Die Treffsicherheit durch drei Probewürfe",
+    "answerC": "Nur die Zugfestigkeit und Länge der Schnur"
+  },
+  "328": {
+    "questionText": "Welche Aufgabe haben Schnurlauf- oder Rutenringe?",
+    "answerA": "Sie sollen die Schnur führen.",
+    "answerB": "Sie verhindern die Perückenbildung.",
+    "answerC": "Sie verhindern die Verdrallung der Schnur."
+  },
+  "329": {
+    "questionText": "Zu welcher Rolle gehört der Schnurfangbügel?",
+    "answerA": "Stationärrolle",
+    "answerB": "Multirolle",
+    "answerC": "Fliegenrolle"
+  },
+  "330": {
+    "questionText": "Welche Besonderheit gibt der Stationärrolle ihren Namen?",
+    "answerA": "Die feststehende Spule",
+    "answerB": "Das feststehende Schnurlaufröllchen",
+    "answerC": "Die feststehende Rücklaufsperre"
+  },
+  "331": {
+    "questionText": "Für welche Angelmethoden eignet sich die Stationärrolle besonders gut?",
+    "answerA": "Sie eignet sich sehr gut für alle Fangmethoden, außer zum Flugangeln.",
+    "answerB": "Nur für das Flugangeln",
+    "answerC": "Nur für das Grundangeln"
+  },
+  "332": {
+    "questionText": "Welche Posenart findet in tiefen Gewässern Verwendung?",
+    "answerA": "Die Lauf- und Gleitpose",
+    "answerB": "Die feststehende Antennenpose",
+    "answerC": "Aus Stacheln des Stachelschweines gefertigte Posen"
+  },
+  "333": {
+    "questionText": "Welche Fische sollten mit der Schnurstärke 0, 15 bis 0, 25 mm (monofil) beangelt werden?",
+    "answerA": "Plötzen, Rotfedern, Güstern, Barsche",
+    "answerB": "Alle Fische ohne Mindestmaß bzw. bis zu 25 cm Mindestmaß",
+    "answerC": "Hechte, Zander, Großkarpfen, Aale, Rapfen, Quappen"
+  },
+  "334": {
+    "questionText": "Welche Fische sollten mit der Schnurstärke 0, 25 bis 0, 35 mm(monofil) beangelt werden?",
+    "answerA": "Karpfen, Aale, Bleie, Rapfen, Barben",
+    "answerB": "Fische mit einem Mindestmaß bis 15 cm",
+    "answerC": "Welse, Großhechte, Meeresfische wie Dorsch, Köhler, Lachs, Leng usw."
+  },
+  "335": {
+    "questionText": "Welche Fische sollten mit der Schnurstärke 0, 35 bis 0, 45 mm(monofil) beangelt werden?",
+    "answerA": "Hechte, Zander, Großkarpfen, Aale, Rapfen",
+    "answerB": "Hasel, Barbe",
+    "answerC": "Ukeleis, Plötzen, Rotfedern, Güstern, Aland"
+  },
+  "336": {
+    "questionText": "Welche Fische sollten mit der Schnurstärke 0, 45 bis 0, 60 mm(monofil) beangelt werden?",
+    "answerA": "Welse, Groß-Hechte, Meeresfische (z. B. Groß-Dorsche, Heilbutt)",
+    "answerB": "Bleie, Giebel",
+    "answerC": "Forellen, Barsche, Aale, Schleie"
+  },
+  "337": {
+    "questionText": "Welchen Nachteil hat monofile Angelschnur, wenn auf große Entfernung geangelt wird?",
+    "answerA": "Zunehmende",
+    "answerB": "Dehnung",
+    "answerC": "Nachlassende Reißfestigkeit Verringerte Absinkgeschwindigkeit"
+  },
+  "338": {
+    "questionText": "Wodurch entsteht hauptsächlich der Schnurdrall?",
+    "answerA": "Durch stark wirbelnde Köder, die ohne Wirbel montiert sind.",
+    "answerB": "Durch die Benutzung von Stationärrollen",
+    "answerC": "Durch das Angeln in Fließgewässern mit vielen Wirbeln"
+  },
+  "339": {
+    "questionText": "Wie weit wird die Spule einer Stationärrolle mit Schnur gefüllt?",
+    "answerA": "Bis ca. 2 bis 3 Millimeter unter den Spulenrand",
+    "answerB": "Genau bis zum Spulenrand",
+    "answerC": "Bis ca. 12 bis 13 Millimeter unter den Spulenrand"
+  },
+  "340": {
+    "questionText": "Wie sollte die Angelschnur beim Spulen auf die Rolle geführt werden?",
+    "answerA": "Unter leichter Spannung",
+    "answerB": "Locker und leicht",
+    "answerC": "Ohne jegliche Spannung"
+  },
+  "341": {
+    "questionText": "Gefährden weggeworfene Schnurreste die Umwelt?",
+    "answerA": "Ja, sie sind eine Gefahr für die Tierwelt, am und im Gewässer.",
+    "answerB": "Nein, die Schnur verrottet sehr schnell.",
+    "answerC": "Ja, sie verschandeln die Landschaft."
+  },
+  "342": {
+    "questionText": "Aus welchem Material bestehen in der Regel Angelhaken?",
+    "answerA": "Aus Stahl",
+    "answerB": "Aus Blei",
+    "answerC": "Aus Kunststoff"
+  },
+  "343": {
+    "questionText": "Wie bezeichnet man Haken mit zusätzlichen Widerhaken am Schenkel?",
+    "answerA": "Wurmhaken",
+    "answerB": "Fliegenhaken",
+    "answerC": "Raubfischhaken"
+  },
+  "344": {
+    "questionText": "Welche Hakenart wird hauptsächlich zum Fang von Friedfischen verwendet?",
+    "answerA": "Einfachhaken",
+    "answerB": "Zwillingshaken",
+    "answerC": "Drillingshaken"
+  },
+  "345": {
+    "questionText": "Darf beim Angeln auf Raubfisch nur mit Drillingshaken geangelt werden?",
+    "answerA": "Nein",
+    "answerB": "Ja, denn nur diese garantieren einen Fangerfolg.",
+    "answerC": "Ja"
+  },
+  "346": {
+    "questionText": "Beeinträchtigen Schonhaken den Fangerfolg wesentlich?",
+    "answerA": "Nein, wenn nach dem Anhieb die Angelschnur stets auf Spannung zum Fisch geführt wird.",
+    "answerB": "Ja, da der Fisch solche Haken meidet.",
+    "answerC": "Nein, wenn sie in zweischenkliger Ausführung verwendet werden"
+  },
+  "347": {
+    "questionText": "Wie erfolgt die allgemeine Einteilung von Ködern?",
+    "answerA": "In natürliche und künstliche Köder",
+    "answerB": "In Holz-, Metall- und Plasteköder",
+    "answerC": "In kleine, mittlere und große Köder"
+  },
+  "348": {
+    "questionText": "Was ist aus anglerischer Sicht ein Twister?",
+    "answerA": "Ein künstlicher Köder zum Raubfischfang",
+    "answerB": "Ein Stopperknoten aus Zwirn",
+    "answerC": "Ein Tanzfisch"
+  },
+  "349": {
+    "questionText": "Wozu dienen natürliche Köder?",
+    "answerA": "Zum Fang von Fried- und Raubfischen",
+    "answerB": "Ausschließlich zum Fang von Friedfischen",
+    "answerC": "Ausschließlich zum Fang von Raubfischen"
+  },
+  "350": {
+    "questionText": "Dürfen natürliche Köder gefärbt werden?",
+    "answerA": "Ja, aber nur mit Stoffen die im deutschen Lebensmittelgesetz zugelassen sind",
+    "answerB": "Nein, das ist grundsätzlich verboten",
+    "answerC": "Ja, die Wahl des Farbstoffes ist dem Angler überlassen"
+  },
+  "351": {
+    "questionText": "Dürfen tierische Köder nur tot verwendet werden?",
+    "answerA": "Nein, nur Wirbeltiere müssen grundsätzlich vor dem Anködern betäubt und getötet werden.",
+    "answerB": "Ja, jedes Tier ist vor dem Anködern zu töten.",
+    "answerC": "Nein, nur Tiere, die für den Haken zu groß sind und geteilt werden müssen, sind zu töten."
+  },
+  "352": {
+    "questionText": "Was versteht man unter einem Ködercocktail?",
+    "answerA": "Eine Kombination von verschiedenen Ködern auf einem Haken.",
+    "answerB": "Einen Köder, welcher vorher in Alkohol eingelegt wurde.",
+    "answerC": "Eine Kombination von beköderten Haken und einem montierten Futterkorb"
+  },
+  "353": {
+    "questionText": "Auf welche Fischarten wird auch mit totem Köderfisch geangelt?",
+    "answerA": "Zander, Aal",
+    "answerB": "Blei, Plötze",
+    "answerC": "Karpfen, Karausche"
+  },
+  "354": {
+    "questionText": "Welcher Köder ist im Land Brandenburg verboten?",
+    "answerA": "Der lebende Köderfisch",
+    "answerB": "Der kleine Köderfisch",
+    "answerC": "Der tote Köderfisch"
+  },
+  "355": {
+    "questionText": "Welches Teil der Angelschnur bezeichnet der Angler als Vorfach?",
+    "answerA": "Das Schnurteil zwischen Hauptschnur und Haken",
+    "answerB": "Das Schnurteil zwischen Pose und Bebleiung",
+    "answerC": "Das Schnurteil, das sich ständig auf der Rolle befindet."
+  },
+  "356": {
+    "questionText": "Wie schützt man sich vor dem Durchbeißen, -reiben der Angelschnur beim Raubfischfang?",
+    "answerA": "Durch Verwendung eines Stahlvorfaches",
+    "answerB": "Durch Verwendung mindestens 0, 30 mm starker monofiler Schnur.",
+    "answerC": "Durch vorsichtigen Drill des Fisches"
+  },
+  "357": {
+    "questionText": "Womit ermittelt man die Wassertiefe im Angelbereich?",
+    "answerA": "Mit einem Lotblei",
+    "answerB": "Mit dem Echolot von Land aus",
+    "answerC": "Mit der Gewässerkarte"
+  },
+  "358": {
+    "questionText": "Gehört ein Müllbeutel zur Anglerausrüstung?",
+    "answerA": "Ja, um den eigenen Unrat und gegebenenfalls den des Vorgängers zu beseitigen.",
+    "answerB": "Ja, für den Transport von gefangenen Fischen",
+    "answerC": "Ja, als Ersatz für einen Setzkescher"
+  },
+  "359": {
+    "questionText": "Welche Fischfangmethode ist für Inhaber einer Friedfischangelkarte erlaubt?",
+    "answerA": "Das Friedfischangeln mit einem einschenkligen Haken und Friedfischködern.",
+    "answerB": "Das Senken von Köderfischen zur Vorbereitung des Raubfischfanges.",
+    "answerC": "Die Benutzung von Aalschnüren, die mit Einfachhaken bestückt sind."
+  },
+  "360": {
+    "questionText": "Worauf ist beim Ausnehmen eines Fisches besonders zu achten?",
+    "answerA": "Die Gallenblase sollte nich platzen, anderenfalls den grünlichen Gallensaft sofort mit viel Wasser ausspülen.",
+    "answerB": "Die Organe werden dem Fisch einzeln entnommen.",
+    "answerC": "Die Niere verbleibt im Fischkörper. Beim Öffnen der Leibeshöhle das Messer tief führen, damit der Fisch gut ausblutet."
+  },
+  "361": {
+    "questionText": "Woran ist zu erkennen, dass ein Karpfen vor dem Schlachten richtig betäubt ist?",
+    "answerA": "Am Ausbleiben des Augendrehreflexes",
+    "answerB": "Am Verblassen der Haut",
+    "answerC": "Am Aufsperren der Kiemendeckel"
+  },
+  "362": {
+    "questionText": "Wie werden Karpfen am Gewässer zweckmäßigerweise betäubt?",
+    "answerA": "Durch kräftige Schläge auf den Kopf oberhalb der Augen mit einem geeigneten Gegenstand.",
+    "answerB": "Durch Werfen des Fisches auf festen Boden.",
+    "answerC": "Durch kräftige Schläge auf den Schwanzstiel."
+  },
+  "363": {
+    "questionText": "Muss ein Fisch (außer Aal) vor dem Schlachten betäubt werden?",
+    "answerA": "Ja, ein Wirbeltier darf nur unter Betäubung oder sonst nur unter Vermeidung von Schmerzen getötet werden.",
+    "answerB": "Nein, ein Fisch kann nur richtig ausbluten, wenn noch etwas Leben in ihm ist.",
+    "answerC": "Nein, die Qualität des Fischfleisches wird durch das Betäuben gemindert."
+  },
+  "364": {
+    "questionText": "Welche Reihenfolge bei der Behandlung maßiger und außerhalb der Schonzeit gefangener Fische ist richtig?",
+    "answerA": "Betäuben, töten, abködern, versorgen",
+    "answerB": "Betäuben, abködern, töten, versorgen",
+    "answerC": "Abködern, betäuben, töten, versorgen"
+  },
+  "365": {
+    "questionText": "Bei welchen vom Angelfischer gefangenen Arten kann ein Betäuben vor dem Schlachten unterbleiben?",
+    "answerA": "Bei Aalen und Plattfischen",
+    "answerB": "Bei Hecht und Wels",
+    "answerC": "Bei allen Weißfischarten"
+  },
+  "366": {
+    "questionText": "Welche vom Angelfischer gefangenen Fische, die zum Verzehr bestimmt sind, müssen vor dem Töten betäubt werden?",
+    "answerA": "Alle Fische, außer Aale und Plattfische",
+    "answerB": "Nur Aale",
+    "answerC": "Alle Fische"
+  },
+  "367": {
+    "questionText": "Wie sind Aale vom Angelfischer zu töten?",
+    "answerA": "Ohne Betäubung, mittels Schnitt durch die Wirbelsäule, dicht hinter dem Kopf und Ausblutung",
+    "answerB": "Durch Stich in die Kiemen",
+    "answerC": "Durch Schocktötung mittels Wurf auf harten Boden"
+  },
+  "368": {
+    "questionText": "In welchem Körperbereich wird zur Tötung des Karpfens der Herzstich ausgeführt?",
+    "answerA": "In der Kehlgegend vor den Brustflossen",
+    "answerB": "Zwischen den Bauchflossen und der Afterflosse",
+    "answerC": "Zwischen den Brust- und Bauchflossen"
+  },
+  "369": {
+    "questionText": "Was ist zu tun, wenn Gallensaft auf das Fischfleisch gelangt?",
+    "answerA": "Den grünlichen Gallensaft sofort mit viel sauberem Wasser herausspülen.",
+    "answerB": "Den Fisch verwerfen, da das Fleisch ungenießbar ist.",
+    "answerC": "Die Bauchhöhle des Fisches mit Gras reinigen."
+  },
+  "370": {
+    "questionText": "Wie töte ich gefangene Fische tierschutzgerecht?",
+    "answerA": "Durch Herzstich im Kehlbereich nach vorheriger Betäubung bzw. Wirbelsäulenschnitt hinter dem Kopf (Aal)",
+    "answerB": "Durch Liegenlassen der Fische im Trockenen",
+    "answerC": "Durch Aufschneiden der Bauchhöhle"
+  },
+  "371": {
+    "questionText": "Für eine Speisefischzubereitung sollten folgende Organe vorrangig entfernt werden?",
+    "answerA": "Darmtrakt, Gallenblase und Kiemen",
+    "answerB": "Flossen, Schuppen",
+    "answerC": "Kiemendeckel"
+  },
+  "372": {
+    "questionText": "Worauf sollte beim Schlachten von Barschen und Zandern besonders geachtet werden?",
+    "answerA": "Auf die Verletzungsgefahr durch die Stachelflossen",
+    "answerB": "Auf den giftigen Körperschleim",
+    "answerC": "Auf die Verletzungsgefahr durch die Schuppen"
+  },
+  "373": {
+    "questionText": "Was ist beim Ausnehmen der Fische zu beachten?",
+    "answerA": "Das möglichst hygienische Arbeiten und die anschließende Reinigung des Schlachtkörpers mit sauberem Wasser.",
+    "answerB": "Die erhebliche Verletzungsgefahr",
+    "answerC": "Das Tragen einer speziellen Schutzkleidung"
+  },
+  "374": {
+    "questionText": "Muss eine Quappe vor dem Töten betäubt werden?",
+    "answerA": "Ja, da sie nicht zu den von dieser Regelung ausgenommen  Fischarten zählt.",
+    "answerB": "Nein, da sie zu den von dieser Regelung ausgenommenen Fischarten gehört.",
+    "answerC": "Ja, wenn das Maß von 60 cm überschritten wird."
+  },
+  "375": {
+    "questionText": "Ein Eisangler weidet den gefangenen Fisch aus. Darf er die Eingeweide in das Eisloch geben?",
+    "answerA": "Nein",
+    "answerB": "Ja, dies ist eine sinnvolle Winterfütterung.",
+    "answerC": "Ja, aber nur bei lichtdurchlässigem Eis"
+  },
+  "376": {
+    "questionText": "Welche rechtlichen Anforderungen sind an das Betäuben oder Töten von Fischen gestellt?",
+    "answerA": "Sachkunde (Kenntnisse und Fähigkeiten)",
+    "answerB": "Lehrgang in Erster Hilfe",
+    "answerC": "Mindestalter von 10 Jahren"
+  },
+  "377": {
+    "questionText": "Findet die Tierschutz- und Schlachtverordnung bei der Angelfischerei Anwendung?",
+    "answerA": "Ja",
+    "answerB": "Nein",
+    "answerC": "Ja, wenn Fische  auf Parasiten untersucht werden sollten."
+  },
+  "378": {
+    "questionText": "Sind bei der Betäubung oder Tötung von Fischen Bestimmungen des Tierschutzes zu beachten?",
+    "answerA": "Ja",
+    "answerB": "Nein",
+    "answerC": "Ja, mit Ausnahme für Cypriniden"
+  },
+  "379": {
+    "questionText": "Welches Organ sollte zur Förderung der Haltbarkeitsdauer zusätzlich entfernt werden?",
+    "answerA": "Kiemen",
+    "answerB": "Flossen",
+    "answerC": "Schuppen"
+  },
+  "380": {
+    "questionText": "Ist es aus hygienischer Sicht günstig, den geschlachteten Fisch im Gewässer auszuwaschen?",
+    "answerA": "Nein, das Wasser enthält Keime.",
+    "answerB": "Ja, die sofortige Entfernung von Blutresten erhöht die Haltbarkeitsdauer.",
+    "answerC": "Ja, die sofortige Entfernung des Körperschleimes erhöht die Haltbarkeitsdauer."
+  },
+  "381": {
+    "questionText": "Welche Haltbarkeit hat frisch geschlachteter Speisefisch bei Lagertemperatuen von 2° C bis 8° C?",
+    "answerA": "Ca. 1 Tag",
+    "answerB": "Ca. 5 Tage",
+    "answerC": "Ca. 8 Tage"
+  },
+  "382": {
+    "questionText": "Wie sollte ein zum Verzehr in 8 Tagen bestimmter Fisch gelagert werden?",
+    "answerA": "Gefrostet bei mindestens - 18° C",
+    "answerB": "Im Kühlschrank bei  4° C",
+    "answerC": "Im kühlen Raum bei weniger als 5° C"
+  },
+  "383": {
+    "questionText": "Bei welchen Voraussetzungen eignet sich Fisch zur Frostung?",
+    "answerA": "Wenn er kurzzeitig nach der Tötung geschlachtet und eingefroren wird.",
+    "answerB": "Wenn er nach der Tötung mindestens einen Tag trocknet.",
+    "answerC": "Wenn er durch Salzung vorbereitet wird."
+  },
+  "384": {
+    "questionText": "Welche Möglichkeit besteht, die Lebensmittelqualität getöteter Fische am Fangort zu erhalten?",
+    "answerA": "Luftige und abgedeckte Lagerung, Schutz vor Licht, Wärme und Wasser",
+    "answerB": "Durch Herzstich ausbluten Lagerung im feuchten Gras.",
+    "answerC": "Aufbewahrung im  Wasser in einem Plastebeutel"
+  },
+  "385": {
+    "questionText": "Was versteht man unter dem \"Kalträuchern\"?",
+    "answerA": "Das längere Räuchern bei geringer Hitzeeinwirkung",
+    "answerB": "Das Räuchern in der Winterzeit",
+    "answerC": "Das Räuchern an kalten Sommertagen"
+  },
+  "386": {
+    "questionText": "Nennen Sie eine in der Anglerpraxis mögliche Alternative zur Hälterung gefangener Fische?",
+    "answerA": "Das sofortige weidgerechte Schlachten und Lagern der Fische in einer Kühltasche",
+    "answerB": "Das sofortige Zurücksetzen der Fische",
+    "answerC": "Das sofortige Töten der Fische und die Aufbewahrung im Gewässer"
+  },
+  "387": {
+    "questionText": "Welches sind wichtige Voraussetzungen zur Erhaltung einer hohen Lebensmittelqualität bei frisch geschlachteten Fischen?",
+    "answerA": "Eine kurze Lagerung bei geringen Temperaturen",
+    "answerB": "Eine lang andauernde Lagerung bei hohen Temperaturen",
+    "answerC": "Eine Aufbewahrung in dunklen Räumen"
+  },
+  "388": {
+    "questionText": "Welche wesentlichen Probleme können durch Lagerung oder Aufbewahren von geschlachteten Fischen auftreten?",
+    "answerA": "Es kann zu einer Beeinträchtigung der Qualität der Fische kommen.",
+    "answerB": "Es besteht die Gefahr des Diebstahls.",
+    "answerC": "Der Absatz dieser Fische ist nur in ländlichen Gebieten möglich."
+  },
+  "389": {
+    "questionText": "Wie muss ein frischer, verzehrtauglicher Fisch beschaffen sein?",
+    "answerA": "Die Augen sollten noch klar sein und es sollte  kein starker Fischgeruch auftreten.",
+    "answerB": "Der Fisch sollte eine helle Bauchhöhle aufweisen.",
+    "answerC": "Er sollte möglichst stark nach Fisch riechen."
+  },
+  "390": {
+    "questionText": "Woran erkennt man einen nicht mehr verzehrtauglichen Fisch?",
+    "answerA": "Trübe Augen, starker Fischgeruch und schlechte Fleischbeschaffenheit.",
+    "answerB": "Fehlender starker Fischgeruch, klare Augen",
+    "answerC": "Intakte Haut und Flossen sowie rote Kiemen"
+  },
+  "391": {
+    "questionText": "Welche sind die wichtigsten Qualitätseinbußen bei einer zu lang andauernden Lagerung getöteter Fische?",
+    "answerA": "Zunehmendes Keimwachstum und Veränderungen der Fleischbeschaffenheit",
+    "answerB": "Es gibt keine Qualitätsveränderungen",
+    "answerC": "Verfärbung der Haut und Kiemendeckel"
+  },
+  "392": {
+    "questionText": "Wie sind Aale mit Nematoden in der Schwimmblase zu behandeln?",
+    "answerA": "Die Eingeweide und Schwimmblase sind zu vernichten und der restliche Körper wird normal für den Verzehr zubereitet.",
+    "answerB": "Die Aale sind schadlos zu entsorgen.",
+    "answerC": "Die Aale sind dem Amtstierarzt zu übergeben."
+  },
+  "393": {
+    "questionText": "Wie sind zur Verwertung bestimmte Fische bei einem Befall mit Fischegeln zu behandeln?",
+    "answerA": "Die Fische sind nach Entfernung der Fischegel normal zu verwerten.",
+    "answerB": "Die Fische sind schadlos zu entsorgen.",
+    "answerC": "Die Fische sind in das Gewässer zurückzusetzen."
+  },
+  "394": {
+    "questionText": "Wie lange darf ich einen maßigen Karpfen nach dem Angeln hältern?",
+    "answerA": "Max. bis zum Ende des Fangtages",
+    "answerB": "Bis zu 2 Stunden",
+    "answerC": "Bis zum Morgen des dem Fangtag folgenden Tages"
+  },
+  "395": {
+    "questionText": "Kann ein ausgenommener Fisch länger genusstauglich aufbewahrt werden als ein nicht ausgenommener Fisch?",
+    "answerA": "Ja",
+    "answerB": "Nein",
+    "answerC": "Nein, sie können unter selben Bedingungen gleich lange aufbewahrt werden."
+  },
+  "396": {
+    "questionText": "An einem Fließgewässer wird ein Ansitzangeln durchgeführt. Dürfen gefangene Fische im Gewässer gehältert werden?",
+    "answerA": "Ja, aber nur an einer strömungsberuhigten Stelle",
+    "answerB": "Nein",
+    "answerC": "Ja, nur mit Genehmigung der unteren Fischereibehörde"
+  },
+  "397": {
+    "questionText": "Was ist bei der Verwendung von Köderfischen zu beachten?",
+    "answerA": "Die Verwendung ist durch Bestimmungen des Tierschutz- und Fischereigesetzes geregelt.",
+    "answerB": "Darüber entscheidet allein der Gewässereigentümer bzw. Pächter des Gewässers.",
+    "answerC": "Die Verwendung ist rechtlich auf verletzte oder kranke Fische beschränkt."
+  },
+  "398": {
+    "questionText": "Was ist beim Landen eines größeren Fisches zu beachten?",
+    "answerA": "Die Verwendung des Unterfangkeschers ist zweckmäßig.",
+    "answerB": "Der Drill sollte mindestens 10 Minuten betragen.",
+    "answerC": "Der Fisch ist umgehend an Land zu ziehen."
+  },
+  "399": {
+    "questionText": "Welcher Grundsatz muss Leitsatz jeder Fischerei sein?",
+    "answerA": "Keinem Tier dürfen ohne vernünftigen Grund Schmerzen und Leiden zugefügt werden.",
+    "answerB": "Das erneute Auslegen oder Handhaben des Fischfanggerätes hat Vorrang gegenüber der Versorgung des gefangenen Fisches.",
+    "answerC": "Ziel muss sein, möglichst viele und große Fische zu fangen."
+  },
+  "400": {
+    "questionText": "Ein Hecht wird am 2. Februar geangelt. Besteht eine Schonzeit?",
+    "answerA": "Ja",
+    "answerB": "Nur in Fließgewässern.",
+    "answerC": "Nein"
+  },
+  "401": {
+    "questionText": "Ein Zander wird im Mai geangelt. Besteht eine Schonzeit?",
+    "answerA": "Ja",
+    "answerB": "Nein",
+    "answerC": "Nur in Fließgewässern."
+  },
+  "402": {
+    "questionText": "Wie ist ein untermaßiger Fisch, der am Maul gehakt wurde, zu behandeln?",
+    "answerA": "Vorsichtig mit nassen Händen abködern und unverzüglich ins Wasser zurücksetzen.",
+    "answerB": "Vorsichtig mit einem trockenen Tuch abködern.",
+    "answerC": "In jedem Fall Schnur durchtrennen und den Fisch zurücksetzen."
+  },
+  "403": {
+    "questionText": "Was ist zu tun, wenn ein untermaßiger Fisch den Haken tief geschluckt hat?",
+    "answerA": "Die Schnur unmittelbar am Maul abschneiden und den Fisch unverzüglich ins Wasser zurücksetzen.",
+    "answerB": "Entfernen des Hakens mit einem kräftigen Zug und Zurücksetzen des Fisches.",
+    "answerC": "Der Fisch ist umgehend zu betäuben und zu töten."
+  },
+  "404": {
+    "questionText": "Darf der maßige Speisefisch lebend ohne Wasser mit nach Hause genommen werden?",
+    "answerA": "Nein",
+    "answerB": "Ja, wenn er noch einige Tage in der Badewanne gehältert wird.",
+    "answerC": "Ja, mit Ausnahme von Salmoniden"
+  },
+  "405": {
+    "questionText": "Was ist die häufigste Folge der Verletzung der Oberhaut von Fischen?",
+    "answerA": "Die Verpilzung der Wunde",
+    "answerB": "Eine Geschwürbildung",
+    "answerC": "Die Beeinträchtigung des Gleichgewichtssinnes"
+  },
+  "406": {
+    "questionText": "Darf ein Angler maßige lebende Fische kurze Strecken (1 km) ohne Wasser transportieren?",
+    "answerA": "Nein",
+    "answerB": "Ja",
+    "answerC": "Ja, mit Ausnahme von Aalen"
+  },
+  "407": {
+    "questionText": "Wann hat der Angler zu entscheiden, ob er einen gefangenen maßigen Fisch in das Gewässer zurücksetzt?",
+    "answerA": "Sofort nach dem Fang",
+    "answerB": "Innerhalb einer Stunde nach dem Fang",
+    "answerC": "Bei Besitz eines Hälternetzes mit Beendigung des Angeltages"
+  },
+  "408": {
+    "questionText": "Was ist zu tun, wenn vermehrt untermaßige Fische beißen?",
+    "answerA": "Es ist unverzüglich der Fangplatz zu wechseln.",
+    "answerB": "Die gefangenen Fische sind an anderer Stelle des Gewässers auszusetzen.",
+    "answerC": "Der Gewässereigentümer ist zu informieren."
+  },
+  "409": {
+    "questionText": "Wie müssen Güte, Material und Form der Hälter beschaffen sein?",
+    "answerA": "Sie sollen vermeidbare Schädigung der Fische ausschließen.",
+    "answerB": "Sie unterliegen keinen besonderen Anforderungen.",
+    "answerC": "Sie müssen in etwa den DIN- Normen entsprechen."
+  },
+  "410": {
+    "questionText": "Der Drill eines Fisches ...",
+    "answerA": "sollte nur solange andauern, wie unbedingt zur sicheren Landung des Fisches notwendig ist.",
+    "answerB": "sollte kurz sein. Das Risiko des Fischverlustes ist in Kauf zu nehmen.",
+    "answerC": "sollte ausgedehnt werden, um dem Fisch eine annähernde Chancengleichheit zu verschaffen."
+  },
+  "411": {
+    "questionText": "Was versteht man unter einer Hälterung von Fischen?",
+    "answerA": "Die tierschutzgerechte, zeitlich befristete Aufbewahrung von lebenden Fischen.",
+    "answerB": "Das Festhalten der Fische nach dem Drill.",
+    "answerC": "Die Handhabung gefangener Fische."
+  },
+  "412": {
+    "questionText": "Worauf ist bei der Hälterung von Fischen nach dem Fang besonders zu achten?",
+    "answerA": "Auf ein ausreichendes, der Fischart entsprechendes Platzangebot",
+    "answerB": "Auf eine gute Auslastung des Fischhälters",
+    "answerC": "Auf eine möglichst enge Haltung der Fische."
+  },
+  "413": {
+    "questionText": "Welche Vorteile haben Setzkescher, die den Fischen eine horizontale Bewegungsfreiheit ermöglichen?",
+    "answerA": "Die Fische können ihrem natürlichen Bewegungsdrang nachzukommen.",
+    "answerB": "Die Maschenweite kann erweitert werden.",
+    "answerC": "Keine"
+  },
+  "414": {
+    "questionText": "Warum ist die senkrechte Aufhängung von Setzkeschern ungünstig?",
+    "answerA": "Die Fische haben wenig horizontale Bewegungsfreiheit und stoßen häufig an die Wandung des Setzkeschers.",
+    "answerB": "Es passen weniger Fische in den Setzkescher.",
+    "answerC": "Der Setzkescher kann sich leicht am Gewässergrund verhaken."
+  },
+  "415": {
+    "questionText": "Welcher Zusammenhang besteht zwischen der Besatzdichte im Setzkescher und dem Wohlbefinden der eingesetzten Fische?",
+    "answerA": "Eine zu hohe Besatzdichte beeinträchtigt die Bewegungsfreiheit und kann zu Sauerstoffmangel und Verletzungen führen.",
+    "answerB": "Es besteht kein Zusammenhang.",
+    "answerC": "Fische fühlen sich nur bei sehr hohen Besatzdichten wohl."
+  },
+  "416": {
+    "questionText": "Woran erkennt man Sauerstoffmangel bei Fischen?",
+    "answerA": "Unruhige Atmung (schnelle Kiemendeckelbewegung), Notatmung an der Wasseroberfläche.",
+    "answerB": "Ruhige Atmung (langsame Kiemendeckelbewegung)",
+    "answerC": "Stark anliegende Kiemendeckel, trübe Augen"
+  },
+  "417": {
+    "questionText": "Welche rechtlichen Bestimmungen sind beim Hältern von Fischen besonders zu beachten?",
+    "answerA": "Das Tierschutzgesetz",
+    "answerB": "Die Hygieneverordnung",
+    "answerC": "Das Naturschutzgesetz"
+  },
+  "418": {
+    "questionText": "Weshalb dürfen gehälterte Fische nicht wieder in das Gewässer zurückgesetzt werden?",
+    "answerA": "Damit entfällt der vernünftige Grund für den Fang (Tierschutzgesetz).",
+    "answerB": "Im Flachwasser gehälterte Fische sind nicht mehr in der Lage, ins tiefere Wasser abzutauchen.",
+    "answerC": "Sie werden von ihren Artgenossen nicht mehr angenommen."
+  },
+  "419": {
+    "questionText": "Ist das Schlachten und Aufbewahren von Fischen gesetzlich geregelt?",
+    "answerA": "Ja, in der Tierschutzschlachtverordnung",
+    "answerB": "Nein, da Fische wechselwarme Organismen sind, existiert keine Bestimmung.",
+    "answerC": "Nein, das Schlachten und Aufbewahren der Fische liegt im freien Ermessen des Anglers."
+  },
+  "420": {
+    "questionText": "Was ist in der Tierschutzschlachtverordnung geregelt?",
+    "answerA": "Fische sind vor dem Schlachten zu betäuben.",
+    "answerB": "Fische können nach freiem Ermessen des Anglers geschlachtet und aufbewahrt werden.",
+    "answerC": "Die Verordnung stellt lediglich fest, dass bei wechselwarmen Organismen kein Regelungsbedarf besteht."
+  },
+  "421": {
+    "questionText": "Warum sind zu kleine Haken abzulehnen?",
+    "answerA": "Kleine Haken werden oft zu tief geschluckt.",
+    "answerB": "Es werden zu viele Fische gefangen.",
+    "answerC": "Es treten oft Fehlbisse auf."
+  },
+  "422": {
+    "questionText": "Was ist beim Transport von lebenden Fischen zu beachten?",
+    "answerA": "Das Wasservolumen der Transportgefäße muss eine ausreichende Bewegungsmöglichkeit der Fische und eine ausreichende Sauerstoffversorgung gewährleisten.",
+    "answerB": "Fische sind während des Transports mehrmals zu füttern.",
+    "answerC": "Zur Vermeidung von unnötigen Bewegungen der Fische sind die Gefäße möglichst klein zu halten."
+  },
+  "423": {
+    "questionText": "Genügt für den Lebendtransport eines Karpfens das Einschlagen in ein feuchtes und kühles Tuch?",
+    "answerA": "Nein",
+    "answerB": "Ja",
+    "answerC": "Ja, aber nur bei Fischen unter 1 kg"
+  },
+  "424": {
+    "questionText": "Wie sind cyprinidenartige Fische lebend zur Untersuchung zu bringen?",
+    "answerA": "Im genügend großen Plastebeutel mit einem Drittel Wasser und zwei Drittel Luft",
+    "answerB": "In Eis verpackt und trocken im Karton",
+    "answerC": "In einem feuchten Leinensack"
+  },
+  "425": {
+    "questionText": "Ist die Beförderung verletzter, lebender Fische verboten, wenn sie zum Verzehr bestimmt sind?",
+    "answerA": "Ja",
+    "answerB": "Nein",
+    "answerC": "Ja, nur für Forellen"
+  },
+  "426": {
+    "questionText": "Welche Fische dürfen ausnahmsweise ohne Wasser in ausreichend feuchter Verpackung transportiert werden?",
+    "answerA": "Glasaale",
+    "answerB": "Karpfenbrut",
+    "answerC": "Schleie"
+  },
+  "427": {
+    "questionText": "Was muss bei der Beförderung lebender Fische in Wasserbehältern insbesondere sichergestellt sein?",
+    "answerA": "Eine ausreichende Sauerstoffversorgung",
+    "answerB": "Die Beimischung von Medikamenten",
+    "answerC": "Eine ausreichende Futterversorgung"
+  },
+  "428": {
+    "questionText": "Dürfen in einem Fluss gefangene Karpfen mit einer Länge von 15 cm als Köderfische verwendet werden?",
+    "answerA": "Nein",
+    "answerB": "Ja, wenn sie zur Verwendung als Satzfische nicht geeignet sind.",
+    "answerC": "Ja"
+  },
+  "429": {
+    "questionText": "Welche der aufgeführten Arten dürfen nicht als Köderfische Verwendung finden?",
+    "answerA": "Bachneunauge, Bitterling",
+    "answerB": "Plötze, Rotfeder",
+    "answerC": "Güster, Barsch"
+  },
+  "430": {
+    "questionText": "Aus welchen Gründen muss ein gefangenes Bachneunauge schonend und  unverzüglich in das Herkunftsgewässer zurückgesetzt werden?",
+    "answerA": "Es zählt zu den ganzjährig geschützten Arten",
+    "answerB": "Es unterliegt nicht dem Fischereirecht",
+    "answerC": "Es ist ungenießbar."
+  },
+  "431": {
+    "questionText": "Darf sich der Angler einen Schlammpeitzger aneignen?",
+    "answerA": "Nein, es handelt sich um eine ganzjährig geschützte Fischart.",
+    "answerB": "Ja, bei Erreichen einer Länge von 10 cm",
+    "answerC": "Ja, vom 1. Mai bis 31."
+  },
+  "432": {
+    "questionText": "Mit der Senke werden Moderlieschen gefangen. Wie ist zu verfahren?",
+    "answerA": "Sofort schonend zurücksetzen.",
+    "answerB": "Als hervorragenden Köder lebend hältern.",
+    "answerC": "Als \"Katzenfisch\" mitnehmen."
+  },
+  "433": {
+    "questionText": "Wie lange dürfen mit der Handangel gefangene Fische gehältert werden?",
+    "answerA": "Bis zum Ende des Fangtages.",
+    "answerB": "2 Stunden",
+    "answerC": "1 Stunde"
+  },
+  "434": {
+    "questionText": "Wie ermittelt man das Mindestmaß bei Fischen?",
+    "answerA": "Durch Messen von der Kopfspitze bis zum Ende der ausgebreiteten Schwanzflosse",
+    "answerB": "Durch Messen von der Kopfspitze bis zur Schwanzwurzel",
+    "answerC": "Durch Messen von der Kopfspitze bis zur Mitte des kürzesten Schwanzflossenteils"
+  },
+  "435": {
+    "questionText": "Darf ein am 30. März geangelter Rapfen mitgenommen werden?",
+    "answerA": "Ja, die Schonzeit beginnt erst am 1. April.",
+    "answerB": "Nein, er ist ganzjährig geschont.",
+    "answerC": "Nein, die Schonzeit beginnt bereits am 1. März."
+  },
+  "436": {
+    "questionText": "Welches Mindestmaß gilt für den Hecht?",
+    "answerA": "45 cm",
+    "answerB": "55 cm",
+    "answerC": "60 cm"
+  },
+  "437": {
+    "questionText": "Welches Mindestmaß gilt für den Karpfen?",
+    "answerA": "35 cm",
+    "answerB": "45 cm",
+    "answerC": "60 cm"
+  },
+  "438": {
+    "questionText": "Unter welchen Bedingungen dürfen geangelte Fische im Setzkescher gehältert werden?",
+    "answerA": "In strömungsberuhigten Zonen der Gewässer",
+    "answerB": "In Fließgewässern mit starker Strömung",
+    "answerC": "Von fahrenden Wasserfahrzeugen aus"
+  },
+  "439": {
+    "questionText": "Welche geangelte Fischart muss, unabhängig von ihrer Größe, sofort in das Gewässer zurückgesetzt werden?",
+    "answerA": "Nase",
+    "answerB": "Aal",
+    "answerC": "Hecht"
+  },
+  "440": {
+    "questionText": "Welche Schonzeit hat die Barbe?",
+    "answerA": "1. Mai bis 31. Juli",
+    "answerB": "1. Oktober bis 30. April",
+    "answerC": "1. Februar bis 30. April"
+  },
+  "441": {
+    "questionText": "Ein Wels wird im Juli geangelt. Besteht zu diesem Zeitpunkt eine Schonzeit?",
+    "answerA": "Nein",
+    "answerB": "Ja",
+    "answerC": "Nur in der Salmonidenregion."
+  },
+  "442": {
+    "questionText": "Beim Eisangeln werden maßige Fische gefangen. Sind diese Fische trotz starkem Frost zu töten?",
+    "answerA": "Ja",
+    "answerB": "Nein, sie gefrieren sofort.",
+    "answerC": "Nein, das Schmerzempfinden setzt aus."
+  },
+  "443": {
+    "questionText": "Darf der Angler den gefangenen Hecht mit einer Größe von 40 cm verwerten, wenn der Eigentümer eines Fließgewässers ihm das gestattet?",
+    "answerA": "Nein, das Mindestmaß beträgt 45 cm.",
+    "answerB": "Ja",
+    "answerC": "Ja, der Hecht hat kein Mindestmaß."
+  },
+  "444": {
+    "questionText": "Ein Binnenstint wird gefangen. Was ist zu tun?",
+    "answerA": "Der Fisch ist unverzüglich und schonend in das Fanggewässer zurückzusetzen.",
+    "answerB": "Der Fisch ist sofort in ein geeignetes Gewässer umzusetzen.",
+    "answerC": "Der Fisch ist umgehend zu wiegen und zu messen und der Naturschutzbehörde zu melden."
+  },
+  "445": {
+    "questionText": "Eine Elritze wird gefangen. Was ist zu tun?",
+    "answerA": "Der Fisch ist unverzüglich und schonend in das Fanggewässer zurückzusetzen.",
+    "answerB": "Der Fisch ist sofort in ein geeignetes Gewässer umzusetzen.",
+    "answerC": "Der Fisch ist umgehend zu wiegen und zu messen und der Naturschutzbehörde zu melden."
+  },
+  "446": {
+    "questionText": "Ein Flussneunauge wird gefangen. Was ist zu tun?",
+    "answerA": "Der Fisch ist unverzüglich und schonend in das Fanggewässer zurückzusetzen.",
+    "answerB": "Der Fisch ist sofort in ein geeignetes Gewässer umzusetzen.",
+    "answerC": "Der Fisch ist umgehend zu wiegen und  zu messen und der Naturschutzbehörde zu melden."
+  },
+  "447": {
+    "questionText": "Ist beim Fang der Fischart Schleie eine Schonzeit zu beachten?",
+    "answerA": "Nein",
+    "answerB": "Ja",
+    "answerC": "Ja, aber nur in der Teichwirtschaft"
+  },
+  "448": {
+    "questionText": "Ist beim Fang der Fischart Aland eine Schonzeit zu beachten?",
+    "answerA": "Nein",
+    "answerB": "Ja",
+    "answerC": "Ja, aber nur in der Teichwirtschaft"
+  },
+  "449": {
+    "questionText": "Ist beim Fang der Fischart Kleine Maräne eine Schonzeit zubeachten?",
+    "answerA": "Nein",
+    "answerB": "Ja",
+    "answerC": "Ja, aber nur in der Teichwirtschaft"
+  },
+  "450": {
+    "questionText": "Ist beim Fang der Fischart Quappe eine Schonzeit zu beachten?",
+    "answerA": "Nein",
+    "answerB": "Ja",
+    "answerC": "Ja, aber nur in der Teichwirtschaft"
+  },
+  "451": {
+    "questionText": "Hat die geschützte Fischart Nase ein Mindestmaß?",
+    "answerA": "Nein",
+    "answerB": "Ja",
+    "answerC": "Ja, aber nur in Fließgewässern"
+  },
+  "452": {
+    "questionText": "Hat die geschützte Fischart Schlammpeitzger ein Mindestmaß?",
+    "answerA": "Nein",
+    "answerB": "Ja",
+    "answerC": "Ja, aber nur in Fließgewässern"
+  },
+  "453": {
+    "questionText": "Für das Hegefischen wurde im Voraus bestimmt, die gefangenen untermaßigen Plötzen in ein kühleres, raubfischreiches Gewässer umzusetzen. Welche Bedingungen sind zu erfüllen?",
+    "answerA": "Vor dem Aussetzen müssen die Fische in ausreichender Zeit auf die Verhältnisse im Besatzgewässer temperiert werden.",
+    "answerB": "Die Fische müssen in kürzester Zeit ohne Beachtung des Temperaturunterschiedes ausgesetzt werden.",
+    "answerC": "Vor der Umsetzung sind die Fische auf die dem Raubfischbestand entsprechende Stückmasse zu sortieren."
+  },
+  "454": {
+    "questionText": "Darf eine mit der Handangel gefangene untermaßige Schleie in ein anderes für Schleienbesatz vorgesehenes Gewässer umgesetzt werden?",
+    "answerA": "Nein, sie muss in das Herkunftsgewässer zurückgesetzt werden.",
+    "answerB": "Ja",
+    "answerC": "Ja, aber nur außerhalb der Schonzeit."
+  },
+  "455": {
+    "questionText": "Unterliegt ein geschützter Fisch dem Aneignungsrecht des Anglers, wenn er zufällig gefangen wurde?",
+    "answerA": "Nein",
+    "answerB": "Ja, wenn er nicht lebensfähig vom Haken gelöst werden konnte.",
+    "answerC": "Ja, wenn er den Haken tief geschluckt hat."
+  },
+  "456": {
+    "questionText": "Wie sind maßige Fische zu behandeln, die zum Zeitpunkt des Fanges Schonzeit haben?",
+    "answerA": "Diese Fische sind schonend und unverzüglich zurückzusetzen.",
+    "answerB": "Die Milchner können als Speisefisch verwertet werden.",
+    "answerC": "Zwei Stück dürfen verwertet werden."
+  },
+  "457": {
+    "questionText": "Welche Fischart ist im lebenden Zustand schwer zu handhaben?",
+    "answerA": "Aal",
+    "answerB": "Plötze",
+    "answerC": "Döbel"
+  },
+  "458": {
+    "questionText": "Wie sind beim Hegeangeln anfallende Fische zu verwerten?",
+    "answerA": "Sie sind einem sinnvollen Zweck zuzuführen.",
+    "answerB": "Sie sind unverzüglich zu vergraben.",
+    "answerC": "Jeder Angler nimmt seinen Fang und entscheidet selbst über die Verwertung."
+  },
+  "459": {
+    "questionText": "Wann kann ein Fisch als lebensfähig angesehen werden?",
+    "answerA": "Wenn er selbständig in normaler Lage schwimmt und unverletzt erscheint.",
+    "answerB": "Wenn die Kiemen noch nicht verblasst sind.",
+    "answerC": "Wenn sein Maul offen steht."
+  },
+  "460": {
+    "questionText": "Dürfen die im Gartenteich gehaltenen Zierfische in natürliche Gewässer umgesetzt werden?",
+    "answerA": "Nein",
+    "answerB": "Ja",
+    "answerC": "Ja, aber nur durch befugte Personen mit Genehmigung"
+  },
+  "461": {
+    "questionText": "Welche Fische eignen sich insbesondere zum Räuchern?",
+    "answerA": "Aale",
+    "answerB": "Plötzen",
+    "answerC": "Hechte"
+  },
+  "462": {
+    "questionText": "Welche Hölzer werden zum Räuchern verwendet?",
+    "answerA": "Buche, Erle",
+    "answerB": "Tanne, Lärche",
+    "answerC": "Tropenhölzer"
+  },
+  "463": {
+    "questionText": "Wo hat der Karpfen die meisten Gräten?",
+    "answerA": "Im Schwanzstück",
+    "answerB": "Im Kopfstück",
+    "answerC": "Im Mittelstück"
+  },
+  "464": {
+    "questionText": "Welche Fische haben mindere Speisefischqualität?",
+    "answerA": "Güstern",
+    "answerB": "Aale",
+    "answerC": "Zander"
+  },
+  "465": {
+    "questionText": "Darf ein geangelter Karpfen mit starkem Rogenansatz verzehrt werden?",
+    "answerA": "Ja",
+    "answerB": "Ja, aber nur das Fleisch des Schwanzstückes",
+    "answerC": "Nein"
+  },
+  "466": {
+    "questionText": "Hat der Angler sich den geangelten geschützten Fisch angeeignet, wenn er ihn vorübergehend im Setzkescher hält?",
+    "answerA": "Ja",
+    "answerB": "Nein, wenn er diesen später wieder freilässt.",
+    "answerC": "Nein, wenn er diesen zur Artbestimmung weiter gibt."
+  },
+  "467": {
+    "questionText": "Welches Mindestmaß einer Fischart ist für das Angelgewässer verbindlich?",
+    "answerA": "Das auf der Angelkarte aufgeführte Mindestmaß, sofern es höher als das gesetzlich festgelegte ist.",
+    "answerB": "Ausnahmslos das gesetzliche Mindestmaß",
+    "answerC": "Das auf der Angelkarte vermerkte Mindestmaß, auch wenn es das gesetzliche der Art unterschreitet."
+  },
+  "468": {
+    "questionText": "Wann hat der Hecht seine beste Fleischqualität?",
+    "answerA": "Im Herbst",
+    "answerB": "Im Sommer",
+    "answerC": "Zur Laichzeit"
+  },
+  "469": {
+    "questionText": "Welchen Zweck haben Schonzeiten?",
+    "answerA": "Sie sollen den Fischen eine ungestörte Reproduktion ermöglichen.",
+    "answerB": "Sie sollen den Fischen eine ungestörte Winterruhe ermöglichen.",
+    "answerC": "Sie sollen ein Überangebot von einzelnen Fischarten auf dem Markt verhindern."
+  },
+  "470": {
+    "questionText": "Was ist ein Setzkescher?",
+    "answerA": "Ein Kescher zur kurzzeitigen Lebendhälterung gefangener Fische",
+    "answerB": "Ein Kescher mit dem Besatzfische gefangen werden.",
+    "answerC": "Ein fest im Gewässer verankertes Fanggerät"
+  },
+  "471": {
+    "questionText": "Was ist bei der Fischhälterung zum Erhalt einer guten Fleischqualität zu beachten?",
+    "answerA": "Die Fische sollen möglichst stressarm behandelt werden und bis zu ihrer Betäubung und Tötung bei ausreichendem Raumangebot und guter Sauerstoffversorgung gehältert werden.",
+    "answerB": "Die Fische müssen stets in Bewegung gehalten werden.",
+    "answerC": "Die Fische sollen in regelmäßigen Abständen zur Kontrolle aus dem Wasser genommen werden."
+  },
+  "472": {
+    "questionText": "Was versteht man unter der Schonzeit einer Fischart?",
+    "answerA": "Die Zeit, in der die Fischart nicht gefangen werden darf.",
+    "answerB": "Die Zeit nach dem Ablaichen der Fische",
+    "answerC": "Die Zeit der Überwinterung der Fische"
+  },
+  "473": {
+    "questionText": "Beim Senken auf Köderfische werden neben diesen auch Edelkrebse gefangen. Wie ist zu verfahren?",
+    "answerA": "Die Krebse sind unverzüglich schonend in das Fanggewässer zurückzusetzen.",
+    "answerB": "Die Krebse sind der unteren Naturschutzbehörde zu übergeben.",
+    "answerC": "Die Krebse sind sofort zu töten und können verzehrt werden."
+  },
+  "474": {
+    "questionText": "Können Fische mit der Grießkörnchenkrankheit verzehrt werden?",
+    "answerA": "Ja",
+    "answerB": "Nein",
+    "answerC": "Ja, aber nicht die Bauchlappen"
+  },
+  "475": {
+    "questionText": "Es wird ein untermaßiger Fisch gefangen, der eine künstliche Markierung trägt. Was ist zu unternehmen?",
+    "answerA": "Kennzeichnung notieren, sofort schonend zurückzusetzen, Fang melden.",
+    "answerB": "An einer geschützten Stelle hältern und die Fischereibehörde benachrichtigen.",
+    "answerC": "Vorsichtig die Markierung entfernen und diese bei dem zuständigen Fischer abgeben."
+  },
+  "476": {
+    "questionText": "Ein Angler fängt einen ihm nicht bekannten Fisch. Wie muss er sich verhalten?",
+    "answerA": "Der Fisch ist schonend in das Gewässer zurückzusetzen, da eine eventuelle Schonzeit sowie ein mögliches Mindestmaß nicht bekannt sind.",
+    "answerB": "Der Fisch wird gehältert, damit der Fischereiberechtigte informiert werden kann.",
+    "answerC": "Nach weidgerechter Versorgung wird der Fisch für die Artbestimmung konserviert."
+  },
+  "477": {
+    "questionText": "In welchem Zustand sind krankheitsverdächtige Fische zur Untersuchung zu geben?",
+    "answerA": "Möglichst lebend oder umgehend nach der Tötung",
+    "answerB": "Ausgenommen, mit Kopf",
+    "answerC": "Ausgenommen, ohne Kopf"
+  },
+  "478": {
+    "questionText": "Können Schadstoffe in Gewässern die Genusstauglichkeit der Fische beeinträchtigen?",
+    "answerA": "Ja",
+    "answerB": "Nein",
+    "answerC": "Ja, aber nur bei Aalen"
+  },
+  "479": {
+    "questionText": "Gelten in den Bundesländern einheitliche Mindestmaße für alle Fischarten?",
+    "answerA": "Nein",
+    "answerB": "Ja",
+    "answerC": "Ja, mit Ausnahme der Nord- und Ostseeländer"
+  },
+  "480": {
+    "questionText": "Ist die ökologisch verträgliche Nutzung abgestorbener Teile von Schil und Rohrbeständen Bestandteil des Fischereirechtes?",
+    "answerA": "Ja",
+    "answerB": "Nein, die Schilf- und Rohrnutzung obliegt der verarbeitenden Industrie.",
+    "answerC": "Nein, das Fischereirecht gibt lediglich die Befugnis zum Fang und zur Aneignung von Fischen."
+  },
+  "481": {
+    "questionText": "Wie lange ist ein Fischereischein des Landes Brandenburg gültig?",
+    "answerA": "Unbefristet",
+    "answerB": "Fünf Jahre",
+    "answerC": "Drei Jahre"
+  },
+  "482": {
+    "questionText": "Ist für die Zulassung zur Anglerprüfung der Besuch eines Vorbereitungslehrganges vorgeschrieben?",
+    "answerA": "Nein",
+    "answerB": "Ja",
+    "answerC": "Ja, aber nur für Bewerber, die keine Erfahrungen mit der Angelfischerei haben."
+  },
+  "483": {
+    "questionText": "Der Begriff \"Fische\" gilt gem. des Fischereigesetzes für das Land Brandenburg ...",
+    "answerA": "nur für Fische, deren Laich, Neunaugen, Krebse, Muscheln sowie Fischnährtiere",
+    "answerB": "nur für alle Fischarten",
+    "answerC": "nur für Fische, Neunaugen und Fischnährtiere"
+  },
+  "484": {
+    "questionText": "Wer kann im Land Brandenburg Angelkarten zum Raubfischfang erwerben?",
+    "answerA": "Personen, die einen Fischereischein besitzen.",
+    "answerB": "Personen, die eine fischereiliche Ausbildung durch Zeugnis nachweisen.",
+    "answerC": "Personen, die das sechste Lebensjahr vollendet haben."
+  },
+  "485": {
+    "questionText": "Verstößt das Angeln ohne Angelkarte gegen gesetzliche Bestimmungen, auch wenn kein Fangerfolg vorliegt?",
+    "answerA": "Ja, denn allein das Führen fangfertiger Geräte am Gewässer ist ohne Angelkarte verboten.",
+    "answerB": "Nein, das liegt im Ermessen des Fischereiberechtigten.",
+    "answerC": "Nein, denn eine strafbare Handlung liegt erst dann vor, wenn ein Fisch angeeignet wurde."
+  },
+  "486": {
+    "questionText": "Berechtigt allein der Besitz des Fischereischeines zur Pachtung des Fischereiausübungsrechtes für einen See?",
+    "answerA": "Nein",
+    "answerB": "Ja",
+    "answerC": "Ja, sofern das Gewässer nur zur Angelfischerei genutzt wird."
+  },
+  "487": {
+    "questionText": "Kann die untere Fischereibehörde, die einen Fischereischein erteilt hat, diesen für ungültig erklären und entschädigungslos einziehen?",
+    "answerA": "Ja, wenn nach Erteilung Tatsachen bekannt werden, die eine Versagung rechtfertigen",
+    "answerB": "Nein",
+    "answerC": "Ja, wenn der Fischereibeirat dem zustimmt"
+  },
+  "488": {
+    "questionText": "Was ist ein Fischereierlaubnisvertrag?",
+    "answerA": "Die Angelkarte",
+    "answerB": "Der Fischereischein",
+    "answerC": "Der Fischereipachtvertrag"
+  },
+  "489": {
+    "questionText": "In welchen Rechtsvorschriften sind die für den Fischfang verbotenen Mittel aufgeführt?",
+    "answerA": "Im Fischereigesetz und der Fischereiordnung des Landes Brandenburg",
+    "answerB": "Im Brandenburgischen Naturschutzgesetz",
+    "answerC": "Im Brandenburgischen Wassergesetz"
+  },
+  "490": {
+    "questionText": "Den Fischereischein erteilt  ...",
+    "answerA": "die untere Fischereibehörde.",
+    "answerB": "Die untere Naturschutzbehörde.",
+    "answerC": "die oberste Fischereibehörde."
+  },
+  "491": {
+    "questionText": "Die untere Fischereibehörde ist ...",
+    "answerA": "Der jeweilige Landkreis bzw.",
+    "answerB": "die kreisfreie Stadt.",
+    "answerC": "Das Landesamt für Verbraucherschutz, Landwirtschaft und Flurneuordnung."
+  },
+  "492": {
+    "questionText": "Mit welchem Alter kann in Brandenburg frühestens die Anglerprüfung abgelegt werden?",
+    "answerA": "Mit 14",
+    "answerB": "Jahren Mit 8",
+    "answerC": "Jahren Mit 10"
+  },
+  "493": {
+    "questionText": "Dürfen Fischspeere oder ähnliche Fanggeräte im Land Brandenburg beim Fischfang verwendet werden?",
+    "answerA": "Nein",
+    "answerB": "Ja, aber nur auf überfluteten Wiesen",
+    "answerC": "Ja, aber nur mit Erlaubnis der unteren Fischereibehörde"
+  },
+  "494": {
+    "questionText": "Ist der Fischfang in Fischpässen oder Fischtreppen allgemein erlaubt?",
+    "answerA": "Nein",
+    "answerB": "Ja",
+    "answerC": "Ja, aber nur am oberen und unteren Ende"
+  },
+  "495": {
+    "questionText": "Wer ist zur Ausgabe von Angelkarten berechtigt?",
+    "answerA": "Der Fischereiausübungsberech tigte",
+    "answerB": "Nur die untere Fischereibehörde",
+    "answerC": "Der Fischereibeirat"
+  },
+  "496": {
+    "questionText": "Darf ein Angelfischer als Inhaber des Fischereischeines mit einer Aalschnur bis 50 Haken fischen?",
+    "answerA": "Nein",
+    "answerB": "Ja, mit Zusatzgenehmigung durch die untere Fischereibehörde",
+    "answerC": "Ja, aber nur während des Hegefischens"
+  },
+  "497": {
+    "questionText": "Muss ein Angler, der den Fischfang mit der Friedfischhandangel ausüben will, einen Fischereischein besitzen?",
+    "answerA": "Nein",
+    "answerB": "Ja",
+    "answerC": "Ja, ab dem 18. Lebensjahr"
+  },
+  "498": {
+    "questionText": "Welcher Person ist der Fischereischein auf Verlangen zur Einsicht auszuhändigen?",
+    "answerA": "Dem Fischereiaufseher und Fischereiausübungsberech tigten",
+    "answerB": "Dem Umweltbeauftragten",
+    "answerC": "Dem Bürgermeister der zuständigen Gemeinde"
+  },
+  "499": {
+    "questionText": "Darf aufgrund der vom Erwerbsfischer erworbenen Angelkarte für ein Fließgewässer auch auf überfluteten Grundstücken geangelt werden?",
+    "answerA": "Nein",
+    "answerB": "Ja",
+    "answerC": "Ja, aber nur im Monat März"
+  },
+  "500": {
+    "questionText": "Wer kann den Besatz mit bestimmten Fischarten verbieten?",
+    "answerA": "Die Fischereibehörde",
+    "answerB": "Der Jagdpächter",
+    "answerC": "Die Wasserschutzpolizei"
+  },
+  "501": {
+    "questionText": "Ist mit dem Fischereirecht auch die Pflicht zur Hege verbunden?",
+    "answerA": "Ja",
+    "answerB": "Nein",
+    "answerC": "Ja, aber nur auf Bundeswasserstraßen"
+  },
+  "502": {
+    "questionText": "Gilt die Verpflichtung zur Hege auch auf bewirtschaftete Anlagen der Teichwirtschaft?",
+    "answerA": "Nein",
+    "answerB": "Ja, aber nur für dort lebende Karpfen",
+    "answerC": "Ja"
+  },
+  "503": {
+    "questionText": "Benötigt der Inhaber eines Fischereischeins zum Angeln auf dem See eines Berufsfischers eine Angelkarte?",
+    "answerA": "Ja",
+    "answerB": "Ja, aber nur zum Raubfischangeln",
+    "answerC": "Nein"
+  },
+  "504": {
+    "questionText": "Auf welchem Gewässer gilt das Mitgliedsdokument eines Angelvereins als Angelkarte?",
+    "answerA": "Auf dem Gewässer, für das dieser Angelverein fischereiausübungsberecht igt ist.",
+    "answerB": "Auf allen Gewässern, wenn der Angler die Anglerprüfung erfolgreich abgelegt hat.",
+    "answerC": "Auf den Seen eines Berufsfischers, wenn der Angler nur Weißfische angelt."
+  },
+  "505": {
+    "questionText": "Wann liegt Koppelfischerei vor?",
+    "answerA": "Wenn an derselben Gewässerstrecke mehrere Fischereirechte bestehen.",
+    "answerB": "Wenn mehrere Angler gleichzeitig am selben Gewässer angeln.",
+    "answerC": "Wenn an beangelten Strecken auch mit Reusen gefischt wird."
+  },
+  "506": {
+    "questionText": "Kann die untere Fischereibehörde die Höchstzahl der Angelkarten festsetzen?",
+    "answerA": "Ja, im Benehmen mit dem zuständigen Fischereibeirat",
+    "answerB": "Nein",
+    "answerC": "Ja, aber nur mit Zustimmung des Fischereiberechtigten"
+  },
+  "507": {
+    "questionText": "Kann die untere Fischereibehörde die Fangerlaubnis auf bestimmte Fischarten beschränken?",
+    "answerA": "Ja, im Benehmen mit dem zuständigen Fischereibeirat",
+    "answerB": "Nein",
+    "answerC": "Ja, aber nur mit Zustimmung des Fischereiberechtigten"
+  },
+  "508": {
+    "questionText": "Kann die untere Fischereibehörde die Fangmengen beschränken?",
+    "answerA": "Ja, im Benehmen mit dem zuständigen Fischereibeirat",
+    "answerB": "Nein",
+    "answerC": "Ja, aber nur mit Zustimmung des Fischereiberechtigten"
+  },
+  "509": {
+    "questionText": "Kann die untere Fischereibehörde die Fangmittel beschränken?",
+    "answerA": "Ja, im Benehmen mit dem zuständigen Fischereibeirat",
+    "answerB": "Nein",
+    "answerC": "Ja, aber nur mit Zustimmung des Fischereiberechtigten"
+  },
+  "510": {
+    "questionText": "Kann die untere Fischereibehörde das Betreten von Uferflächen einschränken oder verbieten?",
+    "answerA": "Ja, soweit das im öffentlichen Interesse oder zur Abwehr von Gefahren erforderlich ist.",
+    "answerB": "Nein, nur die oberste Fischereibehörde ist dafür zuständig.",
+    "answerC": "Nein"
+  },
+  "511": {
+    "questionText": "Kann die untere Fischereibehörde das Betreten von Anlagen in und an Gewässern einschränken oder verbieten?",
+    "answerA": "Ja, soweit das im öffentlichen Interesse zum Schutz von Anlagen oder zur Abwehr von Gefahren erforderlich ist.",
+    "answerB": "Nein, nur die oberste Fischereibehörde ist dafür zuständig.",
+    "answerC": "Nein"
+  },
+  "512": {
+    "questionText": "Der Fischereischein kann Personen versagt werden, die wegen ... rechtskräftig verurteilt worden sind?",
+    "answerA": "Fälschung eines Fischereischeines",
+    "answerB": "Alkohol am Steuer",
+    "answerC": "Subventionsbetrug"
+  },
+  "513": {
+    "questionText": "Der Fischereischein kann Personen versagt werden, die wegen ... rechtskräftig verurteilt worden sind?",
+    "answerA": "Fischwilderei, Diebstahl von Fischen und Fischereigeräten",
+    "answerB": "Alkohol am Steuer",
+    "answerC": "Geschwindigkeitsüberschreit ung mit dem PKW"
+  },
+  "514": {
+    "questionText": "Der Fischereischein kann Personen versagt werden, die wegen ... rechtskräftig verurteilt worden sind?",
+    "answerA": "Verstoßes gegen fischerei- , tierseuchen- oder wasserrechtliche Vorschriften",
+    "answerB": "Versicherungsbetrug",
+    "answerC": "Geschwindigkeitsüberschreitung mit dem PKW"
+  },
+  "515": {
+    "questionText": "Ist vor Beginn des Angelns eine Fischereiabgabe zu entrichten?",
+    "answerA": "Ja",
+    "answerB": "Nein",
+    "answerC": "Ja, nur für Personen ab dem 16. Lebensjahr."
+  },
+  "516": {
+    "questionText": "Die Aufsicht über die Fischerei ist eine Landesaufgabe. Von welchen Behörden wird sie wahrgenommen?",
+    "answerA": "Von den unteren Fischereibehörden",
+    "answerB": "Vom Amtstierarzt",
+    "answerC": "Vom Landesamt für Verbraucherschutz, Landwirtschaft und Flurneuordnung"
+  },
+  "517": {
+    "questionText": "In welcher Rechtsvorschrift sind die im Land Brandenburg gültigen Mindestmaße für Fische benannt?",
+    "answerA": "Fischereiordnung des Landes Brandenburg",
+    "answerB": "Brandenburgisches Naturschutzgesetz",
+    "answerC": "Fischereigesetz für das Land Brandenburg"
+  },
+  "518": {
+    "questionText": "In welcher Rechtsvorschrift sind die Schonzeiten für Fische im Land Brandenburg festgelegt?",
+    "answerA": "Fischereiordnung des Landes Brandenburg",
+    "answerB": "Fischereigesetz für das Land Brandenburg",
+    "answerC": "Jeweilige Vereinssatzung"
+  },
+  "519": {
+    "questionText": "Darf ein Fischereiausübungsberechtigter die gesetzlichen Mindestmaße für sein Gewässer verändern?",
+    "answerA": "Ja, das Mindestmaß darf im Vergleich zur Fischereiordnung aber nur erhöht werden.",
+    "answerB": "Nein",
+    "answerC": "Ja, jedoch nur für Raubfische."
+  },
+  "520": {
+    "questionText": "Darf ein Fischereiausübungsberechtigter die gesetzlich bestimmten Schonzeiten für sein Gewässer verändern?",
+    "answerA": "Ja, die Bestimmungen dürfen jedoch nur strenger gefasst werden, als in der Fischereiordnung festgelegt.",
+    "answerB": "Nein",
+    "answerC": "Ja, jedoch nur für Salmoniden."
+  },
+  "521": {
+    "questionText": "Haben Schonzeiten auch in der Teichwirtschaft Gültigkeit?",
+    "answerA": "Nein",
+    "answerB": "Ja",
+    "answerC": "Ja, aber nur in der Karpfenteichwirtschaft"
+  },
+  "522": {
+    "questionText": "Gelten in \"Angelteichen\" der Teichwirtschaft die Mindestmaße nach der Fischereiordnung des Landes Brandenburg?",
+    "answerA": "Nein",
+    "answerB": "Ja",
+    "answerC": "Ja, aber nur für Raubfische"
+  },
+  "523": {
+    "questionText": "Welches Mindestmaß hat die Quappe?",
+    "answerA": "30 cm",
+    "answerB": "20 cm",
+    "answerC": "10 cm"
+  },
+  "524": {
+    "questionText": "Ist es statthaft, ausgelegte Angelgeräte unbeaufsichtigt zu lassen?",
+    "answerA": "Nein",
+    "answerB": "Ja",
+    "answerC": "Ja, aber nur bei Friedfischangeln"
+  },
+  "525": {
+    "questionText": "Welche Fangmethode ist vom Grundsatz her für den Angelfischer verboten?",
+    "answerA": "Fang mit lebendem Köderfisch",
+    "answerB": "Fang mit Fetzenködern",
+    "answerC": "Fang mit totem Köderfisch"
+  },
+  "526": {
+    "questionText": "Dürfen alle Fische ohne Genehmigung in ein Gewässer eingesetzt werden?",
+    "answerA": "Nein",
+    "answerB": "Ja",
+    "answerC": "Ja, aber nur durch den Berufsfischer"
+  },
+  "527": {
+    "questionText": "Aus welchen Gründen kann die untere Fischereibehörde Ausnahmen von den Bestimmungen über Mindestmaße und Schonzeiten zulassen?",
+    "answerA": "Für Lehr-, Versuchs- und Forschungszwecke",
+    "answerB": "Für die Stabilisierung der Fänge der Angelfischerei",
+    "answerC": "Für die kontinuierliche Versorgung der Bevölkerung mit frischem Fisch"
+  },
+  "528": {
+    "questionText": "Ist es verboten, beim Fischfang künstliche Köder mit feststehenden Mehrfachhaken zu verwenden?",
+    "answerA": "Ja",
+    "answerB": "Ja, aber nur wenn sie aus Messing bestehen",
+    "answerC": "Nein"
+  },
+  "529": {
+    "questionText": "Ist es verboten, beim Fischfang mehr als drei Angelhaken je Handangel zu verwenden?",
+    "answerA": "Ja",
+    "answerB": "Ja, aber nur wenn sie Widerhaken besitzen",
+    "answerC": "Nein"
+  },
+  "530": {
+    "questionText": "Kann die untere Fischereibehörde Ausnahmen vom Verbot des Fischfangs mit lebendem Köderfisch zulassen?",
+    "answerA": "Ja, im Einzelfall für bestimmte Gewässer, wenn ein vernünftiger Grund gegeben ist.",
+    "answerB": "Ja, zur Vermeidung der Verbuttung des Hechtbestandes.",
+    "answerC": "Ja, zur Erhöhung der Attraktivität des Angelgewässers."
+  },
+  "531": {
+    "questionText": "In welchen Gewässern dürfen \"frische\" Köderfische verwendet werden?",
+    "answerA": "In dem Gewässer oder Gewässersystem, aus dem sie gefangen wurden.",
+    "answerB": "In allen Gewässern",
+    "answerC": "In geschlossenen Gewässern"
+  },
+  "532": {
+    "questionText": "Köderfische dürfen nur in dem Gewässer oder Gewässersystem verwendet werden, aus dem sie gefangen wurden. Gilt dies auch für tiefgefrorene Köderfische?",
+    "answerA": "Nein",
+    "answerB": "Ja, mit Ausnahme von Plötzen.",
+    "answerC": "Ja"
+  },
+  "533": {
+    "questionText": "Bis zu welcher Seitenlänge darf ein Senknetz zum Köderfischfang verwendet werden?",
+    "answerA": "Bis zu 120 cm",
+    "answerB": "Bis zu 130 cm",
+    "answerC": "Bis zu 125 cm"
+  },
+  "534": {
+    "questionText": "Wozu darf ein Senknetz durch den Angler verwendet werden?",
+    "answerA": "Zum Köderfischfang",
+    "answerB": "Zum Fang von Blankaalen",
+    "answerC": "Zum Fang von Satzaalen(kleiner als 45 cm)"
+  },
+  "535": {
+    "questionText": "Wie viele einschenklige Haken darf die Handangel beim Friedfischfang mit tierischen Ködern haben?",
+    "answerA": "Einen",
+    "answerB": "Zwei",
+    "answerC": "Drei"
+  },
+  "536": {
+    "questionText": "Wie viele einschenklige Haken darf die Handangel beim Friedfischfang mit pflanzlichen Ködern haben?",
+    "answerA": "Einen",
+    "answerB": "Zwei",
+    "answerC": "Drei"
+  },
+  "537": {
+    "questionText": "Wie viele Köder sind für eine Angel bei Verwendung von toten Köderfischen zulässig?",
+    "answerA": "Ein Köder",
+    "answerB": "Zwei Köder",
+    "answerC": "Drei Köder"
+  },
+  "538": {
+    "questionText": "Wieviele Köder sind beim Angeln unter Verwendung von Fetzenködern zulässig?",
+    "answerA": "Ein Köder",
+    "answerB": "Zwei Köder",
+    "answerC": "Drei Köder"
+  },
+  "539": {
+    "questionText": "Mit wie vielen Grundangeln darf ein Angler gleichzeitig fischen?",
+    "answerA": "Mit zwei Angeln",
+    "answerB": "Mit drei Angeln",
+    "answerC": "Mit vier Angeln"
+  },
+  "540": {
+    "questionText": "Wie viele Angeln sind bei dem Spinnangeln zulässig?",
+    "answerA": "Eine Angel",
+    "answerB": "Zwei Angeln",
+    "answerC": "Eine Spinnangel und eine Grundangel"
+  },
+  "541": {
+    "questionText": "Wie viele Angeln sind bei dem Flugangeln zulässig?",
+    "answerA": "Eine Angel",
+    "answerB": "Zwei Angeln",
+    "answerC": "Eine Flugangel und eine Grundangel"
+  },
+  "542": {
+    "questionText": "Wo ist das Nachtangeln vom Grundsatz her verboten?",
+    "answerA": "Bei Vorliegen von Koppelfischerei",
+    "answerB": "An Teichen",
+    "answerC": "In Landschaftsschutzgebieten"
+  },
+  "543": {
+    "questionText": "Wann kann die untere Fischereibehörde bei Vorliegen von Koppelfischerei das Nachtangeln gestatten?",
+    "answerA": "Wenn keine fischereibiologischen oder gewässerökologischen Nachteile zu erwarten sind.",
+    "answerB": "Wenn die Anzahl der am Tage Angelnden reduziert werden soll.",
+    "answerC": "Zur Bestandsregulierung bestimmter Fischarten, z.B. Karpfen."
+  },
+  "544": {
+    "questionText": "Wann dürfen Köderfischsenken eingesetzt werden?",
+    "answerA": "Köderfischsenken dürfen dann eingesetzt werden, wenn die privatrechtliche Zulassung vorliegt.",
+    "answerB": "Vom 31. Dezember bis zum 30. April",
+    "answerC": "Vom 1. Januar bis zum 31. Mai"
+  },
+  "545": {
+    "questionText": "Ist für ein Gemeinschaftsangeln eine Antragstellung auf Genehmigun bei der unteren Fischereibehörde erforderlich?",
+    "answerA": "Ja",
+    "answerB": "Nein",
+    "answerC": "Ja aber nur, wenn es sich um ein organisiertes Nachtangeln handelt."
+  },
+  "546": {
+    "questionText": "Wann ist für ein Gemeinschaftsangeln die Genehmigung zu versagen?",
+    "answerA": "Wenn das Angeln vorwiegend aus Wettbewerbsgründen erfolgt.",
+    "answerB": "Wenn aus einem eutrophen See Weißfische entnommen und verwertet werden sollen.",
+    "answerC": "Wenn die Fische geräuchert und darauffolgend bei einem Vereinsabend verzehrt werden sollen."
+  },
+  "547": {
+    "questionText": "Dürfen erkennbar kranke Fische ausgesetzt werden?",
+    "answerA": "Nein",
+    "answerB": "Ja",
+    "answerC": "Ja, aber nur mit Zustimmung des Fischers."
+  },
+  "548": {
+    "questionText": "Darf ein Angelfischer das Gelege (bewachsene wasserseitige Uferzone) betreten oder befahren?",
+    "answerA": "Nein",
+    "answerB": "Ja, aber nur mit Genehmigung der Wasserschutzpolizei.",
+    "answerC": "Ja"
+  },
+  "549": {
+    "questionText": "Maßnahmen und Handlungen in Winterlagern, die die Winterruhe nachhaltig stören können sind verboten. Gehört dazu auch das Eishockeyspielen über einem Winterlager?",
+    "answerA": "Ja",
+    "answerB": "Nein",
+    "answerC": "Nein, aber nur wenn das Gewässer in diesem Bereich tiefer als einen Meter ist."
+  },
+  "550": {
+    "questionText": "Muss der Angler bei der Ausübung der Angelfischerei auf die Erwerbsfischerei Rücksicht nehmen?",
+    "answerA": "Ja",
+    "answerB": "Nein",
+    "answerC": "Ja, aber nur nach Aufforderung."
+  },
+  "551": {
+    "questionText": "Welchen Abstand muss ein Angelfischer zu einer Reuse halten?",
+    "answerA": "Mindestens 50 Meter",
+    "answerB": "Mindestens 100 Meter",
+    "answerC": "Mindestens 10 Meter"
+  },
+  "552": {
+    "questionText": "Welche der genannten Fischarten hat eine Schonzeit vom 1. Dezember bis 31. Mai?",
+    "answerA": "Äsche",
+    "answerB": "Bachforelle",
+    "answerC": "Bachneunauge"
+  },
+  "553": {
+    "questionText": "Welche der genannten Fischarten  hat eine Schonzeit vom 16. Oktober bis 15. April?",
+    "answerA": "Bachforelle",
+    "answerB": "Aaland",
+    "answerC": "Bachneunauge"
+  },
+  "554": {
+    "questionText": "Welche der genannten Fischarten hat eine Schonzeit vom 1. Mai bis 31. Juli?",
+    "answerA": "Barbe",
+    "answerB": "Atlantische Stör",
+    "answerC": "Bachneunauge"
+  },
+  "555": {
+    "questionText": "Welche der genannten Fischarten hat eine Schonzeit vom 1. April bis 30. Juni?",
+    "answerA": "Rapfen",
+    "answerB": "Maifisch",
+    "answerC": "Ziege"
+  },
+  "556": {
+    "questionText": "Welche der genannten  Fischarten  hat eine Schonzeit vom 1. April bis 31. Mai?",
+    "answerA": "Zander",
+    "answerB": "Westgroppe",
+    "answerC": "Bachneunauge"
+  },
+  "557": {
+    "questionText": "Wann ist die Schonzeit der Barbe?",
+    "answerA": "1. Mai bis 31. Juli",
+    "answerB": "1. Januar bis 30. April",
+    "answerC": "1. November bis 31.Dezember"
+  },
+  "558": {
+    "questionText": "Wann ist die Schonzeit der Zope?",
+    "answerA": "1. März bis 31. Mai",
+    "answerB": "1. Januar bis 30. April",
+    "answerC": "1. November bis 31.Dezember"
+  },
+  "559": {
+    "questionText": "Welche der genannten Fischarten hat keine Schonzeit aber ein Mindestmaß?",
+    "answerA": "Hasel",
+    "answerB": "Bachforelle",
+    "answerC": "Zope"
+  },
+  "560": {
+    "questionText": "Welche der genannten Fischarten hat keine Schonzeit aber ein Mindestmaß?",
+    "answerA": "Karpfen",
+    "answerB": "Äsche",
+    "answerC": "Wels"
+  },
+  "561": {
+    "questionText": "Welches Mindestmaß hat der Aland?",
+    "answerA": "30 cm",
+    "answerB": "45 cm",
+    "answerC": "15 cm"
+  },
+  "562": {
+    "questionText": "Welches Mindestmaß hat die Äsche?",
+    "answerA": "30 cm",
+    "answerB": "25 cm",
+    "answerC": "15 cm"
+  },
+  "563": {
+    "questionText": "Welches Mindestmaß hat die Bachforelle?",
+    "answerA": "30 cm",
+    "answerB": "45 cm",
+    "answerC": "15 cm"
+  },
+  "564": {
+    "questionText": "Welches Mindestmaß hat die Barbe?",
+    "answerA": "40 cm",
+    "answerB": "45 cm",
+    "answerC": "30 cm"
+  },
+  "565": {
+    "questionText": "Welches Mindestmaß hat der Karpfen?",
+    "answerA": "35 cm",
+    "answerB": "45 cm",
+    "answerC": "30 cm"
+  },
+  "566": {
+    "questionText": "Welches Mindestmaß hat die Zope?",
+    "answerA": "20 cm",
+    "answerB": "60 cm",
+    "answerC": "80 cm"
+  },
+  "567": {
+    "questionText": "Welche der genannten Fischarten ist ganzjährig geschont?",
+    "answerA": "Kleiner Stichling",
+    "answerB": "Rapfen",
+    "answerC": "Regenbogenforelle"
+  },
+  "568": {
+    "questionText": "Welche der genannten Fischarten ist ganzjährig geschont?",
+    "answerA": "Ziege",
+    "answerB": "Rapfen",
+    "answerC": "Seeforelle"
+  },
+  "569": {
+    "questionText": "Welche der genannten Fischarten ist ganzjährig geschont?",
+    "answerA": "Schmerle",
+    "answerB": "Kleine Maräne",
+    "answerC": "Hasel"
+  },
+  "570": {
+    "questionText": "Welche der genannten Fischarten ist ganzjährig geschont?",
+    "answerA": "Ostgroppe",
+    "answerB": "Rapfen",
+    "answerC": "Quappe"
+  },
+  "571": {
+    "questionText": "Welche der genannten Fischarten hat keine Schonzeit und kein Mindestmaß?",
+    "answerA": "Kaulbarsch",
+    "answerB": "Schneider",
+    "answerC": "Nase"
+  },
+  "572": {
+    "questionText": "Welcher Grundsatz ist Inhalt des Tierschutzgesetzes?",
+    "answerA": "Niemand darf einem Tier ohne vernünftigen Grund Schmerzen, Leiden oder Schäden zufügen.",
+    "answerB": "Niemand darf vom Aussterben bedrohte Tiere töten.",
+    "answerC": "Niemand darf geschützte Tiere fangen."
+  },
+  "573": {
+    "questionText": "Was ist kein vernünftiger Grund für den Fang von Fischen?",
+    "answerA": "Der Fang zum Zweck der Herstellung von Trophäen.",
+    "answerB": "Der Fang zum Zweck der menschlichen Ernährung.",
+    "answerC": "Der Fang zum Zweck der Hege und fischereilichen Bewirtschaftung."
+  },
+  "574": {
+    "questionText": "Worauf hat ein Angelfischer immer zu achten? Es ist verboten, ...",
+    "answerA": "wildlebende Tiere mutwillig zu beunruhigen oder ohne vernünfigen Grund zu fangen, zu verletzen oder zu töten.",
+    "answerB": "wildlebende Tiere anzufüttern.",
+    "answerC": "in Badegewässern zu angeln."
+  },
+  "575": {
+    "questionText": "Hat das Tierschutzgesetz Bedeutung für den Angler?",
+    "answerA": "Ja",
+    "answerB": "Nein",
+    "answerC": "Ja, jedoch nur bei der Verwendung von Köderfischen."
+  },
+  "576": {
+    "questionText": "Gelten in Angelteichen Tierschutzbestimmungen?",
+    "answerA": "Ja",
+    "answerB": "Nein",
+    "answerC": "Ja, jedoch nur bei der Verwendung von Köderfischen."
+  },
+  "577": {
+    "questionText": "Dürfen Forellen  im Setzkescher gehältert werden?",
+    "answerA": "Nein",
+    "answerB": "Ja",
+    "answerC": "Ja, aber nur in kalten Fließgewässern."
+  },
+  "578": {
+    "questionText": "Welche der genannten Fischarten sind gemäß Roter Liste von Brandenburg vom Aussterben bedroht bzw. stark gefährdet?",
+    "answerA": "Bachneunauge, Bitterling, Rotfeder, Ukelei, Güster",
+    "answerB": "Kaulbarsch, Plötze, Dreistachliger",
+    "answerC": "Stichling"
+  },
+  "579": {
+    "questionText": "Was sind \"Rote Liste\"-Arten?",
+    "answerA": "In der Roten Liste sind die vom Aussterben bedrohten oder gefährdeten Tier- und Pflanzenarten aufgenommen.",
+    "answerB": "In der Roten Liste sind alle Tier- und Pflanzenarten enthalten.",
+    "answerC": "In der Roten Liste sind alle nicht heimischen und vom Aussterben bedrohten Tierarten enthalten."
+  },
+  "580": {
+    "questionText": "Ist der Marmorkarpfen ein einheimischer Fisch?",
+    "answerA": "Nein, er wurde aus Asien eingebürgert.",
+    "answerB": "Ja, er ist eine brandenburgische Züchtung.",
+    "answerC": "Ja, er kam schon immer in den Gewässern Brandenburgs vor."
+  },
+  "581": {
+    "questionText": "Was ist zu unternehmen, wenn im Angelbereich eine europäische Sumpfschildkröte beobachtet wird?",
+    "answerA": "Wechsel des Fangplatzes",
+    "answerB": "Fangen und Vermessen des Tieres",
+    "answerC": "Umsetzen des Tieres"
+  },
+  "582": {
+    "questionText": "Darf der Angler wildlebende Tiere vom Gewässer vertreiben?",
+    "answerA": "Nein",
+    "answerB": "Ja, jedoch nur solche Tiere, die Konkurrenten für Fische sind.",
+    "answerC": "Ja"
+  },
+  "583": {
+    "questionText": "Die Ausübung der Fischerei in einem Landschaftsschutzgebiet ist ...",
+    "answerA": "Grundsätzlich zulässig, jedoch sind Einschränkungen möglich.",
+    "answerB": "Grundsätzlich verboten.",
+    "answerC": "In jedem Fall gestattet."
+  },
+  "584": {
+    "questionText": "Welche gesetzlichen Vorschriften sind bei Kammolchen zu beachten?",
+    "answerA": "Naturschutzrechtliche Vorschriften",
+    "answerB": "Wasserrechtliche Vorschriften",
+    "answerC": "Jagdrechtliche Vorschriften"
+  },
+  "585": {
+    "questionText": "Ruht in einem Naturschutzgebiet zwangsläufig die Fischereiausübung?",
+    "answerA": "Nein",
+    "answerB": "Ja",
+    "answerC": "Je nach Auffassung des Fischereiberechtigten"
+  },
+  "586": {
+    "questionText": "Ist das Beunruhigen von Eisvögeln erlaubt?",
+    "answerA": "Nein",
+    "answerB": "Ja, wenn mehr als drei Eisvögel auftreten.",
+    "answerC": "Ja, wenn der Fischbestand leidet."
+  },
+  "587": {
+    "questionText": "Was kann ein Fischereiberechtigter gegen Schädigung seines Gewässers aufgrund nicht erlaubter Einleitung von Abwässern unternehmen?",
+    "answerA": "Er kann von der zuständigen Behörde verlangen, gegen die Einleitung einzuschreiten und Schadensersatz fordern.",
+    "answerB": "Er kann den Verursacher bestrafen und die Einleitung selbständig unterbinden.",
+    "answerC": "Er muss die Einleitung im öffentlichen Interesse dulden."
+  },
+  "588": {
+    "questionText": "Ist eine Beschränkung des Gemeingebrauchs von Gewässern möglich?",
+    "answerA": "Ja",
+    "answerB": "Ja, jedoch nur durch den Fischereiberechtigten",
+    "answerC": "Nein"
+  },
+  "589": {
+    "questionText": "Was ist nach dem Wasserrecht Gemeingebrauch?",
+    "answerA": "Die jedermann zustehende Befugnis, Gewässer ohne besondere Erlaubnis in einem bestimmten Ausmaß zu nutzen.",
+    "answerB": "Der Gebrauch des Wassers für gemeinnützige Zwecke.",
+    "answerC": "Die Nutzung des Oberflächenwassers durch mehrere angrenzende Länder."
+  },
+  "590": {
+    "questionText": "Wer haftet für Schäden, die beim Angeln verursacht werden?",
+    "answerA": "Der Angelfischer als Verursacher",
+    "answerB": "Der Grundstückseigentümer",
+    "answerC": "Die untere Fischereibehörde"
+  },
+  "591": {
+    "questionText": "Was ist Fischwilderei?",
+    "answerA": "Das Fischen unter Verletzung fremden Fischereirechts",
+    "answerB": "Die fehlende Beaufsichtigung der Handangel",
+    "answerC": "Das Fischen während der Nachtzeit"
+  },
+  "592": {
+    "questionText": "Wie ist das Fischereirecht der Binnenfischerei in der BRD geregelt?",
+    "answerA": "Durch Landesrecht",
+    "answerB": "Durch Bundesrecht",
+    "answerC": "Durch Recht der Europäischen Union"
+  },
+  "593": {
+    "questionText": "Was versteht man unter Fischwegen?",
+    "answerA": "Künstlich angelegte Fischpässe, die den Fischen das Überwinden von Hindernissen ermöglichen.",
+    "answerB": "Wege, die die Fische während ihrer Vermarktung nehmen.",
+    "answerC": "Die Wege der Fische, die sie bei ihren Laichwanderungen zurücklegen."
+  },
+  "594": {
+    "questionText": "Worüber hat sich der Angler grundsätzlich zu informieren?",
+    "answerA": "Über das Bestehen besonderer Auflagen, Gebietsgrenzen, Schonzeiten und Schonmaßnahmen.",
+    "answerB": "Über das Strafmaß bei Verbotsübertretungen.",
+    "answerC": "Über Beißzeiten, Angelplätze, bewährte Köder."
+  },
+  "595": {
+    "questionText": "Wer sich widerrechtlich Fische aus Teichen aneignet, begeht ...",
+    "answerA": "Diebstahl",
+    "answerB": "Fischwilderei",
+    "answerC": "Unterschlagung"
+  },
+  "596": {
+    "questionText": "Besteht eine Pflicht zum Verankern des Angelkahnes beim Fischfang mit der Spinnangel?",
+    "answerA": "Nein",
+    "answerB": "Ja, aber nur nachts.",
+    "answerC": "Ja"
+  },
+  "597": {
+    "questionText": "Welche Fische werden zur Herstellung von Fetzenködern genutzt?",
+    "answerA": "Plötzen und Barsche",
+    "answerB": "Untermaßige Hechte",
+    "answerC": "Untermaßige Aale"
+  },
+  "598": {
+    "questionText": "Wird für die Ausübung des Casting-Angelsports der Fischereischein benötigt?",
+    "answerA": "Nein",
+    "answerB": "Ja",
+    "answerC": "Ja, aber nur für Personen über 18 Jahre."
+  },
+  "599": {
+    "questionText": "In wessen Eigentum stehen wildlebende Fische in nicht geschlossenen Gewässern?",
+    "answerA": "Sie sind herrenlos.",
+    "answerB": "Sie gehören dem Land Brandenburg.",
+    "answerC": "Sie gehören dem Fischereiberechtigten."
   }
 }

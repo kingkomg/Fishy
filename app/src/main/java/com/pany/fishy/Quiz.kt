@@ -7,6 +7,7 @@ import com.pany.fishy.data.Progress
 import com.pany.fishy.data.Question
 import com.pany.fishy.data.RandomQuestion
 import java.io.File
+import kotlin.math.roundToInt
 import kotlin.random.Random
 
 
@@ -80,9 +81,18 @@ class Quiz {
   }
 
   fun getCorrectPercent(): Int {
-    val corrects = progress.save.size.plus(progress.correct.size)
-    val wrongs = progress.wrong.size.plus(progress.new.size)
-    return 100 / (wrongs.plus(corrects)) * corrects
+    return getCorrectPercent(
+      progress.save.size,
+      progress.correct.size,
+      progress.wrong.size,
+      progress.new.size
+    ).roundToInt()
+  }
+
+  fun getCorrectPercent(saveSize: Int, correctSize: Int, wrongSize: Int, newSize: Int): Double {
+    val corrects = saveSize.plus(correctSize)
+    val wrongs = wrongSize.plus(newSize)
+    return (100.00 / wrongs.plus(corrects)) * corrects
   }
 
   fun saveProgress(file: File) {
