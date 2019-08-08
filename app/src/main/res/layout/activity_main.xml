@@ -15,6 +15,8 @@
             app:layout_constraintStart_toStartOf="@+id/questionText"
             app:layout_constraintEnd_toStartOf="@+id/buttonReset"
             android:layout_marginEnd="10dp"
+            android:progressDrawable="@drawable/custom_progressbar"
+            android:secondaryProgressTint="@android:color/holo_green_light"
             app:layout_constraintBottom_toBottomOf="@+id/buttonReset"
             app:layout_constraintHorizontal_bias="0.0" app:layout_constraintTop_toTopOf="@+id/buttonReset"/>
     <TextView
@@ -22,8 +24,10 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:id="@+id/progressText"
+            android:textColor="@android:color/white"
             app:layout_constraintBottom_toBottomOf="@+id/progressBar"
-            app:layout_constraintTop_toTopOf="@+id/progressBar" app:layout_constraintEnd_toEndOf="@+id/progressBar"
+            app:layout_constraintTop_toTopOf="@+id/progressBar"
+            app:layout_constraintEnd_toEndOf="@+id/progressBar"
             app:layout_constraintStart_toStartOf="@+id/progressBar"/>
     <TextView
             android:layout_width="0dp"
@@ -33,7 +37,7 @@
             android:layout_marginLeft="10dp" android:layout_marginRight="10dp"
             app:layout_constraintBottom_toTopOf="@+id/buttonA" android:layout_height="wrap_content"
             android:textSize="18sp" android:textAlignment="center"
-            android:text="Für das Hegefischen wurde im Voraus bestimmt, die gefangenen untermaßigen Plötzen in ein kühleres, raubfischreiches Gewässer umzusetzen. Welche Bedingungen sind zu erfüllen?"
+            android:text="@string/question"
             app:layout_constraintTop_toBottomOf="@+id/buttonReset" android:minHeight="120dp"
             android:fontFamily="sans-serif-black" android:typeface="normal"
             android:paddingRight="10dp" android:paddingLeft="10dp" android:layout_margin="10dp"/>
@@ -60,7 +64,7 @@
             android:textAllCaps="false"
             android:paddingRight="10dp" android:paddingLeft="10dp" android:layout_margin="10dp"/>
     <Button
-            android:text="Schriftliche Angaben über: Gewässer und Entnahmestelle, Datum und Uhrzeit der Entnahme, Name und Anschrift des Probenehmers, wichtige Beobachtungen"
+            android:text="@string/answer_c"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:id="@+id/buttonC" app:layout_constraintEnd_toEndOf="@+id/questionText"

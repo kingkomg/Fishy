@@ -643,9 +643,9 @@
   },
   "107": {
     "questionText": "Wie alt können Karpfen werden?",
-    "answerA": "Ca. 40",
-    "answerB": "Jahre Ca. 10",
-    "answerC": "Jahre Über 150"
+    "answerA": "Ca. 40 Jahre",
+    "answerB": "Ca. 10 Jahre",
+    "answerC": "Über 150 Jahre"
   },
   "108": {
     "questionText": "Welcher Karpfenfisch ist nicht einheimisch?",
@@ -1200,7 +1200,7 @@
     "answerC": "Sie stört die Fische in der Winterruhe."
   },
   "200": {
-    "questionText": "Auf einem zugefrorenen See liegt eine 15 cm starke Schneedecke. Was wird zur Vermeidung von Sauerstoffmangel empfohlen?",
+    "questionText": "Auf einem zugefrorenen See liegt eine 15cm starke Schneedecke. Was wird zur Vermeidung von Sauerstoffmangel empfohlen?",
     "answerA": "Das Schieben großflächiger Schneefenster",
     "answerB": "Die Fütterung der Fische zur Konditionsstärkung",
     "answerC": "Das Schlagen vieler kleiner Eislöcher"
@@ -1490,8 +1490,8 @@
   "248": {
     "questionText": "Welcher \"Grundsatz\" ist fischgerecht?",
     "answerA": "Schnur nicht dünner als nötig",
-    "answerB": "Schnur nicht dünner als 0, 30 mm",
-    "answerC": "Schnur nicht dicker als 0, 45 mm"
+    "answerB": "Schnur nicht dünner als 0,30 mm",
+    "answerC": "Schnur nicht dicker als 0,45 mm"
   },
   "249": {
     "questionText": "Wie soll ein Knoten sein?",
@@ -1513,9 +1513,9 @@
   },
   "252": {
     "questionText": "Welche der Gerätekombinationen ist korrekt?",
-    "answerA": "Für Karpfen: Lange Rute, Schnurdurchmesser 0, 30 mm, 3-er Haken",
-    "answerB": "Für Forelle: Steife Rute Schnurdurchmesser 0, 20 mm, 2-er Haken",
-    "answerC": "Für Hecht: Weiche Rute, Schnurdurchmesser 0, 40 mm, 14-er Haken"
+    "answerA": "Für Karpfen: Lange Rute, Schnurdurchmesser 0,30 mm, 3-er Haken",
+    "answerB": "Für Forelle: Steife Rute Schnurdurchmesser 0,20 mm, 2-er Haken",
+    "answerC": "Für Hecht: Weiche Rute, Schnurdurchmesser 0,40 mm, 14-er Haken"
   },
   "253": {
     "questionText": "Weshalb ist das Fliegenfischen die schonendste Angelmethode?",
@@ -1531,9 +1531,9 @@
   },
   "255": {
     "questionText": "Zum Fang großer Fische im hindernisreichen Wasser sollte mindestens welche Schnurstärke gewählt werden?",
-    "answerA": "0, 40 mm",
-    "answerB": "0, 28 mm",
-    "answerC": "0, 20 mm"
+    "answerA": "0,40 mm",
+    "answerB": "0,28 mm",
+    "answerC": "0,20 mm"
   },
   "256": {
     "questionText": "Wieviele Köderfische oder Krebsköder bzw. wieviele Teile von diesen sind je Handangel zulässig?",
@@ -1627,9 +1627,9 @@
   },
   "271": {
     "questionText": "Zum Fang von kapitalen Fischen in Gewässern mit Strauchwerk wähle ich welchen Schnurdurchmesser?",
-    "answerA": "Über 0, 40 mm",
-    "answerB": "Unter  0, 20 mm",
-    "answerC": "0, 30 mm"
+    "answerA": "Über 0,40 mm",
+    "answerB": "Unter 0,20 mm",
+    "answerC": "0,30 mm"
   },
   "272": {
     "questionText": "Die Senke dient zum Fang von Köderfischen. Wo wird sie in der Regel eingesetzt?",
@@ -1663,9 +1663,9 @@
   },
   "277": {
     "questionText": "An sonnigen Sommertagen hält sich die Schleie gerne unter Seerosenblättern auf. Welche Fangtiefe sollte gewählt werden?",
-    "answerA": "0, 30 - 1, 0 m",
-    "answerB": "2 - 3 m",
-    "answerC": "5 m"
+    "answerA": "0,30 - 1,0m",
+    "answerB": "2 - 3m",
+    "answerC": "5m"
   },
   "278": {
     "questionText": "In welchen Gewässern ist ein Zanderfang zu erwarten?",
@@ -1801,9 +1801,9 @@
   },
   "300": {
     "questionText": "Wie lang sollte das Stahlvorfach beim Angeln auf Hecht (mit natürlichem Köder) sein?",
-    "answerA": "Ca. 30 cm",
-    "answerB": "Ca. 10 cm",
-    "answerC": "Ca. 15 cm"
+    "answerA": "Ca. 30cm",
+    "answerB": "Ca. 10cm",
+    "answerC": "Ca. 15cm"
   },
   "301": {
     "questionText": "Was ist eine Rachensperre?",
@@ -1998,25 +1998,25 @@
     "answerC": "Aus Stacheln des Stachelschweines gefertigte Posen"
   },
   "333": {
-    "questionText": "Welche Fische sollten mit der Schnurstärke 0, 15 bis 0, 25 mm (monofil) beangelt werden?",
+    "questionText": "Welche Fische sollten mit der Schnurstärke 0,15 bis 0,25 mm (monofil) beangelt werden?",
     "answerA": "Plötzen, Rotfedern, Güstern, Barsche",
-    "answerB": "Alle Fische ohne Mindestmaß bzw. bis zu 25 cm Mindestmaß",
+    "answerB": "Alle Fische ohne Mindestmaß bzw. bis zu 25cm Mindestmaß",
     "answerC": "Hechte, Zander, Großkarpfen, Aale, Rapfen, Quappen"
   },
   "334": {
-    "questionText": "Welche Fische sollten mit der Schnurstärke 0, 25 bis 0, 35 mm(monofil) beangelt werden?",
+    "questionText": "Welche Fische sollten mit der Schnurstärke 0,25 bis 0,35 mm(monofil) beangelt werden?",
     "answerA": "Karpfen, Aale, Bleie, Rapfen, Barben",
-    "answerB": "Fische mit einem Mindestmaß bis 15 cm",
+    "answerB": "Fische mit einem Mindestmaß bis 15cm",
     "answerC": "Welse, Großhechte, Meeresfische wie Dorsch, Köhler, Lachs, Leng usw."
   },
   "335": {
-    "questionText": "Welche Fische sollten mit der Schnurstärke 0, 35 bis 0, 45 mm(monofil) beangelt werden?",
+    "questionText": "Welche Fische sollten mit der Schnurstärke 0,35 bis 0,45 mm(monofil) beangelt werden?",
     "answerA": "Hechte, Zander, Großkarpfen, Aale, Rapfen",
     "answerB": "Hasel, Barbe",
     "answerC": "Ukeleis, Plötzen, Rotfedern, Güstern, Aland"
   },
   "336": {
-    "questionText": "Welche Fische sollten mit der Schnurstärke 0, 45 bis 0, 60 mm(monofil) beangelt werden?",
+    "questionText": "Welche Fische sollten mit der Schnurstärke 0,45 bis 0,60 mm(monofil) beangelt werden?",
     "answerA": "Welse, Groß-Hechte, Meeresfische (z. B. Groß-Dorsche, Heilbutt)",
     "answerB": "Bleie, Giebel",
     "answerC": "Forellen, Barsche, Aale, Schleie"
@@ -2138,7 +2138,7 @@
   "356": {
     "questionText": "Wie schützt man sich vor dem Durchbeißen, -reiben der Angelschnur beim Raubfischfang?",
     "answerA": "Durch Verwendung eines Stahlvorfaches",
-    "answerB": "Durch Verwendung mindestens 0, 30 mm starker monofiler Schnur.",
+    "answerB": "Durch Verwendung mindestens 0,30 mm starker monofiler Schnur.",
     "answerC": "Durch vorsichtigen Drill des Fisches"
   },
   "357": {
@@ -2247,7 +2247,7 @@
     "questionText": "Muss eine Quappe vor dem Töten betäubt werden?",
     "answerA": "Ja, da sie nicht zu den von dieser Regelung ausgenommen  Fischarten zählt.",
     "answerB": "Nein, da sie zu den von dieser Regelung ausgenommenen Fischarten gehört.",
-    "answerC": "Ja, wenn das Maß von 60 cm überschritten wird."
+    "answerC": "Ja, wenn das Maß von 60cm überschritten wird."
   },
   "375": {
     "questionText": "Ein Eisangler weidet den gefangenen Fisch aus. Darf er die Eingeweide in das Eisloch geben?",
@@ -2568,7 +2568,7 @@
     "answerC": "Eine ausreichende Futterversorgung"
   },
   "428": {
-    "questionText": "Dürfen in einem Fluss gefangene Karpfen mit einer Länge von 15 cm als Köderfische verwendet werden?",
+    "questionText": "Dürfen in einem Fluss gefangene Karpfen mit einer Länge von 15cm als Köderfische verwendet werden?",
     "answerA": "Nein",
     "answerB": "Ja, wenn sie zur Verwendung als Satzfische nicht geeignet sind.",
     "answerC": "Ja"
@@ -2588,7 +2588,7 @@
   "431": {
     "questionText": "Darf sich der Angler einen Schlammpeitzger aneignen?",
     "answerA": "Nein, es handelt sich um eine ganzjährig geschützte Fischart.",
-    "answerB": "Ja, bei Erreichen einer Länge von 10 cm",
+    "answerB": "Ja, bei Erreichen einer Länge von 10cm",
     "answerC": "Ja, vom 1. Mai bis 31."
   },
   "432": {
@@ -2617,15 +2617,15 @@
   },
   "436": {
     "questionText": "Welches Mindestmaß gilt für den Hecht?",
-    "answerA": "45 cm",
-    "answerB": "55 cm",
-    "answerC": "60 cm"
+    "answerA": "45cm",
+    "answerB": "55cm",
+    "answerC": "60cm"
   },
   "437": {
     "questionText": "Welches Mindestmaß gilt für den Karpfen?",
-    "answerA": "35 cm",
-    "answerB": "45 cm",
-    "answerC": "60 cm"
+    "answerA": "35cm",
+    "answerB": "45cm",
+    "answerC": "60cm"
   },
   "438": {
     "questionText": "Unter welchen Bedingungen dürfen geangelte Fische im Setzkescher gehältert werden?",
@@ -2658,8 +2658,8 @@
     "answerC": "Nein, das Schmerzempfinden setzt aus."
   },
   "443": {
-    "questionText": "Darf der Angler den gefangenen Hecht mit einer Größe von 40 cm verwerten, wenn der Eigentümer eines Fließgewässers ihm das gestattet?",
-    "answerA": "Nein, das Mindestmaß beträgt 45 cm.",
+    "questionText": "Darf der Angler den gefangenen Hecht mit einer Größe von 40cm verwerten, wenn der Eigentümer eines Fließgewässers ihm das gestattet?",
+    "answerA": "Nein, das Mindestmaß beträgt 45cm.",
     "answerB": "Ja",
     "answerC": "Ja, der Hecht hat kein Mindestmaß."
   },
@@ -2880,7 +2880,7 @@
     "answerC": "Ja, mit Ausnahme der Nord- und Ostseeländer"
   },
   "480": {
-    "questionText": "Ist die ökologisch verträgliche Nutzung abgestorbener Teile von Schil und Rohrbeständen Bestandteil des Fischereirechtes?",
+    "questionText": "Ist die ökologisch verträgliche Nutzung abgestorbener Teile von Schilf und Rohrbeständen Bestandteil des Fischereirechtes?",
     "answerA": "Ja",
     "answerB": "Nein, die Schilf- und Rohrnutzung obliegt der verarbeitenden Industrie.",
     "answerC": "Nein, das Fischereirecht gibt lediglich die Befugnis zum Fang und zur Aneignung von Fischen."
@@ -2947,15 +2947,15 @@
   },
   "491": {
     "questionText": "Die untere Fischereibehörde ist ...",
-    "answerA": "Der jeweilige Landkreis bzw.",
-    "answerB": "die kreisfreie Stadt.",
-    "answerC": "Das Landesamt für Verbraucherschutz, Landwirtschaft und Flurneuordnung."
+    "answerA": "Der jeweilige Landkreis bzw. die kreisfreie Stadt.",
+    "answerB": "Das Landesamt für Verbraucherschutz, Landwirtschaft und Flurneuordnung.",
+    "answerC": "Das Ministerium für Ländliche Entwicklung, Umwelt und Verbraucherschutz."
   },
   "492": {
     "questionText": "Mit welchem Alter kann in Brandenburg frühestens die Anglerprüfung abgelegt werden?",
-    "answerA": "Mit 14",
-    "answerB": "Jahren Mit 8",
-    "answerC": "Jahren Mit 10"
+    "answerA": "Mit 14 Jahren",
+    "answerB": "Mit 8 Jahren",
+    "answerC": "Mit 10 Jahren"
   },
   "493": {
     "questionText": "Dürfen Fischspeere oder ähnliche Fanggeräte im Land Brandenburg beim Fischfang verwendet werden?",
@@ -3139,9 +3139,9 @@
   },
   "523": {
     "questionText": "Welches Mindestmaß hat die Quappe?",
-    "answerA": "30 cm",
-    "answerB": "20 cm",
-    "answerC": "10 cm"
+    "answerA": "30cm",
+    "answerB": "20cm",
+    "answerC": "10cm"
   },
   "524": {
     "questionText": "Ist es statthaft, ausgelegte Angelgeräte unbeaufsichtigt zu lassen?",
@@ -3199,15 +3199,15 @@
   },
   "533": {
     "questionText": "Bis zu welcher Seitenlänge darf ein Senknetz zum Köderfischfang verwendet werden?",
-    "answerA": "Bis zu 120 cm",
-    "answerB": "Bis zu 130 cm",
-    "answerC": "Bis zu 125 cm"
+    "answerA": "Bis zu 120cm",
+    "answerB": "Bis zu 130cm",
+    "answerC": "Bis zu 125cm"
   },
   "534": {
     "questionText": "Wozu darf ein Senknetz durch den Angler verwendet werden?",
     "answerA": "Zum Köderfischfang",
     "answerB": "Zum Fang von Blankaalen",
-    "answerC": "Zum Fang von Satzaalen(kleiner als 45 cm)"
+    "answerC": "Zum Fang von Satzaalen(kleiner als 45cm)"
   },
   "535": {
     "questionText": "Wie viele einschenklige Haken darf die Handangel beim Friedfischfang mit tierischen Ködern haben?",
@@ -3367,39 +3367,39 @@
   },
   "561": {
     "questionText": "Welches Mindestmaß hat der Aland?",
-    "answerA": "30 cm",
-    "answerB": "45 cm",
-    "answerC": "15 cm"
+    "answerA": "30cm",
+    "answerB": "45cm",
+    "answerC": "15cm"
   },
   "562": {
     "questionText": "Welches Mindestmaß hat die Äsche?",
-    "answerA": "30 cm",
-    "answerB": "25 cm",
-    "answerC": "15 cm"
+    "answerA": "30cm",
+    "answerB": "25cm",
+    "answerC": "15cm"
   },
   "563": {
     "questionText": "Welches Mindestmaß hat die Bachforelle?",
-    "answerA": "30 cm",
-    "answerB": "45 cm",
-    "answerC": "15 cm"
+    "answerA": "30cm",
+    "answerB": "45cm",
+    "answerC": "15cm"
   },
   "564": {
     "questionText": "Welches Mindestmaß hat die Barbe?",
-    "answerA": "40 cm",
-    "answerB": "45 cm",
-    "answerC": "30 cm"
+    "answerA": "40cm",
+    "answerB": "45cm",
+    "answerC": "30cm"
   },
   "565": {
     "questionText": "Welches Mindestmaß hat der Karpfen?",
-    "answerA": "35 cm",
-    "answerB": "45 cm",
-    "answerC": "30 cm"
+    "answerA": "35cm",
+    "answerB": "45cm",
+    "answerC": "30cm"
   },
   "566": {
     "questionText": "Welches Mindestmaß hat die Zope?",
-    "answerA": "20 cm",
-    "answerB": "60 cm",
-    "answerC": "80 cm"
+    "answerA": "20cm",
+    "answerB": "60cm",
+    "answerC": "80cm"
   },
   "567": {
     "questionText": "Welche der genannten Fischarten ist ganzjährig geschont?",

@@ -44,55 +44,57 @@ class Quiz {
   }
 
   fun getNextQuestion(): RandomQuestion {
-    var questionId = 0
+    var questionId = -1
     if (progress.new.isNotEmpty()) {
       questionId = progress.new[0]
     } else {
       val listId = Random.nextInt(0, 100)
       when {
-        progress.wrong.isNotEmpty() && listId < 60 -> {
-          val questionNumber = if (progress.wrong.size == 1) {
-            0
-          } else {
-            Random.nextInt(0, progress.wrong.size - 1)
-          }
-          questionId = progress.wrong[questionNumber]
+        progress.wrong.isNotEmpty() && listId < 80 -> {
+          questionId = getRandomQuestionIdFromList(progress.wrong)
         }
-        progress.correct.isNotEmpty() && listId < 90 -> {
-          val questionNumber = if (progress.correct.size == 1) {
-            0
-          } else {
-            Random.nextInt(0, progress.correct.size - 1)
-          }
-          questionId = progress.correct.keys.toIntArray()[questionNumber]
+        progress.correct.isNotEmpty() -> {
+          questionId = getRandomQuestionIdFromList(ArrayList(progress.correct.keys))
         }
-        progress.save.isNotEmpty() -> {
-          val questionNumber = if (progress.save.size == 1) {
-            0
-          } else {
-            Random.nextInt(0, progress.save.size - 1)
-          }
-          questionId = progress.save[questionNumber]
+        progress.wrong.isNotEmpty() -> {
+          questionId = getRandomQuestionIdFromList(progress.wrong)
         }
+
       }
     }
-    randomQuestion = RandomQuestion(questions[questionId] ?: error("not found"), questionId)
+    if(questionId == -1) {
+     randomQuestion = RandomQuestion(Question("The END", "Ready for test!", "Liked the app", "Petri heil"), -1);
+    } else {
+      randomQuestion = RandomQuestion(questions[questionId] ?: error("not found"), questionId)
+    }
     return randomQuestion
   }
 
-  fun getCorrectPercent(): Int {
-    return getCorrectPercent(
-      progress.save.size,
-      progress.correct.size,
-      progress.wrong.size,
-      progress.new.size
-    ).roundToInt()
+  fun getRandomQuestionIdFromList(list: List<Int>): Int {
+    val questionNumber = if (list.size == 1) {
+      0
+    } else {
+      Random.nextInt(0, progress.wrong.size - 1)
+    }
+    return list[questionNumber]
   }
 
-  fun getCorrectPercent(saveSize: Int, correctSize: Int, wrongSize: Int, newSize: Int): Double {
-    val corrects = saveSize.plus(correctSize)
-    val wrongs = wrongSize.plus(newSize)
-    return (100.00 / wrongs.plus(corrects)) * corrects
+  fun getProcessNumbers(): String {
+//    return String.format("%d %d %d %d", progress.new.size, progress.wrong.size, progress.correct.size, progress.save.size)
+    return getSavePercent().toString() + "% | " + getCorrectPercent().toString() +"%"
+  }
+
+  fun getCorrectPercent(): Int {
+    return getCorrectPercent(progress.correct.size).roundToInt()
+  }
+
+  fun getSavePercent(): Int {
+    return getCorrectPercent(progress.save.size).roundToInt()
+  }
+
+  fun getCorrectPercent(num: Int): Double {
+    val total = progress.save.size + progress.correct.size + progress.wrong.size + progress.new.size
+    return (100.00 / total) * num
   }
 
   fun saveProgress(file: File) {

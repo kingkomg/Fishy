@@ -54,6 +54,7 @@ class MainActivity : AppCompatActivity(), View.OnClickListener {
     quiz.loadQuestions(resources.openRawResource(R.raw.questions).bufferedReader().use { it.readText() })
     quiz.loadProgress(File(baseContext.filesDir, "progress"))
     initQuestion()
+    updateProgress()
   }
 
   fun checkAnswer(selected: Int) {
@@ -88,7 +89,8 @@ class MainActivity : AppCompatActivity(), View.OnClickListener {
   }
 
   fun updateProgress() {
-    progressText.text = quiz.getCorrectPercent().toString()
+    progressText.text = quiz.getProcessNumbers()
+    progressBar.secondaryProgress = quiz.getSavePercent()
     progressBar.progress = quiz.getCorrectPercent()
   }
 

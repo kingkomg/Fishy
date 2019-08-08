@@ -46,7 +46,7 @@ class Progress {
       }
       correct.containsKey(questionId) -> {
         val corrects = correct[questionId]!!.plus(1)
-        if (corrects >= 5) {
+        if (corrects >= 3) {
           correct.remove(questionId)
           save.add(questionId)
         } else {
