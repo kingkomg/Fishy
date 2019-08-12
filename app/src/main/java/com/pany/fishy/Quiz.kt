@@ -30,8 +30,12 @@ class Quiz {
       progress = Progress()
       progress.new = questions.keys.toMutableList()
     } else {
-      progress = Gson().fromJson(text, Progress::class.java)
+      setProgress(Gson().fromJson(text, Progress::class.java))
     }
+  }
+
+  fun setProgress(progress: Progress) {
+    this.progress = progress
   }
 
   fun evaluate(selected: Int): Int {
@@ -45,43 +49,35 @@ class Quiz {
 
   fun getNextQuestion(): RandomQuestion {
     var questionId = -1
+    val questionsLeft = progress.wrong.size + progress.correct.size
     if (progress.new.isNotEmpty()) {
       questionId = progress.new[0]
+    } else if (questionsLeft == 0) {
+      randomQuestion = RandomQuestion(
+        Question(
+          "The END",
+          "Ready for test!",
+          "Liked the app",
+          "Petri heil"
+        ), questionId
+      )
     } else {
-      val listId = Random.nextInt(0, 100)
-      when {
-        progress.wrong.isNotEmpty() && listId < 80 -> {
-          questionId = getRandomQuestionIdFromList(progress.wrong)
-        }
-        progress.correct.isNotEmpty() -> {
-          questionId = getRandomQuestionIdFromList(ArrayList(progress.correct.keys))
-        }
-        progress.wrong.isNotEmpty() -> {
-          questionId = getRandomQuestionIdFromList(progress.wrong)
-        }
-
+      val itemNumber = Random.nextInt(1, questionsLeft)
+      if (itemNumber <= progress.wrong.size) {
+        questionId = progress.wrong[itemNumber - 1]
+      } else {
+        questionId = ArrayList(progress.correct.keys)[itemNumber - progress.wrong.size - 1]
       }
     }
-    if(questionId == -1) {
-     randomQuestion = RandomQuestion(Question("The END", "Ready for test!", "Liked the app", "Petri heil"), -1);
-    } else {
+    if (questionId != -1) {
       randomQuestion = RandomQuestion(questions[questionId] ?: error("not found"), questionId)
     }
     return randomQuestion
   }
 
-  fun getRandomQuestionIdFromList(list: List<Int>): Int {
-    val questionNumber = if (list.size == 1) {
-      0
-    } else {
-      Random.nextInt(0, progress.wrong.size - 1)
-    }
-    return list[questionNumber]
-  }
-
   fun getProcessNumbers(): String {
 //    return String.format("%d %d %d %d", progress.new.size, progress.wrong.size, progress.correct.size, progress.save.size)
-    return getSavePercent().toString() + "% | " + getCorrectPercent().toString() +"%"
+    return getSavePercent().toString() + "% | " + getCorrectPercent().toString() + "%"
   }
 
   fun getCorrectPercent(): Int {
@@ -92,7 +88,7 @@ class Quiz {
     return getCorrectPercent(progress.save.size).roundToInt()
   }
 
-  fun getCorrectPercent(num: Int): Double {
+  private fun getCorrectPercent(num: Int): Double {
     val total = progress.save.size + progress.correct.size + progress.wrong.size + progress.new.size
     return (100.00 / total) * num
   }

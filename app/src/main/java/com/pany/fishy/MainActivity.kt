@@ -49,7 +49,7 @@ class MainActivity : AppCompatActivity(), View.OnClickListener {
     }
   }
 
-  fun startQuiz() {
+  private fun startQuiz() {
     quiz = Quiz()
     quiz.loadQuestions(resources.openRawResource(R.raw.questions).bufferedReader().use { it.readText() })
     quiz.loadProgress(File(baseContext.filesDir, "progress"))
@@ -57,8 +57,8 @@ class MainActivity : AppCompatActivity(), View.OnClickListener {
     updateProgress()
   }
 
-  fun checkAnswer(selected: Int) {
-    setAnswerButtonClickablity(false)
+  private fun checkAnswer(selected: Int) {
+    setAnswerButtonClickable(false)
 
     val correct = quiz.evaluate(selected)
     if (correct == selected) {
@@ -71,10 +71,10 @@ class MainActivity : AppCompatActivity(), View.OnClickListener {
     quiz.saveProgress(progressFile)
   }
 
-  fun initQuestion() {
+  private fun initQuestion() {
     val nextQuestion = quiz.getNextQuestion()
     textView.text = nextQuestion.questionText
-    setAnswerButtonClickablity(true)
+    setAnswerButtonClickable(true)
     setButtonColor(buttons[0], android.R.color.white)
     buttons[0].text = nextQuestion.answerA
     setButtonColor(buttons[1], android.R.color.white)
@@ -83,22 +83,22 @@ class MainActivity : AppCompatActivity(), View.OnClickListener {
     buttons[2].text = nextQuestion.answerC
   }
 
-  fun resetProgress() {
+  private fun resetProgress() {
     quiz.resetProgress(progressFile)
     updateProgress()
   }
 
-  fun updateProgress() {
+  private fun updateProgress() {
     progressText.text = quiz.getProcessNumbers()
     progressBar.secondaryProgress = quiz.getSavePercent()
-    progressBar.progress = quiz.getCorrectPercent()
+    progressBar.progress = quiz.getCorrectPercent() + quiz.getSavePercent()
   }
 
-  fun setButtonColor(button: Button, color: Int) {
+  private fun setButtonColor(button: Button, color: Int) {
     button.setBackgroundColor(resources.getColor(color, this.theme))
   }
 
-  fun setAnswerButtonClickablity(clickable: Boolean) {
+  private fun setAnswerButtonClickable(clickable: Boolean) {
     buttons[0].isClickable = clickable
     buttons[1].isClickable = clickable
     buttons[2].isClickable = clickable
