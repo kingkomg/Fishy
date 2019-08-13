@@ -76,8 +76,7 @@ class Quiz {
   }
 
   fun getProcessNumbers(): String {
-//    return String.format("%d %d %d %d", progress.new.size, progress.wrong.size, progress.correct.size, progress.save.size)
-    return getSavePercent().toString() + "% | " + getCorrectPercent().toString() + "%"
+    return getSavePercent().toString() + "% | " + (getSavePercent() + getCorrectPercent()).toString() + "%"
   }
 
   fun getCorrectPercent(): Int {

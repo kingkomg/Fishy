@@ -438,7 +438,7 @@
     "answerC": "Hüpferlinge (Copepoden)"
   },
   "73": {
-    "questionText": "Fischbrut ernährt sich vorwiegend.{3}",
+    "questionText": "Fischbrut ernährt sich vorwiegend...",
     "answerA": "von tierischem Plankton.",
     "answerB": "von kleinen Schnecken und Muscheln.",
     "answerC": "von am Boden lebenden Nährtieren."
@@ -2971,7 +2971,7 @@
   },
   "495": {
     "questionText": "Wer ist zur Ausgabe von Angelkarten berechtigt?",
-    "answerA": "Der Fischereiausübungsberech tigte",
+    "answerA": "Der Fischereiausübungsberechtigte",
     "answerB": "Nur die untere Fischereibehörde",
     "answerC": "Der Fischereibeirat"
   },
